@@ -1,0 +1,108 @@
+25-Oct-87 15:59:52 XZILCH started.  Load is  0.15.
+PS:<INTERLOGIC>XZILCH.EXE ZORK1 /NI 
+
+
+Compiling SS:<GERMAN>ZORK1.ZIL.13
+[XZIP instructions]
+Renovated ZORK I: The Great Underground Empire
+
+Loading SS:<GERMAN>TELLS.ZIL.45 and compiling it.
+Abstracting SS:<GERMAN>TELLS.
+Loading SS:<GERMAN>SYNTAX.ZIL.23 and compiling it.
+Loading SS:<GERMAN>DUNGEON.ZIL.31 and compiling it.
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (EAST The door is boarded and you can't remove the boards.)
+ OBJECT WEST-OF-HOUSE 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (SOUTH The windows are all boarded.) OBJECT NORTH-OF-HOUSE 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (NORTH The windows are all boarded.) OBJECT SOUTH-OF-HOUSE 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP There is no tree here suitable for climbing.) OBJECT 
+FOREST-1 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP There is no tree here suitable for climbing.) OBJECT 
+FOREST-2 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP The mountains are impassable.) OBJECT MOUNTAINS 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP There is no tree here suitable for climbing.) OBJECT 
+FOREST-3 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot climb any higher.) OBJECT UP-A-TREE 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (NORTH The forest becomes impenetrable to the north.) 
+OBJECT GRATING-CLEARING 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP There is no tree here suitable for climbing.) OBJECT 
+CLEARING 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (WEST
+You try to ascend the ramp, but it is impossible, and you slide back down.) 
+OBJECT CELLAR 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (DOWN
+The chasm probably leads straight to the infernal regions.) OBJECT EAST-OF-CHASM
+ 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (DOWN The dam blocks your way.) OBJECT RESERVOIR GIN--
+GOUT  TIME=8.4430003
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (WEST
+The stream emerges from a spot too small for you to enter.) OBJECT STREAM-VIEW 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP The channel is too narrow.) OBJECT IN-STREAM 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (SOUTH It is too narrow for most insects.) OBJECT DAMP-CAVE
+ 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (DOWN Are you out of your mind?) OBJECT CHASM-ROOM 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot reach the rope.) OBJECT TORCH-ROOM 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot go upstream due to strong currents.) OBJECT 
+RIVER-1 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot go upstream due to strong currents.) OBJECT 
+RIVER-2 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot go upstream due to strong currents.) OBJECT 
+RIVER-3 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot go upstream due to strong currents.) OBJECT 
+RIVER-4 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (UP You cannot go upstream due to strong currents.) OBJECT 
+RIVER-5 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (DOWN It's a long way...) OBJECT ARAGAIN-FALLS 
+
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (SOUTH Storm-tossed trees block your way.) OBJECT 
+CANYON-VIEW 
+ *** Compilation error: PROPERTY-DOESNT-MATCH-SPEC
+    Relevant values: (DOWN You wouldn't fit and would die if you could.) OBJECT 
+SHAFT-ROOM 
+Abstracting SS:<GERMAN>DUNGEON.
+Loading SS:<GERMAN>GLOBALS.ZIL.45 and compiling it.
+Abstracting SS:<GERMAN>GLOBALS.
+Loading SS:<GERMAN>CLOCK.ZIL.5 and compiling it.
+Abstracting SS:<GERMAN>CLOCK.
+Loading SS:<GERMAN>LOOP.ZIL.29 and compiling it.Command received from user JEFF.
+Killing plan WASTE-MIMC.PLAN.2.
+
+Abstracting SS:<GERMAN>LOOP.
+Loading SS:<GERMAN>PARSER.ZIL.57 and compiling it.Command received from user JEFF.
+Killing plan WASTE-MIMC.PLAN.1.
+Compiler killed.
+Compiler died.
+Used 1:43.7 in 00:02:24.

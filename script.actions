@@ -1,0 +1,1706 @@
+
+LOOK  (NOTE: THIS IS IN "WEST OF HOUSE" AT END OF GAME)
+" A secret path leads southwest into the forest."
+
+
+ENTER HOUSE
+"The boards are securely fastened."
+
+
+BRUSH MY TEETH
+"Dental hygiene is highly recommended, but it's not clear what you
+want to brush them with."
+
+
+BRUSH MY TEETH WITH (THING)
+"A nice idea, but with a (THING)?"
+
+
+FIND WALL
+"The west wall is solid granite here."
+
+
+TAKE WALL
+"It's solid granite."
+
+
+READ WALL
+"It only SAYS "Granite Wall.""
+
+
+LOOK AT WALL
+"The wall isn't granite."
+"Die Wand ist nicht aus festem Stein."
+
+LOOK AT WALL
+"There is no granite wall here."
+"Hier gibt es keine Wand aus Stein."
+
+FIND SONGBIRD
+"The songbird is not here but is probably nearby."
+
+
+FOLLOW SONGBIRD
+"It can't be followed."
+
+LOOK AT SONGBIRD
+"You can't see any songbird here."
+
+
+FIND HOUSE (NOTE: WHEN IT'S RIGHT HERE)
+"Why not find your brains?"
+
+
+FIND HOUSE
+"It seems to be to the west."
+
+
+FIND HOUSE
+"It was here just a minute ago...."
+
+
+ENTER HOUSE
+"You're not at the house."
+
+
+FIND HOUSE
+"It's right here! Are you blind or something?"
+
+
+GET INTO THE HOUSE
+"The window is closed."
+
+
+GET INTO THE HOUSE
+"It's not clear how you could get in from here."
+
+
+BURN THE HOUSE
+"You must be joking."
+
+
+WALK AROUND FOREST
+"You aren't even in the forest."
+
+
+LEAVE THE FOREST
+"You will have to specify a direction."
+
+
+FIND THE FOREST
+"You cannot see the forest for the trees."
+
+
+LISTEN TO THE FOREST
+"The pines and the hemlocks seem to be murmuring."
+
+
+CLIMB THE MOUNTAIN RANGE
+"Don't you believe me? The mountains are impassable!"
+
+
+DROP THE WATER
+"There is now a puddle in the bottom of the (THING)."
+
+
+POUR THE WATER IN THE THING
+"The water leaks out of the (THING) and evaporates immediately."
+
+
+TAKE THE WATER FROM BOTTLE
+"The bottle is closed."
+
+
+FILL BOTTLE WITH WATER
+"The bottle is now full of water."
+
+
+TAKE WATER
+"The water slips through your fingers."
+
+
+TAKE THE WATER
+"It's in the bottle. Perhaps you should take that instead."	
+
+
+DROP WATER
+"The water spills to the floor and evaporates immediately."
+
+
+THROW WATER
+"The water splashes on the walls and evaporates immediately."
+"Das Wasser spritzt auf die Waende und verdampft sofort."
+
+LOOK AT WINDOW
+"The window is slightly ajar, but not enough to allow entry."
+"Das Fenster ist einen Spalt offen, aber nicht genug, um Eintritt zu gewaehren. 
+
+LOOK IN WINDOW
+"You can see a clear area leading towards a forest."
+"Du kannst einen Kahlschlag sehen, der nach dem Wald fuehrt."
+
+LOOK IN WINDOW
+"You can see what appears to be a kitchen."
+"Du kannst einen Raum sehen, der aussieht wie eine Kueche
+
+TALK TO SPIRITS
+"The spirits jeer loudly and ignore you."
+"Die Geister johlen laut und beachten dich nicht."
+
+EXORCISE THE SPIRITS
+"Only the ceremony itself has any effect."
+"Nur das Zeremoniell hinterlaesst einen Eindruck."
+
+ATTACK THE SPIRITS
+"How can you attack a spirit with material objects?"
+"Wie kannst du einen Geist mit fuer Menschen bestimmten Waffen angreifen?"
+
+GIVE SOMETHING TO SPIRITS
+"You seem unable to interact with these spirits."
+"Es scheint dir unmoeglich mit diesen Geistern zu kommunizieren."
+
+RAISE THE BASKET
+"The basket is raised to the top of the shaft."
+"Der Korb ist zum oberen Ende des Schachts hinaufgezogen."
+
+LOWER THE BASKET
+"The basket is lowered to the bottom of the shaft."
+"Der Korb ist zum unteren Ende des Schacht hinabgelassen."
+
+LOOK
+"It is now pitch black."
+"Es ist jetzt stockdunkel."
+
+LOOK AT BASKET
+"The basket is at the other end of the chain."
+"Der Korb ist am anderen Ende der Kette."
+
+TAKE THE BASKET (NOTE: I.E., THE CAGE)
+"The cage is securely fastened to the iron chain."
+"Der Kaefig ist fest an der Kette angebracht."
+
+TAKE BAT
+"You can't reach him; he's on the ceiling."
+"Die kannst du nicht erreichten, die haengt von der Decke."
+
+(NOTE: IF YOU ENTER THE BAT-ROOM WITHOUT THE GARLIC)
+"The bat grabs you by the scruff of your neck and lifts you away...."
+"Die Fledermaus ergreift dich am Kragen und hebt dich hoch....."
+
+(NOTE: THE NOISE OF THE BAT)
+"    Fweep!"
+"Huiiiiii!"
+
+RING THE BELL
+"Ding, dong."
+"Bim,bam."
+
+TAKE BELL
+"The bell is very hot and cannot be taken."
+"Die Glocke ist sehr heiss und kann nicht angefasst werden."
+
+TOUCH THE BELL WITH LEAFLET
+"The leaflet burns and is consumed."
+"Der Zettel faengt Feuer und verbrennt."
+
+TOUCH BELL
+"The bell is too hot to touch."
+"Die Glocke ist zu heiss zum Anfassen."
+
+SMELL or KICK THE BELL
+"The heat from the bell is too intense."
+"Die Hitze, die die Glocke ausstroemt ist zu stark."
+
+POUR WATER ON BELL
+"The water cools the bell and is evaporated."
+"Das Wasser kuehlt die Glocke und verdampft."
+
+RING BELL
+"The bell is too hot to reach."
+"Die Glocke ist zu heiss, um dranzufassen."
+
+BREAK THE WINDOW
+"You can't break the windows open."
+"Du kannst die Fenster nicht zerschlagen, um sie zu oeffnen."
+
+REMOVE NAILS
+"The nails, deeply imbedded in the door, cannot be removed."
+"Die Naegel, die tief in der Tuer eingebettet sind, koennen nicht entfernt werden."
+
+GET INTO THE CRACK (NOTE: THIS IS THE CRACK IN THE DAMP CAVE AND "SPALTE")
+"You can't fit through the crack."
+"Du kannst durch diese Spalte nicht durch."
+
+CLIMB THE STAIRS
+"There are no stairs leading down."
+"Es gibt keine Treppe nach unten."
+
+(NOTE: THIS IS THE LAST MOVE OF THE GAME)
+"Inside the Barrow|
+As you enter the barrow, the door closes inexorably behind you.
+Around you it is dark, but ahead is an enormous cavern, brightly lit. Through its center runs a wide stream. Spanning the stream is a small woodenfootbridge, and beyond a path leads into a dark tunnel. Above the bridge, floating in the air, is a large sign. It reads:  All ye who
+stand before this bridge have completed a great and perilous adventure which has tested your wit and courage. You have mastered
+the first part of the ZORK trilogy. Those who pass over this bridge must be prepared to undertake an even greater adventure that will severely test your skill and bravery!|
+
+|"In dem Huegelgrab
+Wenn du das Huegelgrab betrittst, schliesst sich die Tuer fuer immer hinter dir. Um dich herum ist es finster, aber vor dir ist eine enorme Oeffnung, die hell erleuchtet ist. Durch ihr Mitte fliesst ein breiter Strom. Ueber den Strom spannt sich eine hoelzerne Fussgaengerbruecke. In der Luft schwebt ein grosses Schild. Darauf steht: Ihr alle, die ihr vor dieser Bruecke steht, habt eingrosses und beschwerliches Abenteuer hinter euch, das eure Intelligenz und euren Mut geprueft hat. Ihr habt den ersten Teil der drei Zorkspiele geschafft. Diejenigen, die ueber diese Bruecke schreiten muessen bereit sein ein noch groesseres Abenteuer zu erleben, das eure Leistung und Tapferkeit ernstlich pruefen wird!"
+The ZORK trilogy continues with "ZORK II: The Wizard of Frobozz" and
+is completed in "ZORK III: The Dungeon Master."
+Das dreiteilige ZORKspiel geht weiter mit "ZORK II: Der Zauberer(Hexenmeister?? depends on contents) of Frobozz" und endet mit "ZORK III: Der Kerkermeister."
+
+
+OPEN THE DOOR (NOTE: OF THE STONE BARROW)
+"The door is too heavy."
+"Die Tuer ist zu schwer."
+
+TAKE TROPHY CASE
+"The trophy case is securely fastened to the wall."
+"Der Trophaenschrank ist unverrueckbar an der Wand befestigt."
+
+(NOTE: THIS IS IN LIVING ROOM)
+"To the west is a cyclops-shaped opening in an old wooden door, above which is some strange gothic lettering..."
+"Nach Westen gibt es eine zyklopenfoermige Oeffnung in einer alten Tuer darueber gibt es einige uralte Runen."
+
+"...and a rug lying beside an open trap door."
+"...and a closed trap door at your feet."
+"...and an open trap door at your feet."
+"  und ein Teppich liegt neben einer Falltuer."
+"  und eine geschlossene Falltuere bei deinen Fuessen."
+"  und eine offene Falltuer bei deinen Fuessen."
+
+LOOK UNDER TRAPDOOR
+"You see a rickety staircase descending into darkness."
+"Du siehst eine wackelige Treppe, die in die Dunkelheit fuehrt."
+
+LOOK AT TRAPDOOR
+"It's closed."
+"Sie ist geschlossen."
+
+OPEN THE TRAPDOOR (NOTE: FROM THE CELLAR)
+"The door is locked from above."
+"Die Tuer ist von oben abgeschlossen."
+
+CLOSE THE TRAPDOOR
+"The door closes and locks."
+"Die Tuer geht zu und und verschliesst sich."
+
+LOOK AT CHIMNEY
+"The chimney leads upward, and looks climbable."
+"The chimney leads downward, and looks climbable."
+"Der Kamin geht nach oben und sieht erklimmbar aus. 
+"Der Kamin geht nach unten und sieht erklimmbar aus."
+
+CLIMB UP CHIMNEY
+"Going up empty-handed is a bad idea."
+"Mit leeren Haenden nach oben gehen ist keine gute Idee."
+
+DOWN
+"The trap door is closed."
+"Die Falltuer ist geschlossen."
+
+RAISE THE RUG
+"The rug is too heavy to lift, but in trying to take it you have noticed an irregularity beneath it."
+"Der Teppich ist zu schwer, um ihn aufzuheben, aber beim Versuchen hast du gemerkt, dass darunter eine Unebenheit ist."
+
+TAKE RUG
+"The rug is extremely heavy and cannot be carried."
+"Der Teppich ist aeusserst schwer und man kann ihn nicht tragen."
+
+SIT ON RUG
+"As you sit, you notice an irregularity underneath it. Rather than be uncomfortable, you stand up again."
+"Waehrend du da sitzt bemerkst du eine Unebenheit darunter. Um nicht unbequem zu sitzen, stehst du wieder auf. 
+
+SIT ON RUG
+"I suppose you think it's a magic carpet?"
+"Ich nehme an, dass du denkst, es waere ein fliegender Teppich?"
+
+TAKE KNIFE
+The theif swings the knife out of your reach.
+"Der Dieb schwingt das Messer ausser Reichweite."
+
+TAKE STILLETO
+"The stilleto seems white-hot. You can't hold on to it."
+"Das Stilett scheint gluehend heiss. Du kannst es nicht in der Hand halten."
+
+TALK TO TROLL
+"The troll isn't much of a conversationalist."
+"Der Troll ist nicht der ideale Gespraechspartner."
+
+LOOK AT TROLL
+"The troll, angered and humiliated, recovers his weapon. He appears to have an axe to grind with you."
+"Der Troll holt sich seine Waffe zurueck. Er ist boese und beschaemt. Er scheint mit dir Scheren schleifen zu wollen."
+
+LOOK AT TROLL
+"The troll, disarmed, cowers in terror, pleading for his life in the guttural tongue of the trolls."
+"Der jetzt entwaffnete Troll kriecht vor Furcht in die Ecke und bittet mit heiserer Trollstimme um sein Leben."
+
+LOOK AT TROLL
+"The troll stirs, quickly resuming a fighting stance."
+"Der Troll ruehrt sich und nimmt schnell eine Kampfstellung ein."
+
+LOOK AT TROLL
+"The troll scratches his head in confusion, then takes the axe."
+"Der Troll kratzt sich verwirrt am Kopf, dann nimmt er die Axt auf."
+
+GIVE AXE TO TROLL
+"You would have to get the first ??????, and that seems unlikely."
+"Du muesstest den ersten Schlag fuehren, aber das scheint unmoeglich."
+
+THROW THE BAG AT THE TROLL
+"The troll, who is remarkably coordinated, catches the knife
+and eats it hungrily. Poor troll, he dies from an internal hemorrhage and his carcass disappears in a sinister black fog."
+"Der Troll, der ungemein sportlich ist, faengt das Messer und frisst es mit Appetit. Armer Troll, er stirbt an einer inneren Blutung und sein Gerippe verschwindet in einem boesen schwarzen Nebel."
+
+GIVE BAG TO TROLL
+"The troll, who is not overly proud, graciously accepts the gift and eats it."
+"Der Troll, der keinen grossen Stolz hat, akzeptiert das Geschenk und frisst es."
+
+GIVE (THING) TO TROLL
+"The troll accepts the (THING) and, being for the moment sated, ??seated? (throws the (THING) back. Fortunately, the troll has poor control, and the (THING) falls to the floor. He does not look pleased."
+"Der Troll nimmt den (DING), und da er momentan sitzt wirft er den(DING) zurueck. Gott sei Dank hat der Troll kein Wurftalent und den (DING) faellt auf die Erde. Er sieht nicht sehr gluecklich aus.". 
+
+GIVE (THING) TO TROLL 
+"He accepts it and not having the most discriminating tastes, gleefully eats it." 
+"Er nimmt es an, und da er kein grosser Feinschmecker ist, frisst er es gierig.""
+
+
+MOVE THE TROLL
+"The troll spits in your face, grunting "Better luck next time" in a rather barbarous accent."
+"Der Troll spuckt dir ins Gesicht, zischt in einem recht primitiven Dialekt:"Naechstes Mal mehr Glueck."
+
+HIT THE TROLL
+"The troll laughs at your puny gesture."
+"Der Troll lacht ueber deine hilflose Geste".
+
+LISTEN TO THE TROLL
+"Every so often the troll says something, probably uncomplimentary, in his guttural tongue."
+"Hier und da sagt der Troll mit seiner heiseren Trollstimme etwas, das wohl beleidigend ist 
+
+
+TROLL, HELLO
+"Unfortunately, the troll can't hear you."
+"Leider kann der Troll dich nicht hoeren."
+
+LOOK
+"With the leaves moved, a grating is revealed."
+"Als die Blaetter aus dem Weg sind, zeigt sich ein Gitter."
+
+COUNT LEAVES
+"There are 69,105 leaves here."
+Es gibt hier 69.105 Blaetter.
+
+BURN LEAVES
+"The leaves burn."
+"Die Blaetter brennen."
+
+CUT LEAVES WITH KNIFE
+"You rustle the leaves around, making quite a mess."
+"Du stocherst in den Blaettern herum und machst eine beachtliche Schweinerei."
+
+MOVE LEAVES
+"Done."
+"Underneath the pile of leaves is a grating. As you release the leaves, the grating is once again concealed from view."
+"Geschafft."
+"Unter dem Blaetterhaufen ist ein Gitter. Wenn due die Blaetter fallen laesst, ist das Gitter wieder versteckt."
+
+LOOK
+"There is an open grating, descending into darkness."
+"Da befindet sich ein offenes Gitter, das in die Dunkelheit hinabfuehrt."
+
+LOOK
+"There is a grating securely fastened into the ground."
+"Da ist ein Gitter, das Fest im Boden befestigt ist."
+
+LOOK
+"You are in a small room near the maze. There are twisty passages in the immediate vicinity."
+"Du bist in einem kleinen Zimmer bei dem Irrgarten. Es gibt hier in der Naehe kleine verwirrende Gaenge .
+
+LOOK
+"Above you is an open grating with sunlight pouring in."
+"Ueber dir ist ein offenes Gitter, von wo das Sonnenlicht hereinflutet."
+LOOK
+"Above you is a grating."
+"Ueber dir ist ein Gitter."
+
+LOOK
+"Above you is a grating locked with a skull-and-crossbones lock."
+"Ueber dir ist ein Gitter, das mit einem Schloss aus einem Totenschaedl und Gebeinen gemacht verschlossen ist."
+
+LOCK GRATING
+"The grate is locked."
+"Das Gitter ist verschlossen."
+
+LOCK GRATING
+"You can't lock it from this side."
+"Du kannst es von innen nicht verschliessen."
+
+UNLOCK GRATING
+"The grate is unlocked."
+"Das Gitter ist nicht verschlossen."
+
+UNLOCK GRATING
+"You can't reach the lock from here."
+"Du kannst das Schloss von hier aus nicht erreichen."
+
+UNLOCK GRATING WITH KNIFE
+"Can you unlock a grating with a knife?"
+"Du kannst das Gitter nicht mit einem Messer aufschliessen."
+
+PICK THE LOCK
+"You can't pick the lock."
+"Du kannst das Schloss nicht knacken."
+
+OPEN THE GRATING
+"A pile of leaves falls onto your head and to the ground."
+"Ein Haufen Blaetter faellt auf deinen Kopf und auf die Erde."
+
+OPEN THE GRATING
+"The grating is locked."
+"Das Gitter ist verschlossen."
+
+PUT SWORD THROUGH GRATING
+"It won't fit through the grating."
+"Es passt nicht durch das Gitter."
+
+PUT THE (THING) THROUGH GRATING
+"The (THING) goes through the grating into the darkness below."
+"Der (Ding) verschwindet durch das Gitter in die Dunkelheit, die darunter herrscht."
+
+GO DOWN
+"You won't be able to get back up to the tunnel you are going through when it gets to the next room."
+
+CORRECTED ONE:
+"Wenn dieser Tunnel das naechste Zimmer erreicht kannst du ihn nicht mehr
+als R%uckweg benutzen." 
+
+TAKE RUSTY KNIFE
+"As you touch the rusty knife, your sword gives a single pulse of blinding blue light."
+"Als du das rostige Messer anfasst, blitzt dein Schwert kurz mit einem einem blendenden blauen Licht auf."
+
+TAKE THE SKELETON
+"A ghost appears in the room and is appalled at your desecration of the remains of a fellow adventurer. He casts a curse on your valuables and banishes them to the Land of the Living Dead. The ghost leaves, muttering obscenities."
+"Ein Gespenst erscheint in dem Zimmer und ist entsetzt ueber deine Schaendung der Leiche eines Abenteuererkollegen. Es verflucht deine Wertsachen, und verbannt sie in das Land der lebendigen Toten. Das Gespenst verschwindet unter einem Schwall von ordinaeren Ausdruecken. "
+
+LOOK AT TORCH
+,"The torch is burning."
+"Die Fackel brennt. 
+
+POUR WATER ON TORCH
+"The water evaporates before it gets close."
+"Das Wasser verdampft bevor es mit der Fackel in Beruehrung kommt."
+
+LOOK
+"Unfortunately, the mirror has been destroyed by your recklessness."
+"Leider ging der Spiegel durch deine Bloedheit kaputt.
+
+TOUCH THE MIRROR WITH THE (THING)
+"You feel a faint tingling transmitted through the (THING)."
+"Du fuehlst ein leichtes Kribbeln, das von dem (DING) ausgeht."
+
+(NOTE: YOU WILL BE TRANSPORTED TO OTHER MIRROR ROOM)
+"There is a rumble from deep within the earth and the room shakes."
+"Ein Grollen ertoent aus der Tiefe, so dass  der Raum bebt."
+
+LOOK AT MIRROR
+"The mirror is broken into many pieces."
+"Der Spiegel ist in viele Scherben zerbrochen."
+
+TAKE MIRROR
+"The mirror is many times your size. Give up."
+"Der Spiegel ist mehrmals so gross wie du. Gib's auf!"
+
+HIT MIRROR
+"You have broken the mirror. I hope you have a seven years' supply of good luck handy."
+"Du hast den Spiegel zerbrochen. Ich hoffe, du hast sieben Jahre Glueck zur Hand."
+
+HIT MIRROR
+"Haven't you done enough damage already?"
+"Hast du denn nicht schon genug Schaden angerichtet?"
+
+LOOK
+"A piece of rope descends from the railing above, ending some five feet above your head."
+"Ein Seil haengt von dem Gelaender runter und endet 3 Meter ueber deinem Kopf. (copy exact wording from Script.full.)
+
+LOOK
+"Hanging down from the railing is a rope which ends about ten feet from the floor below."
+"Von dem Gelaender haengt ein Seil, das etwa 3 Meter ueber dem Boden endet." (find correct wording in script.full)
+
+GO EAST
+"As you enter the dome you feel a strong pull as if from a wind drawing you over the railing and down.
+"Wenn du in die Kuppel trittst, fuehlst du einen starken Sog, wie von einem Wind, der dich ueber das Gelaender und nach unten reisst."
+EXORCISE THE SPIRITS (NOTE: NOT HOLDING BELL, BOOK AND CANDLE)
+"You must perform the ceremony."
+"Du musst diese Zeremonie durchfuehren."
+
+EXORICISE THE SPIRITS
+"You aren't equipped for an exorcism."
+"Fuer eine Austreibung bist du nicht vorbereitet."
+
+RING BELL
+"In your confusion, the candles drop to the ground (and they are out)."
+"In deiner Verwirrung fallen die Kerzen auf den Boden (und sie sind aus)."
+
+(NOTE: IF YOU TAKE TOO MUCH TIME)
+"The tension of this ceremony is broken, and the wraiths, amused but shaken at your clumsy attempt, resume their hideous jeering."
+"Der Bann dieser Zeremonie ist gebrochen, und die Geister, die zwar amuesiert, aber doch von deinem tolpatschigen Versuch gestoert sind, nehmen ihr schreckliches Geheule wieder auf."
+
+LOOK
+"The bell appears to have cooled down."
+"Die Glocke scheint sich abgekuehlt zu haben."
+
+LOOK
+"The water level behind the dam is low: The sluice gates have been opened. Water rushes through the dam and downstream."
+"Der Wasserstand hinter dem Damm ist niedrig. Die Schleusentore sind geoeffnet worden. Das Wasser braust durch den Damm flussabwaerts."
+
+LOOK
+"The sluice gates are open, and water rushes through the dam. The water level behind the dam is still high."
+"Die Schleusentore sind geoeffnet. Wasser braust durch den Damm. Der Wasserstand hinter dem Damm ist immer noch hoch."
+
+LOOK
+"The sluice gates are closed. The water level in the reservoir is quite low, but the level is rising quickly."
+"Die Schleusentore sind geschlossen. Der Wasserstand in dem Reservoir ist niedrig, aber er steigt schnell."
+
+TURN THE BOLT
+"The sluice gates close and water starts to collect behind the dam."
+"Die Schleusentore schliessen sich, und Wasser sammelt sich hinter dem Damm an."
+
+TURN THE BOLT
+"The sluice gates open and water pours through the dam."
+"Die Schleusentore oeffnen sich, und Wasser stroemt durch den Damm."
+
+TURN THE BOLT
+"The bolt won't turn with your best effort."
+"Die Schraube laesst sich trotz aller Versuche nicht drehen."
+
+TURN THE BOLT WITH THE (THING)
+"The bolt won't turn using the (THING)."
+"Die Schraube laesst sich mit dem (Ding) nicht drehen."
+
+OIL THE BOLT
+"Hmm. It appears the tube contained glue, not oil. Turning the bolt won't get any easier...."
+"O nein! Es sieht so aus, als ob die Tube nicht Oel, sondern Klebstoff enthalten hat. Das Schrauben wird dadurch nicht einfacher."
+
+TAKE THE BOLT or TAKE THE BUBBLE
+"It is an integral part of the control panel."
+"Es ist ein wichtiger Bestandteil der Schalttafel."
+
+(NOTE: IF YOU FILL THE RESERVOIR AND GET INTO BOAT)
+"The boat lifts gently out of the mud and is now floating on the reservoir."
+"Das Boot hebt sich leicht aus demSchlamm und treibt auf dem Wasser des Reservoirs." 
+
+(NOTE: YOU'RE IN DEEP CANYON WHEN WATER FLOWS)
+"A sound, like that of flowing water, starts to come from below."
+"Ein Geraeusch, wie das von fliessendem Wasser kann  von unten gehoert werden."
+
+(NOTE: IF YOU'RE IN LOUD ROOM)
+"All of a sudden, an alarmingly loud roaring sound fills the room. Filled with fear, you scramble away."
+"Ploetzlich fuellt ein alarmierend lautes Gebruell den Raum. Voller Furcht kriechst du davon."
+
+(NOTE: IF YOU'RE NEXT TO RESERVOIR)
+"You notice that the water level has risen to the point that it is impossible to cross."
+"Du merkst, dass der Wasserstand so hoch ist, dass man nicht mehr zu Fuss weiterkommt."
+
+(NOTE: WATER GOING OUT OF THE RESERVOIR)
+"The water level has dropped to the point at which the boat can no longer stay afloat. It sinks into the mud."
+"Der Wasserstand hat sich so weit gemindert, dass das Boot nicht mehr weiter schwimmen kann. Es sinkt in den Schlamm."
+
+(NOTE: DITTO)
+"The roar of rushing water is quieter now."
+"Das Getoese von dem brausenden Wasser ist jetzt ruhiger."
+(NOTE: DITTO)
+"The water level is now quite low here and you could easily cross over to the other side."
+"Der Wasserstand ist hier recht niedrig, und du koenntest hier leicht auf die andere Seite kommen. 
+
+READ THE BUTTONS (IN THE DAM MAINTENANCE ROOM)
+"They're greek to you."           should be Greek
+"Das kommt dir alles Spanisch  vor." the German uses Spanish!
+
+PUSH THE BLUE BUTTON (NOTE: IT FLOODS THE PLACE)
+"There is a rumbling sound and a stream of water appears to burst from the east wall of the room (apparently, a leak has occurred in a pipe)."
+"Da ist ein grollendes Geraeusch, und ein Strom von Wasser scheint von der Ostwand in das Zimmer hereinzubrechen (scheinbar  ein Rohr bruch).
+
+PUSH THE BLUE BUTTON
+"The blue button appears to be jammed."
+"Der blaue Knopf scheint, blockiert  zu sein. ."
+
+PUSH RED BUTTON
+"The lights within the room shut off."
+"Die Lichter im Raum gehen aus."
+
+PUSH RED BUTTON
+"The lights within the room come on."
+"Die Lichter im Raum gehen an."
+
+PUSH BROWN BUTTON
+"Click."
+"Klick"
+
+EXAMINE CHESTS
+"The chests are all empty."
+"Die Werkzeugkaesten sind alle leer."
+
+OPEN CHESTS
+"The chests are already open."
+"Die Werkzeugkaesten sind schon offen."
+
+(NOTE: THE ROOM IS FLOODING)
+"The water level here is now ...
+"Das Wasser steht hier jetzt
+(NOTE: TRANSLATE EACH OF THE FOLLOWING) ...
+"up to your ankles"
+"up to your shin."
+"up to your knees."
+"up to your hips."
+"up to your waist."
+"up to your chest."
+"up to your neck."
+"over your head."
+"high in your lungs."
+"bis an deine Knoechel."
+"bis andein Kinn."
+"bis an deine Knie."
+"bis an deine Taille."
+"bis an deine Brust."
+"bis an deinen Hals."
+"ueber deinen Kopf."
+
+
+APPLY PUTTY ON LEAK
+"By some miracle of Zorkian technology, you have managed to stop the leak in the dam."
+"Durch ein Wunder der Zorkschen Technologie ist es dir gelungen, das Leck im Damm zu beheben.
+
+OIL THE (THING)
+"The all-purpose gunk isn't a lubricant."
+"Das Allzweckschmierzeug dient nicht als Schmieroel."
+
+PUT (THING) IN TUBE
+"The tube refuses to accept anything."
+"Die Tube nimmt einfach nichts auf."
+
+SQUEEZE TUBE
+"The viscous material oozes into your hand."
+"Das widerliche Zeug quillt ueber deine ganze Hand."
+
+SQUEEZE TUBE
+"The tube is apparently empty."
+"Die Tube ist scheinbar leer."
+
+SQUEEZE TUBE
+"The tube is closed."
+"Die Tube ist zu."
+
+OPEN THE DAM
+"Sounds reasonable, but this isn't how."
+"Das klingt annehmbar, aber so geht es nicht."
+
+PLUG THE DAM WITH MY FINGER
+"Are you the little Dutch boy, then? Sorry, this is a big dam."
+"Bist du der kleine Gernegross, ja?  Zu dumm, das ist ein grosser Damm."
+
+PLUG THE DAM WITH THE (THING)
+"With a (THING)? Do you know how big this dam is? You could only stop a tiny leak with that."
+"Mit einem (Ding)? Weisst du wie gross der Damm ist? Du koenntest hoechstens ein winziges Leck damit stopfen."
+
+LOOK (NOTE: IN RESERVOIR SOUTH)
+"You are in a long room. To the north is a large lake, too deep to cross. You notice, however, that the water level appears to be dropping at a rapid rate. Before long, it might be possible to cross to the other side from here."
+"Du bist in einem laenglichen Zimmer. Nach Norden liegt ein grosser See. Er ist zu tief, ihn zu ueberqueren. Du merkst aber, dass der Wassterstand sich rapide senkt. Es wird nicht lange dauern, bis du den See ueberqueren kannst."
+
+(NOTE: DITTO)
+"You are in a long room, to the north of which is a wide area which was formerly a reservoir, but now is merely a stream. You notice, however, that the level of the stream is rising quickly and that before long it will be impossible to cross here."
+"Du bist in einem laenglichen Zimmer. Nach Norden gibt es eine weite Flaeche, die frueher ein Reservoir war, aber jetzt nur noch ein Fluss ist. Du bemerkst aber, dass der Wasserstand des Flusses sich rapide hebt, und dass es bald unmoeglich sein wird, ihn zu ueberqueren.
+
+(NOTE: IN THE RESERVOIR)
+"You notice that the water level here is rising rapidly. The currents are also becoming stronger. Staying here seems quite perilous!"
+"Du bemerkst, dass der Wasserstand sich hier rapide hebt. Die Stroemungen werden auch staerker. Hier zu bleiben, erscheint recht gefaehrlich."
+
+LOOK (NOTE: WHILE IN THE BOAT)
+"You are on the lake. Beaches can be seen north and south. Upstream a small stream enters the lake through a narrow cleft in the rocks. The dam can be seen downstream."
+"Du bist auf dem See. Nach Norden und Sueden kann man Straende sehen. Flussaufwaerts fliesst ein kleiner Fluss durch eine enge Rinne in den Felsen in den See hinein. Flussabwaerts kann man den Damm sehen."
+
+LOOK (NOTE: RESERVOIR NORTH)
+"You are in a large cavernous area. To the south is a wide lake, whose water level appears to be falling rapidly."
+"Du bist in einer weiten grottenartigen Gegend. Nach Sueden ist ein grosser See, dessen Wasserstand rapide zu fallen scheint."
+
+LOOK (NOTE: RESERVOIR NORTH)
+"You are in a cavernous area, to the south of which is a very wide stream. The level of the stream is rising rapidly, and it appears that before long it will be impossible to cross to the other side."
+"Du bist in einer grottenartigen Gegend. Nach Sueden ist ein sehr breiter Strom. Der Wasserstand des Stroms steigt rapide, und es scheint, dass es bald unmoeglich sein wird auf die andere Seite zu kommen."
+
+
+(DITTO)
+"You are in a large cavernous room, north of a large lake."
+"Du bist in einem grottenartigen Raum auf der Nordseite eines grossen Sees."
+
+THROW THE BOTTLE
+"The bottle hits the far wall and shatters."
+"Die Flasche trifft die gegenueberliegende Wand und zerschellt."
+
+BREAK THE BOTTLE
+"A brilliant maneuver destroys the bottle."
+"The water spills to the floor and evaporates."
+"Das Wasser spritzt auf den Boden und verdampft."
+
+TALK TO CYCLOPS
+"No use talking to him. He's fast asleep."
+"Es hat keinen Sinn mit ihm zu sprechen. Er schlaeft fest."
+
+TALK TO CYCLOPS
+"The cyclops prefers eating to making conversation."
+"Der Zyklop zieht das Essen der Unterhaltung vor."
+
+EXAMINE CYCLOPS
+"The cyclops is sleeping like a baby, albeit a very ugly one."
+"Der Zyklop schlaeft wie ein Engel, wenn auch ein haesslicher."
+
+WAKE UP CYCLOPS
+"The cyclops yawns and stares at the thing that woke him up."
+"Der Zyklop gaehnt und starrt das Ding an, das ihn aufgeweckt hat."
+
+EXAMINE CYCLOPS
+"A hungry cyclops is standing at the foot of the stairs."
+"Der hungrige Zyklop steht am Fuss der Treppe."
+
+GIVE LUNCH TO CYCLOPS
+"The cyclops says ""Mmm Mmm. I love hot peppers! But oh, could I use a drink. Perhaps I could drink the blood of that thing.""  From the gleam in his eye, it could be surmised that you are "that thing"."
+"Der Zyklop sagt:"Ei,ei. Ich liebe scharfe Pepperoni! Aber, oooh, ich koennte ich erst mal was zu Trinken brauchen. Vielleicht koennte ich das Blut von "diesem Ding" trinken".Aus dem listigen Aufleuchten seiner Augen kannst du  schliessen, dass du gemeint bist."
+
+GIVE WATER TO CYCLOPS
+"The cyclops takes the bottle, checks that it's open, and drinks the water. A moment later, he lets out a yawn that nearly blows you over, and then falls fast asleep (what did you put in that drink, anyway?)."
+"Der Zyklop nimmt die Flasche, prueft ihren Inhalt und trinkt das Wasser. Einen Augenblick spaeter oeffnet er seinen Mund zu einem Gaehnen, mit dem er dich beinahe verschluckt, dann schlaeft er fest ein.(Was hast du ihm denn bloss in das Wasser geschmuggelt?)
+
+GIVE WATER TO CYCLOPS
+"The cyclops apparently is not thirsty and refuses your generous offer."
+"Scheinbar ist der Zyklop nicht durstig und lehnt dein grosszuegiges Angebot ab."
+
+GIVE GARLIC TO CYCLOPS
+"The cyclops may be hungry, but there is a limit."
+"Vielleicht ist der Zyklop hungrig, aber auch er kennt seine Grenzen."
+
+GIVE (THING) TO CYCLOPS
+"The cyclops is not so stupid as to eat THAT!"
+"Der Zyklop ist nicht so dumm, dass er DAS essen wuerde!"
+
+HIT THE CYCLOPS
+""Do you think I'm as stupid as my father was?"", he says, dodging."
+""Meinst du, dass ich so dumm bin, wie mein Vater war?' sagt er, als er dir ausweicht. 
+
+HIT CYCLOPS
+"The cyclops shrugs but otherwise ignores your pitiful attempt."
+"Der Zyklop zuckt die Achseln und beachtet  deinen armseligen Versuch nicht weiter."
+
+HOLD CYCLOPS
+"The cyclops doesn't take kindly to being grabbed."
+"Es gefaellt dem Zyklopen nicht, dass du ihn angreifst."
+
+TIE UP THE CYCLOPS
+"You cannot tie the cyclops, though he is fit to be tied."
+"Du kannst den Zyklopen nicht fesseln, obwohl er gefesselt zu sein scheint."
+
+LISTEN TO CYCLOPS
+"You can hear his stomach rumbling."
+"Du kannst seinen Magen knurren hoeren."
+
+LOOK
+"The cyclops is sleeping blissfully at the foot of the stairs."
+"Der Zyklop schlaeft seig am Fusse der Treppe."
+
+LOOK (NOTE: AFTER CYCLOPS HAS RUN AWAY)
+"The east wall, previously solid, now has a cyclops-sized opening in it."
+"Die Ostwand, die frueher ganz war, zeigt jetzt eine zyklopenfoermige Oeffnung."
+
+LOOK
+"The cyclops is standing in the corner, eyeing you closely. I don't think he likes you very much. He looks extremely hungry, even for a cyclops."
+"Der Zyklop steht in der Ecke und beobachtet dich scharf. Ich glaube nicht, dass er dich mag. Er sieht sogar fuer einen Zyklopen ausgesprochen hungrig aus."
+
+LOOK
+"The cyclops, having eaten the hot peppers, appears to be gasping. His enflamed tongue protrudes from his man-sized mouth."
+"Der Zyklop scheint, nachdem er die scharfen Pepperoni gefressen hat, nach Atem zu ringen. Seine flammenrote Zunge haengt aus seinem menschengrossen Maul."      Jeff, we have to discuss whether we want to put the pepers back in, or do it with sour apples??? I've put the peppers into this, now we have to do it with full script.
+
+LOOK (NOTE: IN LOUD ROOM)
+"It is unbearably loud here, with an ear-splitting roar seeming to come from all around you. There is a pounding in your head which won't stop. With a tremendous effort, you scramble out of the room."
+"Es ist unertraeglich laut hier. Eine ohrenbetaeubendes Gebruell, kommt von allen Seiten auf dich zu  Dein Kopf droehnt ununterbrochen. Mit groesster Anstrengung verlaesst du dich den Raum."
+
+(NOTE: IF YOU TYPE MORE THAN ONE COMMAND IN THE LOUD ROOM)
+"The rest of your commands have been lost in the noise."
+"Deine anderen Befehle sind in dem Gebruell verloren gegangen."
+
+(NOTE: IF YOU TYPE NOTHING)
+"I beg your pardon?"
+"Bitte?"
+
+LOOK (NOTE: IN DEEP CANYON)
+" You can hear a loud roaring sound, like that of rushing water, from below."
+"Du kannst ein lautes Getoese, wie das Brausen von Wasser von unten hoeren."
+
+(NOTE: THE THIEF APPEARS) 
+"Your opponent, determining discretion to be the better part of valor, decides to terminate this little contretemps. With a rueful nod of his head, he steps backward into the gloom and disappears."
+"Dein Gegner,der entscheidet, dass Bescheidenheit auch eine Zier ist, entscheidet diesen kleinen Zwischenfall abzubrechen. Mit einem beschaemten Kopfnicken tritt er zurueck ins Dunkel  und verschwindet."
+
+(NOTE: HE LEAVES) 
+"The holder of the large bag just left, looking disgusted. Fortunately, he took nothing."
+"Der, der den grossen Sack traegt, ist gerade abgehauen. Er hatte die Nase voll. Gott sei Dank hat er nichts mitgenommen."
+
+
+(NOTE: DITTO)
+"A seedy-looking individual with a large bag just wandered through the room. On the way through, he quietly abstracted some valuables ... from the room, ...mumbling something about "Doing unto others before...""
+(NOTE: ALSO TRANSLATE "... from your possession ..." in place of "... from the room ...")
+"Ein uebelaussehender Typ mit einem grossen Sack ist gerade durchs Zimmer gelatscht. Auf dem Weg hat er ganz ruhig ein paar Wertgegenstaende aus dem  Zimmer mitgehen lassen,....dabei hat er etwas gemurmelt wie ...."Diene deinem Naechsten bevor......
+"....aus deinem Besitz"         "anstatt.......or statt des"........aus dem Zimmer, or von dem Zimmer"
+
+(NOTE: DITTO)
+"The thief just left, still carrying his large bag. You may not have noticed that he robbed you blind first."
+"Der Dieb ist gerade abgehauen, natuerlich trug er immer noch seinen grossen Sack. Du hast es vielleicht nicht bemerkt, aber er hat dich restlos ausgeraubt."
+
+(NOTE: DITTO)
+"You may not have noticed that he appropriated the valuables in the room."
+"Du hast vielleicht nicht gemerkt, dass er die Wertsachen im Zimmer abgestaubt hat."
+
+(NOTE: DITTO)
+"The thief, finding nothing of value, left disgusted."
+"Der Dieb, der nichts Wertvolles  finden konnte, ist veraergert abgehauen.
+
+(NOTE: DITTO)
+"A "lean and hungry" gentleman just wandered through, carrying a large bag. Finding nothing of value, he left disgruntled."
+"Ein hagerer, hungrigaussehender Herr latschte hier gerade durch. Er trug einen grossen Sack. Als er nichts Wertvolles finden konnte, zog er veraergert ab."
+
+(NOTE: DITTO)
+"The thief, finding nothing of value, left disgusted."
+"Der Dieb, der nichts Wertvolles finden konnte, zog wuetend ab."
+
+(NOTE: IF HE STEALS YOU IVORY TORCH)
+"The thief seems to have left you in the dark."
+"Der Dieb hat dich offensichtlich im Dunkeln gelassen 
+
+(NOTE: THIEF STEALS SOMETHING IN MAZE)
+"You hear, off in the distance, someone saying "My, I wonder what this fine (THING) is doing here.""
+"Irgendwo in der Ferne hoerst du jemanden sagen" Meine Guete, was dieses schoene (DING) hier wohl tut?""
+
+TALK TO THIEF
+"The thief is a strong, silent type."
+"Der Dieb ist einer von den Starken und Schweigsamen."
+
+THIEF, HELLO
+"The thief, being temporarily incapacitated, is unable to acknowledge your greeting with his usual graciousness."
+"Der Dieb, der momentan behindert ist, ist nicht in der Lage, deinen Gruss mit der ihm angeborenen Hoeflichkeit zu erwidern."
+
+THROW KNIFE AT THIEF
+"You evidently frightened the robber, though you didn't hit him. He flees, but the contents of his bag fall on the floor."
+"Du musst dem Raeuber Angst eingejagt haben, obwohl du ihn nicht getroffen hast. Er flieht, aber der Inhalt seines Sackes faellt auf den Boden."
+
+THROW KNIFE AT THIEF
+"You missed. The thief makes no attempt to take the knife, though it would be a fine addition to the collection in his bag. He does seem angered by your attempt."
+"Du hast nicht getroffen. Der Dieb macht keine Anstalten das Messer zu nehmen, obwohl es eine schoene Zugabe zu der Sammlung in seinem Sack waere. Er scheint, ueber deinen Versuch veraergert zu sein."
+
+THROW (THING) AT THIEF (NOTE: WHILE HE'S UNCONSCIOUS)
+"Your proposed victim suddenly recovers consciousness."
+"Dein  Opfer kommt ploetzlich zu sich."
+
+GIVE (THING) TO THIEF 
+"The thief places the (THING) in his bag and thanks you politely."
+"Der Dieb steckt das (DING) in seinen Sack und dankt dir hoeflich."
+
+GRAB THIEF
+"Once you got him, what would you do with him?"
+"Was willst du mit ihm machen, wenn du ihn hast?"
+
+EXAMINE THIEF
+"The thief is a slippery character with beady eyes that flit back and forth. He carries, along with an unmistakable arrogance, a large bag over his shoulder and a vicious stiletto, whose blade is aimed menacingly in your direction. I'd watch out if I were you."
+"Der Dieb ist ein schleimiger Geselle mit Eidechsenaugen die hin und her aeugeln. Mit unmissverstaendlicher Arroganz schleppt er einen grossen Sack mit sich herum. Ausserdem hat er ein gefaehrlich aussehendes Stilett, dessen Spitze bedrohlich gegen dich gerichtet ist. An deiner Stelle waere ich auf der Hut."
+LISTEN TO THIEF
+"The thief says nothing, as you have not been formally introduced."
+"Der Dieb schweigt, denn ihr seid einander ja noch nicht offiziell vorgestellt worden."
+
+(NOTE: WHILE FIGHTING THIEF)
+"The robber, somewhat surprised at this turn of events, nimbly retrieves his stiletto."
+"Der Raeuber,  von dieser Wendung der Dinge etwas ueberrascht, holt sich sein Stillett leichtfuessig zurueck."
+
+(NOTE: THIEF HAS DIED)
+"The chalice is now safe to take."
+"Jetzt kannst du dir den Pokal ohne Gefahr nehmen."
+KILL THIEF
+"As the thief dies, the power of his magic decreases, and his treasures reappear:"
+"Als der Dieb stirbt, schwindet seine Zauberkraft und seine Schaetze werden wieder sichtbar."
+
+
+(NOTE: HIS STOLEN TREASURES REMAIN)
+"His booty remains."
+"Seine Beute bleibt zurueck."
+
+(NOTE: HE ESCAPES)
+"The robber revives, briefly feigning continued unconsciousness, and, when he sees his moment, scrambles away from you."
+"Der Raeuber kommt zu sich. Fuer eine Weile taeuscht er weiterhin  Bewusstlosigkeit vor, dann als er die passende Gelegenheit findet, kriecht er weg von dir."
+
+TAKE THE LARGE BAG
+"Sadly for you, the robber collapsed on top of the bag. Trying to take it would wake him."
+"Zu deinem Nachteil ist der Raeuber auf dem Sack zusammengebrochen. Wenn du jetztversuchtest, den Sack wegzunehmen, wuerdest du ihn wecken."
+
+TAKE THE LARGE BAG (NOTE: HE'S HEALTHY NOW)
+"The bag will be taken over his dead body."
+"Der Sack wird auch ueber seine Leiche genommen."
+
+PUT (THING) IN LARGE BAG
+"It would be a good trick."
+"Das waere ein toller Trick."
+
+OPEN THE LARGE BAG
+"Getting close enough would be a good trick."
+"Nahe genug heranzukommen, waere ein toller Trick."
+
+EXAMINE THE LARGE BAG (NOTE: WHILE HE'S ON IT)
+"The bag is underneath the thief, so one can't say what, if anything, is inside."
+"Der Sack liegt unter dem Dieb, daher kann man nicht sagen, was darin ist, wenn ueberhaupt was drin ist."
+TAKE CHALICE FROM THIEF
+"You'd be stabbed in the back first."
+"Du wuerdest von hinten erstochen."
+
+PUT (THING) IN CHALICE
+"You can't. It's not a very good chalice, is it?"
+"Das gelingt dir nicht. Es ist kein guter Pokal, nicht wahr?"
+
+(NOTE: IF ANY TREASURE IS HERE)
+"The thief gestures mysteriously, and the treasures in the room suddenly vanish."
+"Der Dieb fuehrt einige mysterioese Gesten aus, und die Schaetze im Zimmer verschwinden."
+
+OPEN FRONT DOOR
+"The door cannot be opened."
+"Die Tuer kann nicht geoeffnet werden."
+
+BURN FRONT DOOR
+"You cannot burn this door."
+"Du kannst die Tuer nicht verbrennen."
+
+BREAK THE DOOR
+"You can't seem to damage the door."
+"Du kannst die Tuer nicht beschaedigen."
+
+LOOK BEHIND DOOR
+"It won't open."
+"Sie laesst sich nicht oeffnen."
+
+TAKE DEAD BODIES (NOTE: IN HADES)
+"A force keeps you from taking the bodies."
+"Eine magische Kraft hindert dich am Mitnehmen der Leichen."
+
+OPEN BLACK BOOK
+"The book is already open to page 569."
+"Das Buch ist schon auf Seite 569 augfgeschlagen."
+
+CLOSE BLACK BOOK
+"As hard as you try, the book cannot be closed."
+"Trotz aller Kraftanwendung kannst du das Buch nicht schliessen."
+
+TURN THE PAGE
+"Beside page 569, there is only one other page with any legible printing on it. Most of it is unreadable, but the subject seems to be the banishment of evil. Apparently, certain noises, lights, and prayers are efficacious in this regard."
+"Ausser der Seite 569 gibt es nur noch eine Seite mit lesbarem Druck darauf. Fast alles ist unleserlich, aber das Thema scheint die Bannung des Boesen zu sein. Scheinbar sind gewisse Geraeusche, Lichter und Gebete in dieser Beziehung von Nutzen."
+
+DESTROY THE PAINTING
+"Congratulations! Unlike the other vandals, who merely stole the artist's masterpieces, you have destroyed one."
+"Gratuliere!Im Gegensatz zu den anderen Verbrechern, die lediglich die Meisterwerke des Kuenstlers gestohlen haben, hast du eines zerstoert."
+
+THROW THE LAMP
+"The lamp has smashed into the floor, and the light has gone out."
+"Die Lampe liegt am Fussboden zerschmettert, und das Licht ist aus."
+
+TURN ON LAMP
+"A burned-out lamp won't light."
+"Eine ausgebrannte Lample laesst sich nicht anzuenden."
+
+TURN OFF LAMP
+"The lamp has already burned out."
+"Die Lampe ist schon ausgebrannt."
+
+LOOK AT LAMP
+"The lamp has burned out."
+"Die Lampe ist ausgebrannt."
+
+EXAMINE LAMP
+"The lamp is on."
+"Die Lampe ist an."
+
+TAKE MAILBOX
+"It is securely anchored."
+"Er ist fest angebracht." Check other translation, I like this one. R. 
+
+LIGHT A MATCH
+"Unfortunately, you've run out of matches."
+"Leider sind dir die Streichhoelzer ausgegangen."
+LIGHT A MATCH (NOTE: IN DRAFTY ROOM)
+"This room is drafty, and the match goes out instantly."
+"Dieser Raum ist zugig, und das Streichholz geht sofort aus."
+
+LIGHT A MATCH
+"One of the matches starts to burn."
+"Eines der Streichhoelzer beginnt zu brennen."
+
+BLOW OUT MATCH
+"The match is out."
+"It's pitch black in here!"
+"Das Streichholz ist aus."
+"Es ist stockdunkel hier!"
+
+OPEN THE MATCHBOOK
+"You have 5 matches."
+"You have no matches"
+"Du hast 5 Streichhoelzer."
+"Du hast keine Streichhoelzer."
+
+EXAMINE MATCH
+"The match is burning."
+"Das Streichholz brennt."
+
+LOOK AT MATCHBOOK
+"The matchbook isn't very interesting, except for what's written on it."
+"Ausser der Beschriftung ist an dem Streichholzschaechtelchen nichts Interessantes zu bemerken."
+LOOK
+"The match has gone out."
+"Das Streichholz ist ausgegangen."
+
+LOOK (NOTE: IF CANDLES ARE DIM)
+"You'd better have more light than from the candles."
+"Du brauchst mehr Licht, als nur Kerzen."
+
+LIGHT THE CANDLES
+"Alas, there's not much left of the candles. Certainly not enough to burn."
+"O je, Von den Kerzen.ist nicht mehr viel uebrig. Bestimmt nicht genug zum Brennen."
+
+LIGHT THE CANDLES (NOTE: NOT HOLDING LIT MATCH)
+"You should say what to light them with."
+"Du solltest sagen, mit was man sie anzuenden soll."
+
+LIGHT CANDLES
+"The candles are already lit."
+"Die Kerzen sind schon angezuendet."
+
+LIGHT CANDLES
+"The candles are lit."
+"Die Kerzen sind angezuendet."
+
+LIGHT CANDELS WITH TORCH
+"You realize, just in time, that the candles are already lighted."
+"Du bemerkst noch rechtzeitig, dass die Kerzen schon angezuendet sind."
+
+LIGHT CANDLES WITH TORCH
+"The heat from the torch is so intense that the candles are vaporized."
+"Die Hitze die von der Fackel ausgeht, ist so stark, dass die Kerzen schmelzen."
+LIGHT CANDLES WITH TORCH (NOTE: TORCH IS NOT LIT)
+"You have to light them with something that's burning, you know."
+"Du musst sie mit etwas anzuenden, das brennt, verstehst du."
+
+COUND PAIR OF CANDLES
+"Let's see, how many objects in a pair? Don't tell me, I'll get it."
+"Mal sehen wieviele Dinge in einem Paar sind? Nicht verraten.Ich schaff das schon alleine."
+
+BLOW OUT CANDLES
+"The flame is extinguished."
+" It's really dark in here...."
+"Die Flamme ist aus."
+"Es ist wirklich dunkel hier drin...."
+
+BLOW OUT CANDLES
+"The candles are not lighted."
+"Die Kerzen sind nicht an."
+
+PUT THE CANDLES IN TORCH
+"That wouldn't be smart."
+"Das waere ungklug."
+
+EXAMINE CANDLES
+"The candles are burning."
+"Die Kerzen brennen."
+
+EXAMINE CANDLES
+"The candles are out."
+"Die Kerzen sind aus."
+
+(NOTE: IN DRAFTY ROOM)
+"A gust of wind blows out your candles!"
+"It is now completely dark."
+"Ein Windstoss blaest die Kerzen aus!"
+"Jetzt ist es restlos dunkel."
+
+LIGHT TORCH WITH MATCHES
+"How sad for an aspiring adventurer to light a torch in a room which reeks of gas. Fortunately, there is justice in the world.
+"Wie traurig fuer einen ehrgeizigen Abenteurer, dass er eine Fackel in einem Raum anzuendet, der nach Gas riecht. Gluecklicherweise gibt es Gerechtigkeit auf dieser Welt. 
+
+** BOOOOOOOOOOOM **"
+"Bum, bum, bum."
+
+(NOTE: ENTER GAS ROOM WITH FLAME)
+"Oh dear. It appears that the smell coming from this room was coal gas. I would have thought twice about carrying flaming objects in here."
+"Ach du lieber Himmel. Es scheint, als ob der Geruch der von diesem Zimmer kommt, Kohlenoxyd ist. Ich haette mir zweimal ueberlegt, ob ich hier einen brennenden Gegenstand hineintrage." 
+
+(NOTE: IF NOT CARRYING GARLIC)
+"A large vampire bat, hanging from the ceiling, swoops down at you!"
+"Eine grosse Vampirfledermaus haengt von der Decke, rauscht auf dich nieder."
+
+TAKE MACHINE
+"It is far too large to carry."
+"Das ist viel zu gross zum Tragen."
+
+OPEN MACHINE
+"The lid opens, revealing a (THING)."
+"Der Deckel oeffnet sich, bringt ein (DING) zum Vorschein."
+
+OPEN MACHINE
+"The lid opens."
+"Der Deckel oeffnet sich."
+
+CLOSE LID
+"The lid closes."
+"Der Deckel schliesst sich."
+
+TURN MACHINE SWITCH
+"It's not clear how to turn it on with your bare hands."
+"Es ist nicht klar, wie man sie mit den nackten Haenden aufmacht."
+
+TURN MACHINE SWITCH
+"The machine doesn't seem to want to do anything."
+"Die Maschine scheint sich nicht ruehren zu wollen. 
+
+TURN SWITCH WITH (THING) -- (NOTE: THING IS NOT SCREWDRIVER)
+"It seems that a (THING) won't do."
+"Es scheint, dass ein (DING) nicht ausreicht."
+
+LOOK AT GUNG
+"The slag was rather insubstantial, and crumbles into dust at your touch."
+"Die Schlacke war poroes  und zerkruemelt bei der Beruehrung zu Staub."
+
+WAVE THE SCEPTRE (NOTE: AFTER DOING IT ONCE ALREADY AT END OF RAINBOW) 
+"The rainbow seems to have become somewhat run-of-the-mill."
+"Der Regenbogen scheint seine Ungewoehnlichkeit verloren zu haben."
+
+WAVE THE SCEPTERE
+"A dazzling display of color briefly emanates from the sceptre."
+"Eine verwirrende Farbenpracht strahlt kurz von dem Zepter aus."
+
+LOOK
+"A solid rainbow spans the falls."
+"Ein voller Regenbogen steht ueber den Faellen."
+
+LOOK
+"A beautiful rainbow can be seen over the falls and to the west."
+"Ein wundervoller Regenbogen kann ueber den Faellen und nach Westen gesehen werden."
+
+CROSS RAINBOW (NOTE: FROM CANYON VIEW)
+"From here?!?"
+"Von hier aus?!?"
+
+CROSS RAINBOW
+"You'll have to say which way..."
+"Du musst sagen, in welcher Richtung..."
+
+LOOK UNDER RAINBOW
+"The Frigid River flows under the rainbow."
+"Der Gletsch fliesst unter dem Regenbogen."
+
+INFLATE THE BOAT
+"No chance. Some moron punctured it."
+"Unmoeglich. Irgendsoein Schwachkopf hat es durchloechert."
+
+APPLY PUTTY TO BOAT
+"Well done. The boat is repaired."
+"Grossartig. Das Boot ist repariert."
+
+PUT BOAT IN RIVER
+"You should get in the boat then launch it."
+"Du solltest in das Boot steigen, dann abstossen. (check this with other occurence of similar text). 
+
+PUT (THING) IN RIVER
+"The (THING) floats for a moment, then sinks."
+
+
+PUT (THING IN RIVER
+"The (THING) splashes into the water and is gone forever."
+
+
+JUMP INTO RIVER
+"A look before leaping reveals that the river is wide and dangerous, with swift currents and large, half-hidden rocks. You decide to forgo your swim."
+
+
+LAUNCH BOAT
+"You are already on the reservoir, or have you forgotten?"
+
+
+LAUNCH BOAT
+"You can't launch it here."
+ check other
+
+PUT KNIFE IN BOAT
+"It seems that the knife didn't agree with the boat, as evidenced by the loud hissing noise issuing therefrom. With a pathetic sputter, the boat deflates, leaving you without."
+(horrible English)
+
+LAUNCH BOAT
+"You're not in the boat!"
+
+
+GET IN BOAT
+"Oops! Something sharp seems to have slipped and punctured the boat. The boat deflates to the sounds of hissing, sputtering, and cursing."
+ 
+
+INFLATE BOAT
+"Inflating it further would probably burst it."
+
+
+DEFLATE BOAT
+"You can't deflate the boat while you're in it."
+
+
+
+DEFLATE BOAT
+"The boat must be on the ground to be deflated."
+
+
+DEFLATE BOAT
+"The boat deflates."
+
+
+INFLATE BOAT
+"The boat must be on the ground to be inflated."
+
+
+INFLATE BOAT WITH PUMP
+"The boat inflates and appears seaworthy."
+"A tan label is lying inside the boat."
+     compare with full.script.
+
+INFLATE BOAT WITH LUNGS
+"You don't have enough lung power to inflate it."
+
+
+INFLATE BOAT WITH (THING)
+"With a (THING)? Surely you jest!"
+"
+
+(NOTE: HINT THAT THERE'S A EMERALD INSIDE)
+"You notice something funny about the feel of the buoy."
+
+
+LOOK (NOTE: WHERE YOU'RE UP A TREE)
+"On the ground below you can see: ..."
+
+
+DROP NEST
+"The nest falls to the ground, and the egg spills out of it, seriously damaged."
+
+
+DROP EGG
+"The egg falls to the ground and springs open, seriously damaged."
+
+
+DROP (THING)
+"The (THING) falls to the ground."
+
+
+OPEN EGG
+"The egg is already open."
+
+
+OPEN EGG WITH HANDS
+"I doubt you could do that without damaging it."
+
+
+OPEN EGG WITH SCREWDRIVER
+"The egg is now open, but the clumsiness of your attempt has seriously compromised its esthetic appeal."
+
+
+OPEN EGG WITH KNIFE
+"Not to say that using the knife isn't original too..."
+"Und erst die Idee, ein Messer zu benutzen... Du uebertriffst dich geradzu an originellen Einfaellen.
+OPEN EGG WITH (THING)
+"The concept of using a (THING) is certainly original."
+
+
+SIT ON THE EGG
+"There is a noticeable crunch from beneath you, and inspection reveals that the egg is lying open, badly damaged."
+"Du fuehlst ein Krachen unter deinen Fuessen.und beim Nachsehen entdeckst du, dass das Ei offen daliegt und schweren Schaden gelitten hat.".
+
+THROW THE EGG
+"Your rather indelicate handling of the egg has caused it some damage, although you have succeeded in opening it."
+"Es ist dir zwar gelungen, das Ei zu oeffnen, aber du hast es mit deinen rauhen Methoden beschaedigt."
+WIND THE CANARY
+"The canary chirps blithely, if somewhat tinnily, for a short time."
+"Der Kanarienvogel zwitschert fuer eine kurze Zeit munter, wenn auch etwas blechern."
+
+WIND THE CANARY (NOTE: IT'S BROKEN)
+"There is an unpleasant grinding noise from inside the canary."
+"Aus dem Innern des Kanarienvogels laesst sich ein unangenehmes mahlenes Geraeusch vernehmen.."
+
+CLIMB UP CLIFF
+"The cliff is too steep for climbing."
+"Der Felsvorsprung ist zu steil zum Erklettern."
+
+JUMP OFF CLIFF
+"That would be very unwise. Perhaps even fatal."
+"Das waere sehr gewagt. Vielleicht sogar toedlich."
+
+THROW (THING) OFF CLIFF
+"The (THING) tumbles into the river and is seen no more."
+"Das (DING) rollt in den Fluss und gluck-gluck weg ist es."
+
+TIE ROPE TO (THING)
+"You can't tie the rope to that."
+"Daran kannst du das Seil nicht binden."
+
+TIE ROPE TO RAILING
+"The rope is already tied to it."
+"Das Seil ist schon darangebunden."
+
+TIE UP THE TROLL (NOTE: HE'S UNCONSCIOUS) 
+"Your attempt to tie up the troll awakens him."
+"Dein Versuch den Troll zu fesseln, weckt ihn auf."
+
+TIE UP THIEF
+"The thief struggles and you cannot tie him up."
+"Der Dieb wehrt sich, und du kannst ihn nicht fesseln."
+
+TIE UP (THING)
+"Why would you tie up a (THING) ?"
+"Warum wuerdest du ein Ding fesseln?" zusammenbinden???
+
+UNTIE ROPE
+"The rope is now untied."
+"Das Seil ist jetzt aufgebunden."
+
+UNTIE ROPE
+"It is not tied to anything."
+"Es ist an nichts gebunden."
+
+DROP ROPE (NOTE: FROM DOME ROOM TO TORCH ROOM)
+"The rope drops gently to the floor below."
+"Das Seil faellt sanft nach unten auf die Erde."
+
+TAKE ROPE
+"The rope is tied to the railing."
+"Das Seil ist an das Gelaender gebunden."
+
+UNTIE ROPE FROM (THING)
+"It's not attached to that!"
+"Es ist nicht daran gebunden."
+
+GO DOWN THE SLIDE
+"You tumble down the slide...."
+"Du stolperst die Rutschbahn runter."
+
+PUT (THING) DOWN THE SLIDE
+"The (THING) falls into the slide and is gone."
+"Das (DING) faellt auf die Rutschbahn und ist weg."
+
+SMELL SANDWICH
+"It smells of hot peppers."
+"Es riecht nach scharfen Pepperoni"       ?????
+
+(NOTE: THE FOLLOWING SEVERAL RESPONSES ARE WHEN THE PLAYER IS DEAD -- I.E.,
+       A DISEMBODIED SPIRIT
+
+WEST
+"You cannot enter in your condition."
+"In Deinem Zustand kannst du hier nicht rein."
+
+ATTACK (PERSON)
+"All such attacks are vain in your condition."
+"In deinem Zustand sind deine Angriffe sinnlos."
+
+OPEN SOMETHING
+"Even such an action is beyond your capabilities."
+Sogar das uebersteigt deine Faehigkeiten."
+
+WAIT
+"Might as well. You've got an eternity."
+"Warum nicht.? Du hast eine ganze Ewigkeit."
+
+TURN ON LAMP
+"You need no light to guide you."
+"Du brauchst kein Licht, das dir den Weg leuchtet."
+
+SCORE
+"You're dead! How can you think of your score?"
+"Du bist tot! Wie kannst du da an den Stand des Spieles denken?"
+
+TAKE (THING)
+"Your hand passes through its object."
+"Deine Hand geht durch das Ding direkt hindurch."
+
+INVENTORY
+"You have no possessions."
+"Du besitzt garnichts."
+
+DIAGNOSE
+"You are dead."
+"Du bist tot."
+
+LOOK
+"The room looks strange and unearthly and objects appear indistinct."
+"Der Raum sieht fremd und unirdisch aus, und die Dinge erscheinen unwirklich."
+
+"Although there is no light, the room seems dimly illuminated."
+"Obwohl es hier keine Lichtquelle gibt, erscheint der Raum doch einigermassen beleuchtet."
+
+PRAY (NOTE: AT THE ALTER; IT TRANSPORTS YOU TO THE FOREST)
+"From the distance the sound of a lone trumpet is heard. The room becomes very bright and you feel disembodied. In a moment, the brightness fades and you find yourself rising as if from a long sleep, deep in the woods. In the distance you can faintly hear a songbird and the sounds of the forest."
+"Aus der Ferne ertoent der Schall einer einsamen Trompete. Der Raum wird sehr hell und du fuehlst dich koerperlos. In einem Moment weicht die Helligkeit, und du fuehlst dich, als ob du dich von einem langen Schlaf im Walde erhebst. Aus der Ferne hoerst du den schwachen Gesang eines Singvogels und das Rauschen des Waldes."
+
+
+PRAY (NOTE: ELSEWHERE)
+"Your prayers are not heard."
+"Deine Gebete werden nicht erhoert."
+
+(NOTE: DO WHATEVER)
+"You can't even do that."
+"Sogar das kannst du nicht."
+
+LOOK AT LAKE
+"There's not much lake left...."
+"Von dem See ist nicht viel uebrig.."
+
+CROSS LAKE
+"It's too wide to cross."
+"Er ist zu breit zum Ueberqueren."
+
+GET INTO THE LAKE
+"You can't swim in this lake."
+"Du kannst in diesem See nicht schwimmen."
+
+SWIM IN STREAM
+"You can't swim in the stream."
+"Du kannst in dem Fluss nicht schwimmen."
+
+CROSS STREAM
+"The other side is a sheer rock cliff."
+"Die andere Seite ist eine abrupte Felswand."
+
+JUMP OF CHASM
+"You look before leaping, and realize that you would never survive."
+"Du siehst dich um, bevor du springst, und erkennst, dass du nie ueberleben wuerdest."
+
+CROSS CHASM
+"It's too far to jump, and there's no bridge."
+"Es ist zu weit zum Springen, und es gibt keine Bruecke."
+
+PUT (THING) IN CHASM
+"The (THING) drops out of sight into the chasm."
+"Das (DING) faellt ausser Sichtweite in die Spalte."
+
+OPEN GATE
+"The gate is protected by an invisible force. It makes your teeth ache to touch it."
+"Das Tor ist von einer unsichtbaren Kraft geschuetzt. Deine Zaehne schmerzen, wenn du es beruehrst."
+
+OPEN DOOR
+"The door won't budge."
+"Die Tuer gibt nicht nach."
+
+SCRAPE PAINT (NOTE: IN STUDIO)
+"Some paint chips away, revealing more paint."
+"Ein bisschen Farbe splittert weg, zeigt mehr Farbe."
+
+BLOW GAS AWAY
+"There is too much gas to blow away."
+"Hier gibt es mehr Gas, als man wegblasen kann.". 
+
+SMELL GAS
+"It smells like coal gas in here."
+"Es riecht hier nach Kohlenoxyd."
+
+(NOTE: DURING A FIGHT)
+"The VILLAIN slowly regains his feet."
+"Der Dieb gewinnt langsam die Kontrolle ueber seine Fuesse"
+
+(NOTE: DITTO)
+"Fortunately, you still have a WEAPON."
+"Gluecklicherweise hast du noch einen Weapon."
+
+(NOTE: DITTO)
+"You are still recovering from that last blow, so your attack is ineffective."
+"Du erholst dich immer noch von dem letzten Hieb, so dass dein Angriff keine Wirkung hat."
+
+(NOTE: DITTO)
+"Attacking the VILLAIN is pointless."
+"Den Dieb angreifen ist sinnlos."
+
+ATTACK VILLAIN
+"The VILLAIN, who is unconscious, cannot defend himself: He dies."
+"Der Dieb, der bewusstlos ist, kann sich nicht wehren. Er stirbt."
+
+(NOTE: FIGHTING)
+"Your sword has begun to glow very brightly."
+"Dein Schwert leuchtet hell auf."
+
+(NOTE: FIGHTING)
+"Your sword is glowing with a faint blue glow."
+"Dein Schwert leuchtet mit einem schwachen blauen Schimmer."
+
+(NOTE: FIGHTING)
+"The robber, rummaging through his bag, dropped a few items he found valueless."
+"Der Raeuber, der seinen Sack durchsucht, laesst ein paar Dinge, die er fuer wertlos haelt, fallen."
+
+(NOTE: THIEF STEALS SOMETHING)
+"You suddenly notice that the (THING) vanished."
+"Ploetzlich bemerkst du, dass das (DING) verschwunden ist."
+
+DIAGONSE
+"You are in perfect health."
+"Du bist kerngesund."
+
+DIAGONSE
+"Du hast ..."
+"... a light wound,"
+"... a serious wound,"
+"... several wounds,"
+"... serious wounds,"
+" which will be cured after 20 moves."
+"..eine leichte Verletzung."
+..eine ernste Verletzung."
+..mehrere Verletzungen."
+..ernste Verletzungen."
+
+"You can ... "
+"... expect death soon."
+"... be killed by one more light wound."
+"... be killed by a serious wound."
+"... survive one serious wound."
+"... survive several wounds."
+"Du kannst...
+"..bald den Tod erwarten."
+"..von einer weiteren leichten Verletzung getoetet werden."
+"..von einer schweren Verletzung getoetet werden."
+"..eine schwere Verletzung ueberleben"
+"  mehrere Verletzungen ueberleben."
+
+
+"You have been killed ..."
+"... once."
+"... twice."
+"Du bist getoetet worden..."
+   Du bist einmal.getoetet worden..."
+   Du bist zweimal.getoetet worden..."
+
+
+"Your score is 87 (total of 350 points), in 120 moves."
+"Dein Spielstand ist 87 (aus 350 Gesamtpunkten), in 120 Zuegen." (OLD)
+(BETTER:
+;"ren: check"
+"Du hast 87 Punkte in 120 Zuegen erreicht (von insqesaunt(?) 350 Punkten)."
+
+
+"This gives you the rank of ..."
+"... Master Adventurer"
+"... Wizard"
+"... Master"
+"... Adventurer"
+"... Junior Adventurer"
+"... Novice Adventurer"
+"... Amateur Adventurer"
+"... Beginner"
+"Damit bist du ein   "
+"   Meisterabenteurer"
+"   Hexenmeister"
+"   Meister"
+"   Abenteurer"]
+"   Jungabenteurer"
+"   Anfaengerabenteurer"
+"   Amateurabenteurer"
+"   Anfaenger"
+
+
+(NOTE: SOMETHING UNLUCKY HAPPENS)
+"Bad luck, huh?"
+"Pech gehabt,was?"
+
+(NOTE: IF YOU DIE MORE THAN 2 TIMES) 
+"You clearly are a suicidal maniac. We don't allow psychotics in the cave, since they may harm other adventurers. Your remains will be installed in the Land of the Living Dead, where your fellow adventurers may gloat over them."d
+"Du bist eindeutig  ein lebensmueder Narr. Wir verbieten Psychopaten den Eintritt zur Hoehle, da sie die anderen Abenteurer gefaehrden. Deine leiblichen Ueberreste werden dem Land der lebendigen Toten uebergeben, wo deine Mitabenteurer sich an ihnen ergoetzen koennen." 
+
+(NOTE: IF YOU DIE FEWER THAT 3 TIMES, YOU GET TRANSPORTED TO FOREST)
+"As you take your last breath, you feel relieved of your burdens. The feeling passes as you find yourself before the gates of Hell, where the spirits jeer at you and deny you entry. Your senses are disturbed. The objects in the dungeon appear indistinct, bleached of color, even unreal."
+"Waehrend du deinen letzten Atemzug tust, fuehlst du dich all deiner Buerden entledigt. Dieses Gefuehl verlaesst dich, als du dich vor den Toren der Hoelle befindest, wo die Geister dich anheulen und dir den Eintritt verwehren. Deine Sinne sind getruebt. Die Dinge in dem Kerker scheinen nicht wahrnehmbar, farblos, sogar unrealistisch."
+
+"Now, let's take a look here... Well, you probably deserve another chance.
+We can't quite fix you up completely, but you can't have everything."
+"Na, lass uns noch mal sehen.....Na ja, wir sollten Dir vielleicht noch eine Chance geben. 
+Wir koennen es fuer dich nicht alles in Ordnung bringen, aber man kann ja nicht alles haben."
+
+
+
+OPEN THE (THING) (NOTE: (ITEMS) STANDS FOR ANY PLURAL)
+"The (ITEMS) are safely inside; there's no need to do that."
+"Die (DINGLE) befinden sich darin in Sicherheit. Es besteht kein Grund dazu, das zu tun."
+LOOK INSIDE THE (THING)
+"There are lots of (ITEMS) in there."
+"Da sind viele Dinge darin."
+
+PUT AN OBJECT IN THE BAG OF COINS
+"Don't be silly. It wouldn't be a bag of coins anymore."
+"Sei nicht albern. Dann waere es ja nicht mehr ein Sack voll Muenzen."
+
+LOOK INSIDE THING
+"You can't do that."
+"Das geht nicht."
+
+EXAMINE THING
+"It looks pretty much like a (THING)."
+"Es sieht eigentlich wie ein (Ding) aus."
+
+EAT THE GARLIC
+"What the heck! You won't make friends this way, but nobody around here is too friendly anyhow. Gulp!"
+"Zur Hoelle! Auf diese Weise kannst du zwar keine Freunde gewinnen, aber hier ist sowieso niemand besonders freundlich. Also schluck's"
+
+TAKE THE CHAIN
+"The chain remains secure."
+"Die Kette loest sich nicht."
+RAISE THE CHAIN
+"Perhaps you should do that to the basket."
+"Vielleicht solltest du das mit dem Korb machen."
+
+EXAMINE THE CHAIN
+"The chain secures a basket within the shaft."
+"Die Kette haelt einen Korb innerhalb eines Schachtes."
+:>?                ox       #{^                                                                 /c  /i  2q  2y  {!  {( } } w                                                                                      @            X  
+  ?  @  L  p      $  g    `  a  }     N  O  Y     *  +{{{{{{{{{{{{{{{{{{{{{{{         +  5  K  b  c  m    /  0  =  W  ~      -  R  S  a    ]  ^  n    "{{{{{{{{{{{{{{{{{{{{{{{         "  3  V       (  D         )  I  J  U  y     !  -  H  c  d  o    T{{{{{{{{{{{{{{{{{{{{{{{         T  U  h          3  d  	  	   	/  	E  	l  	m  	   	!  	F  	G  	X  
+   
+"  
+#  
+3  
+^{{{{{{{{{{{{{{{{{{{{{{{         
+^  
+  
+  
+)  
+\  
+    $  Z       /  e      4  u  -  .  I  a  w  x  
+{{{{{{{{{{{{{{{{{{{{{{{         
+  
+2  
+W  
+X  
+c  
+  
+4  
+5  
+D    J  K  V    T  U  a    Y  Z  i  '  x  y{{{{{{{{{{{{{{{{{{{{{{{         y    =  {  |    7  q  r    ,  _  `  u     S  T  g    g  h    4  v{{{{{{{{{{{{{{{{{{{{{{{         v  w    8  s  t    9  t  u  z    /  0  ?  n      @  s  "  #  ,  X{{{{{{{{{{{{{{{{{{{{{{{         X      J    Q  R  o  |    	    %  0  1  ;  g  $  %  A  f      {{{{{{{{{{{{{{{{{{{{{{{           ;  c  d  {  $  Y  Z  m    I  J  T  t     !  2  V      "  _  3  4{{{{{{{{{{{{{{{{{{{{{{{         4    "  N  O  `    '  (  R  f  &  >  >  k  l      D  !	  !9  !W  !X  !Y  "{{{{{{{{{{{{{{{{{{{{{{{         "  "  "6  "7  "H  "|  ";  "<  "[  #L  #;  #<  #k  $  $>  $n  $&  $W  $X  $l  %$  %e  %f  %w{{{{{{{{{{{{{{{{{{{{{{{         %w  %  %  %  %H  %i  &  &  &$  &A  &o  &p  &   &1  &d  '  'O  'P  'a  '  'B  'C  'H  'c{{{{{{{{{{{{{{{{{{{{{{{         'c  (  (  (  (x  (p  (q  (z  ).  )p  )q  )|  )f  *V  *W  *b  *  *N  *O  *Z  +  +:  +;  +I{{{{{{{{{{{{{{{{{{{{{{{         +I  +  +O  +P  +^  ,
+  ,A  ,B  ,P  ,7  -.  -/  -=  -"  .  .  .!  .X  .  .  .)  .j  //  /0{{{{{{{{{{{{{{{{{{{{{{{         /0  /B  /  /L  /M  /h  0%  0   1e  1f  1x  1G  2  2  20  2|  3E  3F  3]  40  4  4  4  4{{{{{{{{{{{{{{{{{{{{{{{         4  4r  5[  5\  5j  5  5A  5B  5V  63  6  6  6  6  6J  6u  6v  6{  7+  7g  7h  7u  7  73{{{{{{{{{{{{{{{{{{{{{{{         73  74  7@  7S  7k  7l  8  87  8  8  8  8  9  9   9  9  9  9M  :  :  :  :U  :  :{{{{{{{{{{{{{{{{{{{{{{{         :  :  :o  ;Y  ;Z  ;_  ;  ;a  ;f  <   <  <  <"  <d  <T  <U  <b  <y  =  =  =&  =J  =x  =y{{{{{{{{{{{{{{{{{{{{{{{         =y  =  =!  =F  =G  =V  =|  >2  >3  >M  >v  >3  >4  >B  >]  ?  ?  ?  ?Q  ?  ?  ?"  ?;  ?Z{{{{{{{{{{{{{{{{{{{{{{{         ?Z  ?[  ?u  @  @<  @=  @]  @  @r  @s  @{  Aa  AV  AW  Ah  B@  B+  B,  B>  C%  D7  D8  DF  D_{{{{{{{{{{{{{{{{{{{{{{{         D_  Dt  Du  E	  E6  Ez  E{  E   EE  E|  E}  F  F\  F  F  FR  G  GS  GT  Gc  G  G<  G=  GI{{{{{{{{{{{{{{{{{{{{{{{         GI  Gx  H/  H0  H;  H  Hf  Hg  Hr  I  IR  IS  IX  I2  J(  J)  J.  J  J{  J|  K  Kk  Kr  L1{{{{{{{{{{{{{{{{{{{{{{{         L1  LR  L{  L|  L  L9  Ll  Lm  Lw  M?  M
+  M  M-  N0  Ng  Nh  Nm  O  OD  OE  OJ  OC  PK  PL{{{{{{{{{{{{{{{{{{{{{{{         PL  PQ  P>  Q5  Q6  Q;  Q*  R  R  R%  Rj  R;  R<  RJ  S  SH  SI  SW  S  SB  SC  Sb  T  TC{{{{{{{{{{{{{{{{{{{{{{{         TC  TD  TQ  T/  U2  U3  UT  U  U7  U8  Ul  V9  V  V  V?  W  WQ  WR  Wq  WZ  X9  X:  X^  X7{{{{{{{{{{{{{{{{{{{{{{{         X7  Y  Y  Y9  Y(  Z  Z   Z.  ZZ  Z  Z#  Z~  [b  [c  [  [D  \  \  \4  \C  ]Q  ]R  ]g  ]{{{{{{{{{{{{{{{{{{{{{{{         ]  ]@  ]A  ]Q  ]x  ^  ^  ^*  ^P  ^p  ^q  ^  ^  ^  ^  ^$  ^@  ^f  ^g  ^s  _  _:  _;  _X{{{{{{{{{{{{{{{{{{{{{{{         _X  _y  _  _B  _V  _i  _}  `  `$  `8  `K  `]  `s  `  `  `4  `K  `a  `w  a  a
+  a  a"  ay{{{{{{{{{{{{{{{{{{{{{{{         ay  aW  aX  ah  b  bH  bI  b]  b  b)  b*  b7  bd  c  c  c'  cG  cf  cg  ct  c
+  c  c  c+{{{{{{{{{{{{{{{{{{{{{{{         c+  cT  d  d  d   d`  d)  d*  dH  e&  e  e  e6  f  g  g  g  h	  i  i  i3  j9  jH  jI{{{{{{{{{{{{{{{{{{{{{{{         jI  jh  k  l_  l`  l}  lp  mo  mp  m  nV  o$  o%  o&  o.  oj  o7  o8  oI  ov  p7  p8  pI  pu{{{{{{{{{{{{{{{{{{{{{{{         pu  p%  pW  pX  ph  q  qO  qP  q`  q  qH  qI  qY  r  rX  rY  ri  r'  rk  rl  r|  s6  sf  sg{{{{{{{{{{{{{{{{{{{{{{{         sg  s}  tI  uP  uQ  ug  v9  w=  w>  wT  w  wo  wp  x  x:  x  x  x  xI  y  y  y  yY  y1{{{{{{{{{{{{{{{{{{{{{{{         y1  y2  y>  y  zT  zU  zb  z  zO  zP  zc  {  {k  {l  {~  {#  {L  {M  {R  |  |B  |C  |k  |5{{{{{{{{{{{{{{{{{{{{{{{         |5  }  }  }  }  ~;  ~<  ~A  ~=         !   j  )  *  e    ^  _  {        6{{{{{{{{{{{{{{{{{{{{{{{         6    Q  R  m  3         m  h  i  j  x  L  &           	  	"  	#  	1{{{{{{{{{{{{{{{{{{{{{{{         	1  	|  
+Q  
+R  
+`  
+  
+b  
+c  
+q  m  
+      P      7  g      F  +    {{{{{{{{{{{{{{{{{{{{{{{           #  I            ~           !  6  Y  "  #  Y    9  :  Q    X{{{{{{{{{{{{{{{{{{{{{{{         X  Y  d    F  G  U  [    !  e  =  >  [  3  "  #  :  ]      o  M  N{{{{{{{{{{{{{{{{{{{{{{{         N  O  s    &  '  :  3  R  S  f  A  N  O  {  '  Y  Z  s    -  .  A  o{{{{{{{{{{{{{{{{{{{{{{{         o  #  $  S  %    '  M  q  r  	  ;  y  z    l  F  G  W  t      -  J{{{{{{{{{{{{{{{{{{{{{{{         J  q  r      &   O   P   a   r         6   b  !  !   !0  !X  !  !  !  !N  "  "  "{{{{{{{{{{{{{{{{{{{{{{{         "  #  $  $  $  $  %  %  %*  %m  %2  %3  %@  %a  &  &  &(  &K  &n  &o  &|  &  &4  &5{{{{{{{{{{{{{{{{{{{{{{{         &5  &B  &T  &h  &i  &v  '  'Y  'Z  'h  '  'F  'k  ($  (b  (c  (q  (  (E  (F  (U  (i  )  ) {{{{{{{{{{{{{{{{{{{{{{{         )   );  )<  )O  )e  ){  )  )7  )8  )F  )^  )x  )y  *  *T  *5  *:  *T  *w  *x  +  +N  +x  +y{{{{{{{{{{{{{{{{{{{{{{{         +y  +  +W  ,,  ,-  ,]  ,  ,<  ,=  ,K  ,j  -  -  -  -5  -T  -U  -n  -1  -y  -z  .  .[  .,{{{{{{{{{{{{{{{{{{{{{{{         .,  .^  /   /^  /_  /u  /:  0  0  0(  0E  0e  0{  0"  0#  04  0S  0o  0p  1	  1#  18  19  1I{{{{{{{{{{{{{{{{{{{{{{{         1I  1d  1z  1{  1  1"  19  1:  1Q  1z  2  2>  2]  2^  2w  2v  3"  3#  38  3I  3J  3l  4x  53{{{{{{{{{{{{{{{{{{{{{{{         53  54  5S  5  5f  5g  5t  6  68  69  6F  6l  6(  6)  66  6G  6b  6c  6m  6  7  7  71  7j{{{{{{{{{{{{{{{{{{{{{{{         7j  7-  7.  7B  7u  8*  8+  8h  8  8;  8<  8I  9  9\  9]  9%  9b  :&  :'  :9  :z  :;  :<  :A{{{{{{{{{{{{{{{{{{{{{{{         :A  :d  ;  ;  ;  ;]  ;2  ;3  ;Z  ;i  ;{  ;|  <
+  <,  <U  <V  <i  <  <A  <B  <S  <y  =5  =6{{{{{{{{{{{{{{{{{{{{{{{         =6  =J  =m  =  =  =&  =S  >9  >:  >O  >~  >6  >7  >K  ?  ?E  ?F  ?V  ?m  @  @  @+  @f  A {{{{{{{{{{{{{{{{{{{{{{{         A   A!  A-  AI  A  A	  A  BL  CG  CH  CT  Cn  C  C  C  D  D:  D;  DH  Dx  E9  E:  EG  Ex{{{{{{{{{{{{{{{{{{{{{{{         Ex  E@  EA  EB  EO  F   F8  F9  FF  F[  Fz  F{  F  F9  Fr  Fs  G
+  G5  G]  G"  G#  G;  Gm  H#{{{{{{{{{{{{{{{{{{{{{{{         H#  H$  H>  Ha  H  H  H:  Hs  I!  I"  IF  Im  I  I  I  Il  JD  JE  JN  J  J]  J^  Jk  K{{{{{{{{{{{{{{{{{{{{{{{         K  K0  K1  K:  KU  Ko  Kp  K  K5  L  L  L  L  Lz  L{  M  MG  M-  MC  M{  N:  N;  NJ  N={{{{{{{{{{{{{{{{{{{{{{{         N=  OJ  OK  OY  OL  P3  PC  P  P^  P_  Q  QC  Q#  Q$  Q3  QZ  R  R  R  RL  R   R  R  RS{{{{{{{{{{{{{{{{{{{{{{{         RS  S  S  S$  SF  So  Sp  S  S&  SJ  SK  Sv  T&  TZ  T[  Th  T  TQ  TR  Ta  U  U<  U=  UH{{{{{{{{{{{{{{{{{{{{{{{         UH  Ub  U  U  U  U.  UK  UL  U{  V'  VX  VY  Vc  V  V0  V1  VI  Vf  W  W  W  W8  W^  W_{{{{{{{{{{{{{{{{{{{{{{{         W_  Wz  W*  W^  W_  Wn  X
+  X:  X;  X  X#  X$  X)  XO  X~  X  Y  Y>  Yo  Yp  Y  Y2  Y]  Y^{{{{{{{{{{{{{{{{{{{{{{{         Y^  Yc  Z  Z9  Z:  ZG  Zi  Z  Z  Z$  ZT  [  [  [#  [J  [|  [}  [  ["  [:  [;  [D  [T  [c{{{{{{{{{{{{{{{{{{{{{{{         [c  [d  [i  \/  \~  \  \?  ]  ]  ]V  ^   _D  _E  _F  _]  _{  `   `!  `5  `O  `l  `m  `z  `{{{{{{{{{{{{{{{{{{{{{{{         `  `A  `B  `M  `g  a
+  a  a  a<  ag  ah  aw  a  aA  aB  aO  aw  b%  b&  b4  by  bP  bQ  b]{{{{{{{{{{{{{{{{{{{{{{{         b]  c  cF  cG  c\  c  cB  cC  cM  d"  d  d  d  d*  dF  dG  df  e  eK  eL  eZ  e   e3  e4{{{{{{{{{{{{{{{{{{{{{{{         e4  e>  ea  f  f  f  fB  f~  f  f  f5  fd  fe  fs  gB  g  g  g,  gR  gt  gu  h  hG  h
+{{{{{{{{{{{{{{{{{{{{{{{         h
+  h  h  hJ  hl  hm  h~  i.  ik  il  i}  iN  j3  j4  jS  j  j@  jA  jJ  jg  j}  j~  k  k{{{{{{{{{{{{{{{{{{{{{{{         k  k*  kA  kW  km  k  k1  kL  ke  k}  k~  l
+  l&  lO  ls  l  l2  l@  l[  m  mJ  mq  m  m{{{{{{{{{{{{{{{{{{{{{{{         m  m  m3  m?  mL  mi  n  n6  n7  n8  np  n1  n2  nS  nk  nx  o  o  o.  oF  o_  on  o  o{{{{{{{{{{{{{{{{{{{{{{{         o  o.  o;  oL  o`  oy  p  p  p   p!  pC  pT  pg  ph  p  qt  r  r  rI  si  u;  u<  u  uM{{{{{{{{{{{{{{{{{{{{{{{         uM  v)  v  v  v	  v
+  vA  v~  wX  wp  w  w3  w4  wV  x  xV  xW  xi  x~  x  x  x  xF  xp{{{{{{{{{{{{{{{{{{{{{{{         xp  xq  y   yg  yo  yp  y  z  z9  zI  zu  z'  z(  z:  zi  {!{{{{{{{{{{{{{{{                                                            ^      z!   {!      a     
+K    d  l  $e  )W  .h  5  9o  >  D6  I  P5  V  \g  `  d  l  rg  yb  j  &  +  U  S    $m  (  -  1w  6B  ;B  AR  Fm  Kz  QS  V  Z}  _M  dZ  i4  mp  r  xo  z!                                                      	      
+                  
+                                                                        @     @     @     @     @     @     @      @     !@     "@     #@     $@     %@     &@     '@     (@     )@     *@     +@     ,@     -@     .      /     {(w     +  "  T  
+^  
+  y  v  X    4  "  %w  'c  +I  /0  4  73  :  =y  ?Z  D_  GI  L1  PL  TC  X7  ]  _X  ay  c+  jI  pu  sg  y1  |5  6  	1    X  N  o  J  "  &5  )   +y  .,  1I  53  7j  :A  =6  A   Ex  H#  K  N=  RS  UH  W_  Y^  [c  `  b]  e4  h
+  k  m  o  uM  xp  {!xyz{|}~ 	
+
+ !"#$%&'()*+,-./0123456789:;<=>?       
+     e f

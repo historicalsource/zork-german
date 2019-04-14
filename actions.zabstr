@@ -1,0 +1,431 @@
+
+<DEFINE-ROUTINE WEST-HOUSE> 
+<DEFINE-ROUTINE EAST-HOUSE> 
+<DEFINE-ROUTINE OPEN-CLOSE> 
+<DEFINE-ROUTINE BOARD-F> 
+<DEFINE-ROUTINE TEETH-F> 
+<DEFINE-ROUTINE SONGBIRD-F> 
+<DEFINE-ROUTINE WHITE-HOUSE-F> 
+<DEFINE-ROUTINE GO-NEXT> 
+<DEFINE-ROUTINE FOREST-F> 
+<DEFINE-ROUTINE MOUNTAIN-RANGE-F> 
+<DEFINE-ROUTINE WATER-F> 
+<GLOBAL KITCHEN-WINDOW-FLAG <>> 
+<DEFINE-ROUTINE KITCHEN-WINDOW-F> 
+<DEFINE-ROUTINE GHOSTS-F> 
+<GLOBAL CAGE-TOP T> 
+<DEFINE-ROUTINE BASKET-F> 
+<DEFINE-ROUTINE BAT-F> 
+<DEFINE-ROUTINE FLY-ME> 
+<DEFINE-ROUTINE FWEEP> 
+<GLOBAL BAT-DROPS <LTABLE 0 MINE-1 MINE-2 MINE-3 MINE-4 LADDER-TOP
+LADDER-BOTTOM SQUEEKY-ROOM MINE-ENTRANCE>> 
+<DEFINE-ROUTINE BELL-F> 
+<DEFINE-ROUTINE HOT-BELL-F> 
+<DEFINE-ROUTINE BOARDED-WINDOW-FCN> 
+<DEFINE-ROUTINE NAILS-PSEUDO> 
+<DEFINE-ROUTINE CRACK-FCN> 
+<DEFINE-ROUTINE KITCHEN-FCN> 
+<DEFINE-ROUTINE STONE-BARROW-FCN> 
+<DEFINE-ROUTINE BARROW-DOOR-FCN> 
+<DEFINE-ROUTINE BARROW-FCN> 
+<DEFINE-ROUTINE TROPHY-CASE-FCN> 
+<GLOBAL RUG-MOVED <>> 
+<DEFINE-ROUTINE LIVING-ROOM-FCN> 
+<DEFINE-ROUTINE TOUCH-ALL> 
+<DEFINE-ROUTINE OTVAL-FROB> 
+<DEFINE-ROUTINE TRAP-DOOR-FCN> 
+<DEFINE-ROUTINE CELLAR-FCN> 
+<DEFINE-ROUTINE CHIMNEY-F> 
+<DEFINE-ROUTINE UP-CHIMNEY-FUNCTION> 
+<DEFINE-ROUTINE TRAP-DOOR-EXIT> 
+<DEFINE-ROUTINE RUG-FCN> 
+<DEFINE-ROUTINE AXE-F> 
+<DEFINE-ROUTINE STILETTO-FUNCTION> 
+<DEFINE-ROUTINE WEAPON-FUNCTION> 
+<DEFINE-ROUTINE TROLL-FCN> 
+<GLOBAL GRATE-REVEALED <>> 
+<GLOBAL GRUNLOCK <>> 
+<DEFINE-ROUTINE LEAVES-APPEAR> 
+<DEFINE-ROUTINE LEAF-PILE> 
+<DEFINE-ROUTINE CLEARING-FCN> 
+<DEFINE-ROUTINE MAZE-11-FCN> 
+<DEFINE-ROUTINE GRATE-FUNCTION> 
+<DEFINE-ROUTINE MAZE-DIODES> 
+<DEFINE-ROUTINE RUSTY-KNIFE-FCN> 
+<DEFINE-ROUTINE KNIFE-F> 
+<DEFINE-ROUTINE SKELETON> 
+<DEFINE-ROUTINE TORCH-OBJECT> 
+<DEFINE-ROUTINE MIRROR-ROOM> 
+<GLOBAL MIRROR-MUNG <>> 
+<GLOBAL LUCKY T> 
+<DEFINE-ROUTINE MIRROR-MIRROR> 
+<DEFINE-ROUTINE TORCH-ROOM-FCN> 
+<DEFINE-ROUTINE DOME-ROOM-FCN> 
+<DEFINE-ROUTINE LLD-ROOM> 
+<GLOBAL XB <>> 
+<GLOBAL XC <>> 
+<DEFINE-ROUTINE I-XB> 
+<DEFINE-ROUTINE I-XC> 
+<DEFINE-ROUTINE I-XBH> 
+<GLOBAL GATE-FLAG <>> 
+<GLOBAL GATES-OPEN <>> 
+<DEFINE-ROUTINE DAM-ROOM-FCN> 
+<DEFINE-ROUTINE BOLT-F> 
+<DEFINE-ROUTINE BUBBLE-F> 
+<DEFINE-ROUTINE INTEGRAL-PART> 
+<DEFINE-ROUTINE I-RFILL> 
+<GLOBAL LOUD-RUNS <LTABLE 0 DAMP-CAVE ROUND-ROOM DEEP-CANYON>> 
+<DEFINE-ROUTINE I-REMPTY> 
+<GLOBAL DROWNINGS <TABLE (PURE) "bis an deine Kn%ochel." "bis an dein Kinn."
+"bis an deine Knie." "bis an deine H%uften." "bis an deine Taille."
+"bis an deine Brust." "bis an deinen Hals." "%uber deinen Kopf."
+"hoch in deiner Lunge.">> 
+<GLOBAL WATER-LEVEL 0> 
+<GDECL (WATER-LEVEL) FIX> 
+<DEFINE-ROUTINE BUTTON-F> 
+<DEFINE-ROUTINE TOOL-CHEST-FCN> 
+<DEFINE-ROUTINE I-MAINT-ROOM> 
+<DEFINE-ROUTINE LEAK-FUNCTION> 
+<DEFINE-ROUTINE FIX-MAINT-LEAK> 
+<DEFINE-ROUTINE PUTTY-FCN> 
+<DEFINE-ROUTINE TUBE-FUNCTION> 
+<DEFINE-ROUTINE DAM-FUNCTION> 
+<DEFINE-ROUTINE WITH-TELL> 
+<DEFINE-ROUTINE RESERVOIR-SOUTH-FCN> 
+<DEFINE-ROUTINE RESERVOIR-FCN> 
+<DEFINE-ROUTINE RESERVOIR-NORTH-FCN> 
+<DEFINE-ROUTINE BOTTLE-FUNCTION> 
+<GLOBAL CYCLOWRATH 0> 
+<DEFINE-ROUTINE CYCLOPS-FCN> 
+<DEFINE-ROUTINE I-CYCLOPS> 
+<DEFINE-ROUTINE CYCLOPS-ROOM-FCN> 
+<GLOBAL CYCLOMAD <TABLE (PURE) "Der Zyklop scheint irgendwie ver%argert."
+"Der Zyklop scheint immer %argerlicher zu werden."
+"Der Zyklop wandert durch das Zimmer, als ob er nach etwas sucht."
+"Der Zyklop hat nach Salz und Pfeffer gesucht. Es besteht kein Zweifel, da%s er sich seine bevorstehende Mahlzeit damit w%urzen will."
+"Der Zyklop kommt dir auf eine sehr unangenehme Weise n%aher und n%aher."
+"F%ur dich bestehen hier zwei M%oglichkeiten: 1. Abhauen. 2. Zur Mahlzeit werden."
+>> 
+<GLOBAL LOUD-FLAG <>> 
+<DEFINE-ROUTINE LOUD-ROOM-FCN> 
+<DEFINE-ROUTINE DEEP-CANYON-F> 
+<GLOBAL EGG-SOLVE <>> 
+<GLOBAL THIEF-HERE <>> 
+<DEFINE-ROUTINE THIEF-VS-ADVENTURER> 
+<DEFINE-ROUTINE STOLE-LIGHT?> 
+<DEFINE-ROUTINE HACK-TREASURES> 
+<DEFINE-ROUTINE DEPOSIT-BOOTY> 
+<DEFINE-ROUTINE ROB-MAZE> 
+<GLOBAL THIEF-ENGROSSED <>> 
+<DEFINE-ROUTINE ROBBER-FUNCTION> 
+<GLOBAL ROBBER-C-DESC
+"Da steht ein verd%achtig au%sehender Kerl, der eine T%ute h%alt, gegen die Wand gelehnt. Er ist mit einem Stilett bewaffnet."
+> 
+<GLOBAL ROBBER-U-DESC
+"Da liegt ein verd%achtig au%sehender Kerl bewu%stlos auf der Erde."> 
+<DEFINE-ROUTINE LARGE-BAG-F> 
+<DEFINE-ROUTINE MOVE-ALL> 
+<DEFINE-ROUTINE CHALICE-FCN> 
+<DEFINE-ROUTINE TREASURE-ROOM-FCN> 
+<DEFINE-ROUTINE THIEF-IN-TREASURE> 
+<DEFINE-ROUTINE FRONT-DOOR-FCN> 
+<DEFINE-ROUTINE BODY-FUNCTION> 
+<DEFINE-ROUTINE BLACK-BOOK> 
+<DEFINE-ROUTINE PAINTING-FCN> 
+<GLOBAL LAMP-TABLE <TABLE (PURE) 100 "The lamp appears a bit dimmer." 70
+"The lamp is definitely dimmer now." 15 "The lamp is nearly out." 0>> 
+<DEFINE-ROUTINE LANTERN> 
+<DEFINE-ROUTINE MAILBOX-F> 
+<GLOBAL MATCH-COUNT 6> 
+<DEFINE-ROUTINE MATCH-FUNCTION> 
+<DEFINE-ROUTINE I-MATCH> 
+<DEFINE-ROUTINE I-LANTERN> 
+<DEFINE-ROUTINE I-CANDLES> 
+<DEFINE-ROUTINE LIGHT-INT> 
+<DEFINE-ROUTINE MIN> 
+<DEFINE-ROUTINE CANDLES-FCN> 
+<GLOBAL CANDLE-TABLE <TABLE (PURE) 20 "The candles grow shorter." 10
+"The candles are becoming quite short." 5 "The candles won't last long now." 0>
+> 
+<DEFINE-ROUTINE CAVE2-ROOM> 
+<DEFINE-ROUTINE SWORD-FCN> 
+<DEFINE-ROUTINE BOOM-ROOM> 
+<DEFINE-ROUTINE BAT-D> 
+<DEFINE-ROUTINE BATS-ROOM> 
+<DEFINE-ROUTINE MACHINE-ROOM-FCN> 
+<DEFINE-ROUTINE MACHINE-F> 
+<DEFINE-ROUTINE MSWITCH-FUNCTION> 
+<DEFINE-ROUTINE GUNK-FUNCTION> 
+<DEFINE-ROUTINE NO-OBJS> 
+<DEFINE-ROUTINE SOUTH-TEMPLE-FCN> 
+<GLOBAL LIGHT-SHAFT 13> 
+<GDECL (LIGHT-SHAFT) FIX> 
+<DEFINE-ROUTINE WHITE-CLIFFS-FUNCTION> 
+<DEFINE-ROUTINE SCEPTRE-FUNCTION> 
+<DEFINE-ROUTINE FALLS-ROOM> 
+<DEFINE-ROUTINE RAINBOW-FCN> 
+<DEFINE-ROUTINE DBOAT-FUNCTION> 
+<DEFINE-ROUTINE FIX-BOAT> 
+<DEFINE-ROUTINE RIVER-FUNCTION> 
+<GLOBAL RIVER-SPEEDS <LTABLE (PURE) RIVER-1 4 RIVER-2 4 RIVER-3 3 RIVER-4 2
+RIVER-5 1>> 
+<GLOBAL RIVER-NEXT <LTABLE (PURE) RIVER-1 RIVER-2 RIVER-3 RIVER-4 RIVER-5>> 
+<GLOBAL RIVER-LAUNCH <LTABLE (PURE) DAM-BASE RIVER-1 WHITE-CLIFFS-NORTH RIVER-3
+WHITE-CLIFFS-SOUTH RIVER-4 SHORE RIVER-5 SANDY-BEACH RIVER-4 RESERVOIR-SOUTH
+RESERVOIR RESERVOIR-NORTH RESERVOIR STREAM-VIEW IN-STREAM>> 
+<DEFINE-ROUTINE I-RIVER> 
+<DEFINE-ROUTINE RBOAT-FUNCTION> 
+<DEFINE-ROUTINE IBOAT-FUNCTION> 
+<GLOBAL BUOY-FLAG T> 
+<DEFINE-ROUTINE RIVR4-ROOM> 
+<GLOBAL BEACH-DIG -1> 
+<GDECL (BEACH-DIG) FIX> 
+<DEFINE-ROUTINE SAND-FUNCTION> 
+<GLOBAL BDIGS <TABLE (PURE) "Du scheinst hier ein Loch zu graben."
+"Das Loch wird immer tiefer, aber sonst nichts."
+"Du bist auf allen Seiten von Sand umgeben.">> 
+<DEFINE-ROUTINE TREE-ROOM> 
+<DEFINE-ROUTINE EGG-OBJECT> 
+<DEFINE-ROUTINE BAD-EGG> 
+<GLOBAL SING-SONG <>> 
+<DEFINE-ROUTINE CANARY-OBJECT> 
+<DEFINE-ROUTINE FOREST-ROOM?> 
+<DEFINE-ROUTINE I-FOREST-ROOM> 
+<DEFINE-ROUTINE FOREST-ROOM> 
+<DEFINE-ROUTINE WCLIF-OBJECT> 
+<DEFINE-ROUTINE CLIFF-OBJECT> 
+<DEFINE-ROUTINE ROPE-FUNCTION> 
+<DEFINE-ROUTINE UNTIE-FROM> 
+<DEFINE-ROUTINE SLIDE-FUNCTION> 
+<DEFINE-ROUTINE SLIDER> 
+<DEFINE-ROUTINE SANDWICH-BAG-FCN> 
+<DEFINE-ROUTINE DEAD-FUNCTION> 
+<DEFINE-ROUTINE LAKE-PSEUDO> 
+<DEFINE-ROUTINE STREAM-PSEUDO> 
+<DEFINE-ROUTINE CHASM-PSEUDO> 
+<DEFINE-ROUTINE DOME-PSEUDO> 
+<DEFINE-ROUTINE GATE-PSEUDO> 
+<DEFINE-ROUTINE DOOR-PSEUDO> 
+<DEFINE-ROUTINE PAINT-PSEUDO> 
+<DEFINE-ROUTINE GAS-PSEUDO> 
+<CONSTANT F-BUSY? 1> 
+<CONSTANT F-DEAD 2> 
+<CONSTANT F-UNCONSCIOUS 3> 
+<CONSTANT F-CONSCIOUS 4> 
+<CONSTANT F-FIRST? 5> 
+<CONSTANT MISSED 1> 
+<CONSTANT UNCONSCIOUS 2> 
+<CONSTANT KILLED 3> 
+<CONSTANT LIGHT-WOUND 4> 
+<CONSTANT SERIOUS-WOUND 5> 
+<CONSTANT STAGGER 6> 
+<CONSTANT LOSE-WEAPON 7> 
+<CONSTANT HESITATE 8> 
+<CONSTANT SITTING-DUCK 9> 
+<GLOBAL DEF1 <TABLE (PURE) MISSED MISSED MISSED MISSED STAGGER STAGGER
+UNCONSCIOUS UNCONSCIOUS KILLED KILLED KILLED KILLED KILLED>> 
+<GLOBAL DEF2A <TABLE (PURE) MISSED MISSED MISSED MISSED MISSED STAGGER STAGGER
+LIGHT-WOUND LIGHT-WOUND UNCONSCIOUS>> 
+<GLOBAL DEF2B <TABLE (PURE) MISSED MISSED MISSED STAGGER STAGGER LIGHT-WOUND
+LIGHT-WOUND LIGHT-WOUND UNCONSCIOUS KILLED KILLED KILLED>> 
+<GLOBAL DEF3A <TABLE (PURE) MISSED MISSED MISSED MISSED MISSED STAGGER STAGGER
+LIGHT-WOUND LIGHT-WOUND SERIOUS-WOUND SERIOUS-WOUND>> 
+<GLOBAL DEF3B <TABLE (PURE) MISSED MISSED MISSED STAGGER STAGGER LIGHT-WOUND
+LIGHT-WOUND LIGHT-WOUND SERIOUS-WOUND SERIOUS-WOUND SERIOUS-WOUND>> 
+<GLOBAL DEF3C <TABLE (PURE) MISSED STAGGER STAGGER LIGHT-WOUND LIGHT-WOUND
+LIGHT-WOUND LIGHT-WOUND SERIOUS-WOUND SERIOUS-WOUND SERIOUS-WOUND>> 
+<GLOBAL DEF1-RES <TABLE DEF1 0 0>> 
+<GLOBAL DEF2-RES <TABLE DEF2A DEF2B 0 0>> 
+<GLOBAL DEF3-RES <TABLE DEF3A 0 DEF3B 0 DEF3C>> 
+<CONSTANT STRENGTH-MAX 7> 
+<CONSTANT STRENGTH-MIN 2> 
+<CONSTANT CURE-WAIT 30> 
+<DEFINE-ROUTINE DO-FIGHT> 
+<DEFINE-ROUTINE REMARK> 
+<DEFINE-ROUTINE FIGHT-STRENGTH> 
+<DEFINE-ROUTINE VILLAIN-STRENGTH> 
+<DEFINE-ROUTINE FIND-WEAPON> 
+<DEFINE-ROUTINE VILLAIN-BLOW> 
+<DEFINE-ROUTINE HERO-BLOW> 
+<DEFINE-ROUTINE WINNER-RESULT> 
+<DEFINE-ROUTINE VILLAIN-RESULT> 
+<DEFINE-ROUTINE WINNING?> 
+<DEFINE-ROUTINE I-CURE> 
+<CONSTANT WEP-ACC 2> 
+<CONSTANT WEP-ACC-CAP 3> 
+<CONSTANT WEP-NOM 4> 
+<CONSTANT WEP-NOM-CAP 5> 
+<CONSTANT DER-WEP-ACC 6> 
+<CONSTANT WEP-DAT 7> 
+<CONSTANT DEF-NOM 8> 
+<CONSTANT DEF-NOM-CAP 9> 
+<CONSTANT DEF-ACC 10> 
+<CONSTANT DEF-DAT-CAP 11> 
+<GLOBAL HERO-MELEE <TABLE (PURE) <LTABLE (PURE) <LTABLE (PURE) WEP-NOM-CAP
+" verpa%st " DEF-ACC " um 2cm."> <LTABLE (PURE)
+"Ein guter Hieb, aber er verpa%st " DEF-ACC " um einen Kilometer."> <LTABLE (
+PURE) "Du greifst an, aber " DEF-NOM " springt leichtf%u%sig zur Seite."> <
+LTABLE (PURE) "Kling! Klang! Bumm! " DEF-NOM-CAP " pariert den Schlag."> <
+LTABLE (PURE) "Ein schneller Schlag, aber " DEF-NOM " ist auf der Hut."> <
+LTABLE (PURE) "Ein guter Schlag, aber er ist zu langsam, " DEF-NOM
+" weicht aus.">> <LTABLE (PURE) <LTABLE (PURE) WEP-NOM-CAP
+" braust nieder, sendet " DEF-ACC " ins Land der Tr%aume."> <LTABLE (PURE)
+DEF-NOM-CAP " ist bewu%stlos geschlagen."> <LTABLE (PURE)
+"Ein f%urchterlicher Waffenaustausch und " DEF-NOM " ist k.o."> <LTABLE (PURE)
+"Das Heft von " WEP-DAT " haut " DEF-ACC " um."> <LTABLE (PURE) DEF-NOM-CAP
+" ist k.o. geschlagen.">> <LTABLE (PURE) <LTABLE (PURE) DEF-NOM-CAP
+" bei%st ins Gras, als " WEP-NOM " seinen Kopf abschl%agt."> <LTABLE (PURE)
+"Der t%odliche Schlag trifft " DEF-ACC " direkt ins Herz. Er stirbt."> <LTABLE
+(PURE) DEF-NOM-CAP " erleidet einen t%odlichen Schlag und f%allt tot zur Erde."
+>> <LTABLE (PURE) <LTABLE (PURE) DEF-NOM-CAP
+" ist am Arm verletzt. Blut beginnt herabzurinseln."> <LTABLE (PURE)
+WEP-NOM-CAP " ritzt " DEF-ACC " am Handgelenk, aber es ist nicht ernst."> <
+LTABLE (PURE) "Dein Hieb sitzt, aber er war nur mit der flachen Seite von
+dem Schwert."> <LTABLE (PURE) "Der Schlag trifft " DEF-ACC
+" und hinterl%a%st eine leichte Wunde in seinem Arm.">> <LTABLE (PURE) <LTABLE
+(PURE) DEF-NOM-CAP " bekommt eine tiefe Wunde in der Seite."> <LTABLE (PURE)
+"Ein grausiger Schlag in den Schenkel! " DEF-NOM-CAP
+" ist momentan wie festgenagelt, aber er kann weiterk%ampfen!"> <LTABLE (PURE)
+"Schwupp! Dein Schlag f%allt! Dieser hat eine Arterie getroffen, das k%onnte gef%ahrlich sein!"
+> <LTABLE (PURE)
+"Schwupp! Dein Schlag hat getroffen! Dies k%onnte gef%ahrlich sein.">> <LTABLE
+(PURE) <LTABLE (PURE) DEF-DAT-CAP
+" hat es den Atem verschlagen, und er f%allt auf die Knie."> <LTABLE (PURE)
+DEF-NOM-CAP " ist f%ur einen Moment verwirrt und kann nicht zur%uckschlagen.">
+<LTABLE (PURE) "Die Macht deines Hiebes wirft " DEF-ACC
+" zur%uck, er ist benommen."> <LTABLE (PURE) DEF-NOM-CAP
+" ist verwirrt und kann nicht zur%uckschlagen."> <LTABLE (PURE)
+"Die Geschwindigkeit deines Sto%ses schl%agt " DEF-ACC " zur%uck.">> <LTABLE (
+PURE) <LTABLE (PURE) DEF-DAT-CAP " wird " WEP-NOM
+" aus der Hand geschlagen, damit ist er unbewaffnet."> <LTABLE (PURE)
+DEF-NOM-CAP " ist durch ein kluges T%auschungsman%over entwaffnet.">>>> 
+<GLOBAL CYCLOPS-MELEE <TABLE (PURE) <LTABLE (PURE) <LTABLE (PURE)
+"Der Zyklop schafft es nicht, aber die Nachwelle schmei%st dich beinahe um."> <
+LTABLE (PURE) "Der Zyklop greift dich an, aber er rennt gegen die Wand.">> <
+LTABLE (PURE) <LTABLE (PURE) "Der Zyklop sendet dich bewu%stlos zu Boden.">> <
+LTABLE (PURE) <LTABLE (PURE)
+"Der Zyklop bricht dir mit einem ungeheuren Hieb das Genick.">> <LTABLE (PURE)
+<LTABLE (PURE) "Ein schneller Schlag, aber er hat dich nur gestreift."> <LTABLE
+(PURE) "Ein dich streifender Faustschlag von dem Zyklopen.">> <LTABLE (PURE) <
+LTABLE (PURE) "Das Ungeheuer trifft dich mit seiner enormen Faust in der Brust und bricht dir einige Rippen."
+> <LTABLE (PURE)
+"Der Zyklop nimmt dir mit einem schnellen Schlag beinahe den Atem.">> <LTABLE (
+PURE) <LTABLE (PURE)
+"Der Zyklop landet einen Schlag, der dir den Atem momentan nimmt."> <LTABLE (
+PURE) "Deiner Waffen nicht achtend wird der Zyklop dich gegen die Wand des Raumes."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Zyklop nimmt pl%otzlich deine Waffe, bei%st hinein und schmei%st sie v%ar%achtlich auf die Erde."
+> <LTABLE (PURE)
+"Das Ungeheuer ergreift dein Handgelenk, quetscht seine Finger darum, und du l%a%st vor Schmerz "
+WEP-ACC " fallen.">> <LTABLE (PURE) <LTABLE (PURE)
+"Der Zyklop scheint nicht entscheiden zu k%onnen, ob er sein Abendessen kochen oder backen soll."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Zyklop, der h%ochst unsportlich ist, wird sein bewu%stloses Opfer los.">>>
+> 
+<GLOBAL TROLL-MELEE <TABLE (PURE) <LTABLE (PURE) <LTABLE (PURE)
+"Der Troll schwingt die Axt, aber er trifft nicht."> <LTABLE (PURE)
+"Die Axt des Trolls geht haarscharf an deinem Ohr vorbei."> <LTABLE (PURE)
+"Die Axt fegt vorbei, als du zur Seite springst."> <LTABLE (PURE)
+"Die Axt schmettert so hart gegen den Stein, da%s Funken spr%uhen.">> <LTABLE (
+PURE) <LTABLE (PURE)
+"Die flache Seite der Axt des Trolls trifft dich leicht am Kopf, und du wirst bewu%stlos."
+>> <LTABLE (PURE) <LTABLE (PURE) "Der Troll schneidet elegant deinen Kopf ab.">
+<LTABLE (PURE) "Die Axt des Trolls teilt dich in zwei gleiche Teile, von oben bis unten."
+> <LTABLE (PURE) "Die Axt des Trolls haut dir den Kopf ab.">> <LTABLE (PURE) <
+LTABLE (PURE) "Die Axt trifft dich direkt in die Seite. Au!"> <LTABLE (PURE)
+"Die Fl%ache der Axt des Trolls entfernt die Haut an deinem Unterarm."> <LTABLE
+(PURE) "Die Schw%unge des Trolls hauen dich beinahe um, w%ahrend du sie kaum rechtzeitig parieren kannst."
+> <LTABLE (PURE)
+"Der Troll schwingt seine Axt, trifft deinen Arm als du ausweichst.">> <LTABLE
+(PURE) <LTABLE (PURE)
+"Der Troll greift an, und seine Axt verletzt dich an deinem Schwertarm."> <
+LTABLE (PURE) "Ein Axthiebt hinterl%a%st eine tiefe Wunde in deinem Bein."> <
+LTABLE (PURE) "Die Axt des Trolls schwingt herunter, schl%agt dir die Schulter blutig."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Troll trifft dich mit einem schnellen Schlag, und du bist momentan au%ser Gefecht gesetzt."
+> <LTABLE (PURE)
+"Der Troll trifft, aber die Schneide wird von deiner R%ustung abgelenkt, trifft dich aber direkt in den Kopf."
+> <LTABLE (PURE) "Du stolperst unter einem Hagel von Axtstreichen zur%uck."> <
+LTABLE (PURE) "Der m%achtige Schlag des Trolls bringt dich auf die Kniee.">> <
+LTABLE (PURE) <LTABLE (PURE) "Die Axt trifft dein Schwert, und haut dich um.">
+<LTABLE (PURE) "Der Troll schwingt, du parierst, aber die Gewalt seines Streiches schl%agt dir "
+DER-WEP-ACC " aus der Hand."> <LTABLE (PURE)
+"Die Axt schl%agt dir die Waffe aus der Hand. Sie f%allt zu Boden.">> <LTABLE (
+PURE) <LTABLE (PURE) "Der Troll z%ogert, betastet seine Axt."> <LTABLE (PURE)
+"Der Troll kratzt sich nachdenklich am Kopf. Ob du wohl magische Kr%afte hast, wundert er sich?"
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Troll meistert seine Furcht und t%otet dich.">>>> 
+<GLOBAL THIEF-MELEE <TABLE (PURE) <LTABLE (PURE) <LTABLE (PURE)
+"Der Dieb sticht elegant mit dem Stilett und trifft nicht."> <LTABLE (PURE)
+"Du vermeidest das Stilett, als der Dieb tief sticht."> <LTABLE (PURE)
+"Du parierst einen blitzartigen Sto%s, und der Dieb bedient dich mit einem grimmigen Kopfnicken."
+> <LTABLE (PURE)
+"Der Dieb versucht, deine Abwehrstellung heimt%uckisch zu durchbrechen, aber du windest dich aus seiner Richtung."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Indem er die Richtung seines Sto%ses %andert, trifft dich der Dieb mit dem Heft des Stiletts, du wirst bewu%stlos."
+> <LTABLE (PURE) "Der Dieb haut dich k.o.">> <LTABLE (PURE) <LTABLE (PURE)
+"Dein Leben endet, als der Dieb die Schneide in dein Herz senkt."> <LTABLE (
+PURE) "Der Dieb kommt von der Seite, macht ein T%auschungsman%over und setzt die Schneide zwischen deine Rippen."
+> <LTABLE (PURE)
+"Der Dieb verbeugt sich formell, hebt das Stilett und mit einem h%a%slichen Grinsen beendet er den Kampf und dein Leben."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Ein schneller Hieb streift deinen linken Arm, und Blut rinnt deinen Arm herunter."
+> <LTABLE (PURE)
+"Blut beginnt zu flie%sen, als der Dieb sein Stilett %uber deinen Arm recht.">
+<LTABLE (PURE) "Das Stilett zuckt schneller, als Du denken kannst, und Blut flie%st von deinem Bein."
+> <LTABLE (PURE)
+"Der Dieb kommt langsam n%aher, schl%agt zu wie eine Schlange und l%a%st dich verwundet liegen."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Dieb schl%agt zu wie eine Schlange! Die empfangene Wunde ist ernst!"> <
+LTABLE (PURE) "Der Dieb versetzt dir einen tiefen Stich in den Oberarm."> <
+LTABLE (PURE) "Das Stilett ber%uhrt deine Stirn, und das herabrinnende Blut macht dich blind."
+> <LTABLE (PURE)
+"Der Dieb trifft dich am Handgelenk und pl%otzlich wird dein Schwertgriff schl%upfrig von dem Blut."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Der Griff von seinem Stilett kracht auf deinen Sch%adel, und du wankst zur%uck."
+> <LTABLE (PURE)
+"Der Dieb rammt das Heft seines Messers in deinen Bauch und du verlierst den Atem."
+> <LTABLE (PURE) "Der Dieb greift dich an, und du f%allst verzweifelt zur%uck."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"Ein langer theatralischer Stich. Du parierst ihn auf " WEP-DAT
+", aber der Dieb dreht sein Messer, und " WEP-NOM " fliegt dir aus der Hand.">
+<LTABLE (PURE) "Der Dieb dreht dir " DER-WEP-ACC
+" elegant aus der Hand, und es f%allt auf die Erde."> <LTABLE (PURE)
+"Du parierst einen Tiefschlag und " WEP-NOM " schl%upft dir aus der Hand.">> <
+LTABLE (PURE) <LTABLE (PURE)
+"Der Dieb, ein Mann aus guter Gesellschaft, stoppt f%ur eine Minute, um zu %uberlegen, ob es in Ordnung ist, dein Leben zu beenden."
+> <LTABLE (PURE) "Es am%usiert den Dieb, deine Taschen zu durchsuchen."> <
+LTABLE (PURE) "Der Dieb besch%aftigt sich damit, deinen Rucksack zu durchw%uhlen."
+>> <LTABLE (PURE) <LTABLE (PURE)
+"F%ur einen Moment vergi%st der Dieb seine gute Kinderstube, er schneidet dir den Hals ab."
+> <LTABLE (PURE)
+"Der Dieb, ein Pragmatiker, sieht in dir eine Bedrohung seines Lebens.">>>> 
+<CONSTANT V-VILLAIN 0> 
+<CONSTANT V-BEST 1> 
+<CONSTANT V-BEST-ADV 2> 
+<CONSTANT V-PROB 3> 
+<CONSTANT V-MSGS 4> 
+<GLOBAL VILLAINS <LTABLE <TABLE TROLL SWORD 1 0 TROLL-MELEE> <TABLE THIEF KNIFE
+1 0 THIEF-MELEE> <TABLE CYCLOPS <> 0 0 CYCLOPS-MELEE>>> 
+<DEFINE-ROUTINE I-FIGHT> 
+<DEFINE-ROUTINE AWAKEN> 
+<DEFINE-ROUTINE I-SWORD> 
+<DEFINE-ROUTINE INFESTED?> 
+<DEFINE-ROUTINE I-THIEF> 
+<DEFINE-ROUTINE DROP-JUNK> 
+<DEFINE-ROUTINE RECOVER-STILETTO> 
+<DEFINE-ROUTINE STEAL-JUNK> 
+<DEFINE-ROUTINE ROB> 
+<DEFINE-ROUTINE V-DIAGNOSE> 
+<DEFINE-ROUTINE V-SCORE> 
+<DEFINE-ROUTINE JIGS-UP> 
+<DEFINE-ROUTINE RANDOMIZE-OBJECTS> 
+<DEFINE-ROUTINE KILL-INTERRUPTS> 
+<DEFINE-ROUTINE BAG-OF-COINS-F> 
+<DEFINE-ROUTINE TRUNK-F> 
+<DEFINE-ROUTINE STUPID-CONTAINER> 
+<DEFINE-ROUTINE DUMB-CONTAINER> 
+<DEFINE-ROUTINE GARLIC-F> 
+<DEFINE-ROUTINE CHAIN-PSEUDO> 
+<DEFINE-ROUTINE TROLL-ROOM-F> 

@@ -1,0 +1,3223 @@
+West of House
+You are standing in an open field west of a white house, with a boarded front door.
+Westlich vom Haus
+"du stehst auf freiem Feld westlich von einem weissen Haus, dessen Haustuer mit Brettern vernagelt ist." 
+There is eine small mailbox here. (Renata: E.g., don't bother translating				           this sentence) 
+
+>EXAMINE THE WHITE HOUSE
+"Untersuche  das weisse Haus genau"
+
+The house is a beautiful colonial house which is painted white. It is clear that the owners must have been extremely wealthy.
+"Das Haus ist ein schoenes altes Herrenhaus, das weiss verputzt ist. Man sieht, dass die Besitzer enorm reich gewesen sein mussten.".
+
+>OPEN THE MAILBOX
+Opening die small mailbox reveals eine leaflet.
+"der Zettel"
+
+>TAKE LEAFLET
+Taken.
+
+>READ LEAFLET
+"WELCOME TO ZORK!
+"Willkommen in Zork!"
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore some of the most amazing territory ever seen by mortals. No computer should be without one!"
+"Zork ist ein Spiel voller Abenteuer, Gefahren  und gemeiner Schlauheit Beim Spielen wirst du einige der wundersamsten Welten entdecken, die irgend ein Sterblicher gesehen hat . Kein Heimcomputer sollte ohne dieses Spiel sein."
+>GO NORTH
+"Geh nach Norden"
+North of House
+"Noerdlich vom Haus"
+You are facing the north side of a white house. There is no door here, and all the windows are boarded up. To the north a narrow path winds through the trees.
+"Du stehst vor der Nordseite eines weissen Hauses. Es gibt hier keine Tuer, und alle Fenster sind mit Brettern vernagelt. Nach Norden windet sich  ein schmaler Pfad durch die Baeume.".
+>N
+Forest Path
+This is a path winding through a dimly lit forest. The path heads north-south
+here. One particularly large tree with some low branches stands at the edge of the path.
+"Dieser Pfad windet sich durch den duesteren Wald. Er verlaeuft von Norden  nach Sueden. Ein besonders grosser Baum mit einigen niederen Aesten steht am Rande des Pfades."
+
+>CLIMB TREE
+Up a Tree
+You are about 10 feet above the ground nestled among some large branches. The nearest branch above you is above your reach.
+Beside you on the branch is a small bird's nest.
+"Du bist ungefaehr 3 Meter ueber dem Boden umgeben von grossen Aesten Du kannst den naechsten Zweig ueber dir unmoeglich erreichen.
+Neben dir auf dem Ast ist ein kleines Vogelnest."
+
+In the bird's nest is a large egg encrusted with precious jewels, apparently scavenged by a childless songbird. The egg is covered with fine gold inlay, and ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is hinged and closed with a delicate looking clasp. The egg appears extremely fragile.
+"In dem Vogelnest ist ein grosses mit kostbaren Juwelen besetztes Ei, das . scheinbar von einem kinderlosen Singvogel geraubtwaurde. Das Ei ist von einer feinen  Goldschicht ueberzogen und mit Lapislazuli und Perlmutter geschmueckt.. Im Gegensatz zu einem gewoehnlichen Ei, hat dieses ein Scharnier und ist mit einem eleganten  Verschluss versehen. Das Ei sieht sehr zerbrechlich aus.
+>TAKE EGG
+
+Taken.
+
+>EXAMINE EGG
+Die jewel-encrusted egg is closed.
+geschlossen
+
+>OPEN EGG
+You have neither the tools nor the expertise.
+"du hast weder das Werkzeug noch das Geschick."
+>D
+Forest Path
+
+>N
+Clearing
+You are in a clearing, with a forest surrounding you on all sides. A path leads south.
+On the ground is a pile of leaves.
+
+"du stehst auf  einer Lichtung, und ein Wald umgibt dich von allen Seiten. Ein Pfad fuehrt nach Sueden.
+Auf dem Boden liegt ein Blaetterhaufen."
+
+>TAKE LEAVES
+In disturbing the pile of leaves, a grating is revealed.
+"Beim Stoebern im  Blaetterhaufen kommt ein Gitter  zum Vorschein."
+Taken.
+
+>EXAMINE GRATING
+Die grating is closed.
+"Das Gitter  ist geschlossen."
+
+>E
+Forest
+This is a dimly lit forest, with large trees all around.
+"Dies ist ein duesterer Wald mit grossen Baeumen rundherum."
+
+>E
+Forest
+The forest thins out, revealing impassable mountains.
+"Der Wald lichtet sich und unueberwindliche Bergekommen zum Vorsacheint."
+
+>W
+Forest
+You hear in the distance the chirping of a song bird.
+"In der Ferne hoerst du das Zwitschern eines Singvogels."
+
+>LISTEN TO SONG BIRD
+You can't hear the songbird now.
+"Jetzt kannst du den Singvogel nicht hoeren."
+
+>W
+Forest Path
+
+>S
+North of House
+
+>E
+Behind House
+You are behind the white house. A path leads into the forest to the east. In one corner of the house there is a small window which is slightly ajar.
+"DLu bist hinter dem weissen Haus. Nach Osten fuehrt in Pfad in den Wald.. An einem Ende der Hauswand befindet sich ein kleines Fenster, das einen Spalt offen steht."
+>E
+Clearing
+You are in a small clearing in a well marked forest path that extends to the east and west.
+"Du stehst aufeiner kleinen Lichtung auf einem wohlmarkierten Waldpfad, der sich nach Osten und Westen erstreckt."
+
+>S
+Forest
+This is a dimly lit forest, with large trees all around.
+
+>N
+Clearing
+>E
+Canyon View
+You are at the top of the Great Canyon on its west wall. From here there is a marvelous view of the canyon and parts of the Frigid River upstream. Across the canyon, the walls of the White Cliffs join the mighty ramparts of the Flathead Mountains to the east. Following the Canyon upstream to the north, Aragain Falls may be seen, complete with rainbow. The mighty Frigid River flows out from a great dark cavern. To the west and south can be seen an immense forest, stretching for miles around. A path leads northwest. It is possible to climb down into the canyon from here.
+"Blick auf Schlucht
+du bist am oberen Rand derGross-Schlucht, auf dem Gipfel der  Westwand. Von hier hat man einen wunderbaren Blick auf die Schlucht und flussaufwaerts auf den FlussGletsch. Gegenueber der Schlucht schliessen die Weissen Felsen de Gipfel der Hohlkopfberge nach Osten hin an. Verfolgt man die Schlucht flussaufwaerts nach Norden, dann kann man die Wiedermal Faelle, aus denen ein Regenbogen heraufsteigt, sehen. . Der maechtige Fluss Gletsch fliesst aus einer grossen dunklen Hoehle. Nach Westen und Sueden kann man einen enormen Wald sehen, der sich auf Kilometer hinzieht. Ein Pfad fuehrt nach Nordwesten. Es ist moeglich, von hier in die Schlucht hinunterzuklettern." 
+>D
+Rocky Ledge
+You are on a ledge about halfway up the wall of the river canyon. You can see from here that the main flow from Aragain Falls twists along a passage which it is impossible for you to enter. Below you is the canyon bottom. Above you is more cliff, which appears climbable.
+Felsvorsprung
+
+"du bist auf einem Vorsprung, der ungefaehr auf halber Hoehe auf der Wand der Flusschlucht liegt. du kannst von hier sehen, dass sich der groesste Teil der Wiedermal Faelle sich durch einen Durchgang windet, den du nicht passieren kannst. Unter dir ist derAbgrund  Ueber dir gibt es weitereFelsen, dieerklimmbar scheinen."
+
+>D
+Canyon Bottom
+You are beneath the walls of the river canyon which may be climbable here. The lesser part of the runoff of Aragain Falls flows by below. To the north is a narrow path.
+"Auf dem Grund der Schlucht
+du bist der Flusschlucht, die  hier eher zu erklettern sind. Der geringere Teil des Ablaufs der Wiedermal Faelle fliesst unter dir vorbei. Nach Norden fuehrt ein schmaler Pfad. "
+
+>N
+End of Rainbow
+You are on a small, rocky beach on the continuation of the Frigid River past the Falls. The beach is narrow due to the presence of the White Cliffs. The river canyon opens here and sunlight shines in from above. A rainbow crosses over the falls to the east and a narrow path continues to the southwest.
+"Am Ende des Regenbogens
+du bist am unteren Gletsch hinter den Wasserfaellen an  einem schmalen steinigen Ufer . Das Ufer is wegen der Weissen Felsen schmal. Die Flusschlucht oeffnet sich hier, und Sonnenstrahlen fallen von oben.herein.  Ein Regenbogen weist  ueber die  Faelle nach Osten, und ein schmaller Pfad fuehrt weiter nach Suedwesten."
+
+>WALK ON RAINBOW
+Can you walk on water vapor?
+"Kannst du auf Wasserdaempfen wandeln?"
+
+>SW
+Canyon Bottom
+
+>U
+Rocky Ledge
+
+>U
+Canyon View
+
+>NW
+Clearing
+
+>W
+Behind House
+
+>S
+South of House
+You are facing the south side of a white house. There is no door here, and all the windows are boarded.
+"Suedlich vom Haus 
+du stehst auf der Suedseite des weissen Hauses. Es gibt hier keine Tuer, und alle Fenster sind vernagelt."
+
+>N
+The windows are all boarded.
+"Die Fenster sind alle vernagelt."
+
+>OPEN WINDOWS
+The windows are boarded and can't be opened.
+"Die Fenster sind vernagelt und lassen sich nicht oeffnen."
+
+>E
+Behind House
+
+>N
+North of House
+
+>E
+Behind House
+
+>OPEN WINDOW
+With great effort, you open the window far enough to allow entry.
+" Mit grosser Anstrengung oeffnest du das Fenster weit genug, um einzusteigen."
+
+>CLIMB THROUGH WINDOW
+
+Kitchen
+You are in the kitchen of the white house. A table seems to have been used recently for the preparation of food. A passage leads to the west and a dark staircase can be seen leading upward. A dark chimney leads down and to the east is a small window which is open.
+A bottle is sitting on the table.
+Die glass bottle contains:
+Eine quantity of water
+On the table is an elongated brown sack, smelling of hot peppers.
+"Kueche
+du bist in der Kueche des weissen Hauses. Ein Tisch muss vor Kurzem zur Bereitung einer Mahlzeit benutzt worden sein. Ein Durchgang fuehrt nach Westen, und man kann eine dunkle Treppe sehen, die nach oben fuehrt. Ein dunkler Kamin  fuehrt nach unten. Nach Osten ist ein kleines Fenster, das offen steht. 
+Auf dem Tischt steht eine Flasche 
+"Auf dem Tisch ist ein laenglicher brauner Sack. Er riecht nach Aepfeln."
+
+>TAKE SACK
+Taken.
+
+>LOOK AT SACK
+Die brown sack is closed.
+"zugebunden"
+
+>OPEN SACK
+Opening die brown sack reveals eine clove of garlic, and eine lunch.
+"Der geoeffnete Sack enthaelt eine Knoblauchzehe und ein belegtes Brot."
+
+>SMELL GARLIC
+Die smells like einer clove of garlic.
+
+>LOOK AT WATER
+There's nothing special about die quantity of water.
+"Es gibt nichts Auffallendes  an der Wassermenge."
+
+>OPEN BOTTLE
+Opened.
+
+>DRINK WATER
+You have to be holding die glass bottle first.
+"du musst die Glassflasche erst in der Hand halten."
+
+>GET BOTTLE
+Taken.
+
+>DRINK WATER
+It goes down well, quelling whatever thirst you might have had.
+"Es tut gut, loescht jeglichen Durst, den du eventuell vrspuert  hast."
+
+>U
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+"Du bist in einem dunklen Ort gelandet.
+Es ist stockdunkel. Es besteht die Moeglichkeit, dass du von einem Greuel gefressen wirst."
+
+>WHAT IS A GRUE
+The grue is a sinister, lurking presence in the dark places of the earth. Its favorite diet is adventurers, but its insatiable appetite is tempered by its fear of light. No grue has ever been seen by the light of day, and few have survived its fearsome jaws to tell the tale.
+"Was ist ein Greuel
+Das Greuel ist ein boesartiges lauerndes Wesen in den dunklen Orten dieser Welt. Sein Lieblingsfressen besteht aus Abenteurern, aber sein unersaettlicher Appetit ist von seiner Furcht vor Licht gemaessigt Kein Greuel ist je bei Tageslicht gesehen worden, und nur wenige haben seine fuerchterlichen Krallen ueberlebt, um von dem grauenhaften Wesen zu erzaehlen."
+
+>D
+Kitchen
+
+>W
+Living Room
+You are in the living room. There is a doorway to the east, a wooden door with strange gothic lettering to the west, which appears to be nailed shut, a trophy case, and a large oriental rug in the center of the room.
+Above the trophy case hangs an elvish sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+
+"Wohnzimmer
+du bist im Wohnzimmer. Da sind eine Tuer nach Osten, eine vernagelte Holztuer mit fremden Runen, ein Trophaeenschrank und ein Perserteppich in der Mitte . Ueber dem Trophaeen Schrank haengt ein Elfenschwert aus dem Altertum. Eine batteriengespeiste Messingleuchte ist auf dem Trophaeenschrank ."
+
+>GET SWORD
+Taken.
+
+>GET LAMP
+Your load is too heavy.
+"Last ist zu schwer."
+
+>LOOK AT LAMP
+The lamp is turned off.
+"Die Leuchte  ist nicht an."
+
+>LOOK AT SWORD
+There's nothing special about die sword.
+"Es gibt nichts Besonderes an diesem Schwert."
+
+>E
+Kitchen
+
+>TURN ON LAMP
+You can't see any lamp here!
+"du siehst hier keine Leuchte."
+
+>W
+Living Room
+A battery-powered brass lantern is on the trophy case.
+
+>I
+You are carrying:
+Eine sword
+Eine glass bottle
+Eine brown sack
+Die brown sack contains:
+Eine clove of garlic
+Eine lunch
+Eine pile of leaves
+Eine jewel-encrusted egg
+Eine leaflet
+
+>DROP FOOD, BOTTLE
+lunch: Dropped.
+glass bottle: Dropped.
+
+>GET LAMP
+Taken.
+
+>E
+Kitchen
+
+>U
+You have moved into a dark place.
+It is pitch black. You are likely to be eaten by a grue.
+
+>TURN ON LAMP
+Die brass lantern is now on.
+"Die Messingleuchte ist nun an."
+
+Attic
+This is the attic. The only exit is a stairway leading down.
+A large coil of rope is lying in the corner.
+On a table is a nasty-looking knife.
+"Speicher 
+Dies ist der Speicher. Der einzige Ausgang ist ein Treppenhaus nach unten.
+Ein dickes aufgerolltes Seil liegt in der Ecke. 
+Auf einem Tisch liegt ein gefaehrlich aussehendes Messer."
+>TAKE ROPE
+Your load is too heavy.
+
+>I
+You are carrying:
+Eine brass lantern (providing light)
+Eine sword
+Eine brown sack
+Die brown sack contains:
+Eine clove of garlic
+Eine pile of leaves
+Eine jewel-encrusted egg
+Eine leaflet
+
+>DROP LEAVES
+Dropped.
+
+>DROP LEAFLET
+Dropped.
+
+>GET ROPE
+Taken.
+
+>L
+Attic
+This is the attic. The only exit is a stairway leading down.
+A small leaflet is on the ground.
+On the ground is a pile of leaves.
+On a table is a nasty-looking knife.
+
+>GET KNIFE
+Taken.
+
+>I
+You are carrying:
+Eine nasty knife
+Eine rope
+Eine brass lantern (providing light)
+Eine sword
+Eine brown sack
+Die brown sack contains:
+Eine clove of garlic
+Eine jewel-encrusted egg
+
+>D
+Kitchen
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+"Ein Pepperoni-Brot liegt hier."
+>LOOK UNDER RUG
+Underneath the rug is a closed trap door. As you drop the corner of the rug, the trap door is once again concealed from view.
+"Unter dem Teppich ist eine geschlossene Falltuer. Wenn du den Teppich loslaesst, ist die Falltuer wieder versteckt."
+
+>MOVE THE RUG
+With a great effort, the rug is moved to one side of the room, revealing the dusty cover of a closed trap door.
+"Zieh am Teppich
+Mit groesster Anstrengung ist der Teppich aus dem Weg gezerrt. Die staubige Oberflaeche einer geschlossenen Falltuere kommt zum Vorschein."
+
+>MOVE THE RUG
+Having moved the carpet previously, you find it impossible to move it again.
+"Nachdem du vorher den Teppich weggezogen hast, findest du es jetzt unmoeglich ihn zurueckzuziehen."
+
+>OPEN TRAP DOOR
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+"Die Tuer oeffnet sich muehsam, und bringt eine baufaellige  Treppe zum Vorschein, die nach unten in die Dunkelheit fuehrt."
+
+>D
+The trap door crashes shut, and you hear someone barring it.  
+Die Falltuer kracht zu, und du hoerst, dass jemand sie verriegelt."
+
+Cellar
+You are in a dark and damp cellar with a narrow passageway leading north, and a crawlway to the south. On the west is the bottom of a steep metal ramp which is unclimbable.
+Your sword is glowing with a faint blue glow.
+"Keller
+du bist in einem dunklen und muffigen Keller mit einem schmalen Durchgang nach Norden und einem niedrigen Tunnel nach Sueden. Im Westen ist das Ende einer steilen Metallrampe, die nicht erklimmbar ist.
+>CLIMB UP RAMP
+You try to ascend the ramp, but it is impossible, and you slide back down.
+"du versuchst die Rampe hinaufzuklettern, aber das ist unmoeglich. du rutschst wieder runter."
+
+>S
+East of Chasm
+You are on the east edge of a chasm, the bottom of which cannot be seen. A narrow passage goes north, and the path you are on continues to the east. Your sword is no longer glowing.
+
+"du bist am oestlichen Rand einer Spalte, deren Grund nicht zu sehen ist. Ein enger Durchgang geht nach Norden, und der Pfad, auf dem du bist, fuehrt nach Osten weiter. 
+dein Schwert leuchtet nicht mehr.".
+
+>E
+Gallery
+This is an art gallery. Most of the paintings have been stolen by vandals with exceptional taste. The vandals left through either the north or west exits. Fortunately, there is still one chance for you to be a vandal, for on the far wall is a painting of unparalleled beauty.
+"Galerie
+Dies ist eine Kunstgalerie. 
+Die meisten Gemaelde sind von Gangstern  mit aussergewoehnlich gutem  Geschmack gestohlen worden. Die Gangster  sind entweder durch den Nord -oder den Westausgang abgehauen. Gluecklicherweise bleibt dir noch eine Chance auch ein Gangster zu werden,  denn an der anderen Wand haengt ein Gemaelde von einmaliger Schoenheit."
+
+>TAKE PAINTING
+Your load is too heavy.
+
+>N
+Studio
+This appears to have been an artist's studio. The walls and floors are splattered with paints of 69 different colors. Strangely enough, nothing of value is hanging here. At the south end of the room is an open door (also covered with paint). A dark and narrow chimney leads up from a fireplace; although you might be able to get up it, it seems unlikely you could get back down.
+Loosely attached to a wall is a small piece of paper.
+"Atelier
+Dies  scheint, ein Kuenstleratelier gewesen zu sein. Die Waende und Fussboeden sind mit Spritzern von 69 verschiedenen Farben bekleckst. Seltsamererweise haengt hier nichts Wertvolles. Am suedlichen Ende des Zimmers ist eine offene Tuer (auch mit Farbe bekleckst). Ein dunkler und schmaler Schornstein fuehrt vom Kamin hinauf. Es waere wahrscheinlich einfach fuer dich, dort hinaufzuklettern, aber die Chancen, dass du wieder runterkommst, sind gering. . 
+Lose an der Wand haengt ein kleines Stueck Papier."
+>READ PAPER
+(Taken)
+Congratulations!
+
+You are the privileged owner of ZORK I: The Great Underground Empire,  self-contained and self-maintaining universe. If used and maintained in accordance with normal operating practices for small universes, ZORK will provide many months of trouble-free operation.
+
+"Herzlichen Glueckwunsch!
+du bist der priveligierte Besitzer von ZORK I: Das Grosse Unterirdische Imperium, ein unabhaengiges selbstversorgendes Universum Wenn es gemaess den Operationsregelnfuer kleine Universe  benutzt und erhalten wird, dann wird ZORK auch viele Monate problemlos operieren."
+
+
+>U
+You can't get up there with what you're carrying.
+"Mit dem, was du da schleppst, kannst du da nicht hinauf."
+
+>DROP ALL BUT SWORD,LAMP
+ZORK owner's manual: Dropped.
+nasty knife: Dropped.
+rope: Dropped.
+brown sack: Dropped.
+jewel-encrusted egg: Dropped.
+
+>U
+Kitchen
+
+>D
+Only Santa Claus climbs down chimneys.
+"Nur der Schornsteinfeger krabbelt in Schornsteine."
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+
+>OPEN TRAP DOOR
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+
+>D
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+Your sword is glowing with a faint blue glow.
+"dein Schwert leuchtet mit einem schwachen blauen Schimmer."
+
+>N
+The Troll Room
+This is a small room with passages to the east and south and a forbidding hole leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the   walls.
+"Das Trollzimmer
+Dies ist ein kleines Zimmer mit Durchgaengen nach Osten und Sueden und einem furchterregenden Loch nach Westen.. Blutspuren und tiefe Kratzer (vielleicht von einer Axt) verschandeln die Waende."
+
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the room.
+Your sword has begun to glow very brightly.
+The troll's swing almost knocks you over as you barely parry in time.
+
+"Ein widerlicher Troll, der eine blutige Axt schwingt, blockiert alle Ausgaenge aus dem Zimmer."
+Dein Schwert leuchtet jetzt ganz hell .
+Die geschwungene Axt haut dich bald um, denn du kannst sie kaum  parieren."
+"
+>SAVE
+To file (SAVE): 1..1Ok.
+
+>LOOK AT TROLL
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the room.
+The flat of the troll's axe hits you delicately on the head, knocking you out.
+"Die flache Seite der Axt trifft dich leicht am Kopf, und du wirst bewusstlos."
+
+>HIT TROLL WITH SWORD
+You charge, but the troll jumps nimbly aside.
+The axe crashes against the rock, throwing sparks!
+"du greifst an, aber der Troll huepft leichtfuessig zu Seite.
+Die Axt schmettert so hart gegen den Stein, dass Funken spruehen."
+
+>KILL TROLL WITH SWORD
+A quick stroke, but the troll is on guard.
+The axe sweeps past as you jump aside.
+"Ein schneller Schlag, aber der Troll ist auf der Hut.
+Die Axt streift vorbei, als du zur Seite springst."
+
+>KILL TROLL
+(with der sword)
+A good slash, but it misses the troll by a mile.
+The flat of the troll's axe hits you delicately on the head, knocking you out.
+"Guter Hieb, aber leider hat er den Troll um etwa einen Kilometer verpasst. 
+"Die flache Seite der Axt trifft dich leicht am Kopf, und du wirst bewusstlos."
+
+>KILL TROLL
+(with der sword)
+"(mit Schwert)"
+It's curtains for the troll as your sword removes his head.
+Almost as soon as die troll breathes his last breath, a cloud of sinister black fog envelops him, and when the fog lifts, the carcass has disappeared.
+Your sword is no longer glowing.
+
+"Der Troll beisst ins Grass, als ihm dein Schwert den Kopf abschlaegt. Fast gleichzeitig mit dem letzten Atemzug des Trolls verhuellt ihn eine Wolke aus gespenstigem schwarzem Nebel, und wenn der Nebel sich hebt, ist die Leiche verschwunden. 
+dein Schwert leuchtet nicht mehr."
+
+>LOOK AT TROLL
+You can't see any troll here!
+"Hier gibt es keinen Troll mehr!"
+
+>DROP ALL BUT LAMP
+sword: Dropped.
+
+>I
+You are carrying:
+Eine brass lantern (providing light)
+
+>S
+Cellar
+
+>S
+East of Chasm
+
+>E
+Gallery
+Fortunately, there is still one chance for you to be a vandal, for on the far wall is a painting of unparalleled beauty.
+
+>GET PAINTING
+
+Taken.
+
+>LOOK AT PAINTING
+There's nothing special about die painting.
+
+>N
+Studio
+There is eine brown sack here.
+Die brown sack contains:
+Eine clove of garlic
+There is eine rope here.
+There is eine nasty knife here.
+There is eine ZORK owner's manual here.
+Someone carrying a large bag is casually leaning against one of the walls here.
+He does not speak, but it is clear from his aspect that the bag will be taken only over his dead body.
+"Jemand, der einen grossen Sack traegt, lehnt hier gegen eine Wand.
+Er spricht kein Wort, aber es besteht kein Zweifel, dass er sich nur ueber seine eigene Leiche von dem Sack trennen wird."
+
+>U
+Kitchen
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+
+>OPEN TROPHY CASE
+Opened.
+
+>PUT PAINTING IN CASE
+Done.
+
+>OPEN TRAP 
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+
+>D
+The trap door crashes shut, and you hear someone barring it.
+
+Cellar
+
+>S
+East of Chasm
+
+>E
+Gallery
+
+>N
+Studio
+There is eine brown sack here.
+Die brown sack contains:
+Eine clove of garlic
+There is eine rope here.
+There is eine nasty knife here.
+There is eine ZORK owner's manual here.
+
+>GET ROPE
+Taken.
+
+>S
+Gallery
+
+>W
+East of Chasm
+
+>N
+Cellar
+
+>N
+The Troll Room
+There is eine sword here.
+There is eine bloody axe here.
+
+>E
+
+East-West Passage
+This is a narrow east-west passageway. There is a narrow stairway leading down  at the north end of the room.
+
+>E
+Round Room
+This is a circular stone room with passages in all directions. Several of them  have unfortunately been blocked by cave-ins.
+"Rundes Zimmer
+Dies ist ein rundes turmartiges Zimmer mit Durchgaengen inalleRichtungen. Einige sind leider durch Einsturz blockiert ". 
+
+>SE
+Engravings Cave
+You have entered a low cave with passages leading northwest and east.
+There are old engravings on the walls here.
+"Hoehle mit Einmeisselungen
+du bist in eine Hoehle getreten, die Durchgaenge nach Norwesten und Osten hat. 
+Dort gibt es alte Einmeisselungen an den Waenden."
+
+>E
+Dome Room
+You are at the periphery of a large dome, which forms the ceiling of another room below. Protecting you from a precipitous drop is a wooden railing which circles the dome.
+"Kuppelzimmer
+du bist am Rand einer grossen Kuppel, die die Decke eines  Raumes darunter formt. Ein hoelzernes Gelaender, das die Kuppel umgibt, beschuetzt dich vor dem Herunterfallen in eine steilen Abgrund."
+
+>TIE ROPE TO RAILING
+The rope drops over the side and comes within ten feet of the floor.
+"Das Seil faellt ueber die Seite und reicht bis zu 3 Metern ueber dem Boden."
+
+>CLIMB DOWN ROPE
+Torch Room
+This is a large room with a prominent doorway leading to a down staircase. Above you is a large dome. Up around the edge of the dome (20 feet up) is a wooden railing. In the center of the room sits a white marble pedestal.
+A piece of rope descends from the railing above, ending some five feet above your head.
+Sitting on the pedestal is a flaming torch, made of ivory.
+"Fackelzimmer 
+Dies ist ein grosser Raum mit einem imponierenden Eingang, der zu einem nTreppenhaus fuehrt, das nach unten geht. Oben um den Rand der Kuppel (6.5 Meter ueber dir  ist ein hoelzernes Gelaender. In der Mitte dieses Zimmers ruht ein
+																	          
+Auf dem Podest ist eine brennende Fackel aus Elfenbein ."
+
+>GET TORCH
+
+Taken.
+
+>TURN OFF LAMP
+Die brass lantern is now off.
+
+>I
+You are carrying:
+Eine torch (providing light)
+Eine brass lantern
+
+>S
+Temple
+This is the north end of a large temple. On the east wall is an ancient inscription, probably a prayer in a long-forgotten language. Below the prayer is a staircase leading down. The west wall is solid granite. The exit to the north end of the room is through huge marble pillars.
+There is eine brass bell here.
+" Dies ist das Nordende eines grossen Tempels. Auf der Ostwand siehst du eine antike Inschrift, die wahrscheinlich ein Gebet in einer laengst vergessenen Sprache ist. Unter dem Gebet fuehrt ein Treppenhaus nach unten. Die Westwand ist aus Granit. Der Ausgang im Norden des Raumes fuehrt durch riesige Marmorsaeulen. 
+Es befindet sich hier  eine Messingglocke."
+
+>E
+Egyptian Room
+This is a room which looks like an Egyptian tomb. There is an ascending staircase to the west.
+The solid-gold coffin used for the burial of Ramses II is here.
+"Dieser Raum  sieht aus wie ein aegyptisches Grab. Im Westen ist eine Treppe nach oben.Der reingoldene Sarg, den man fuer das Begraebnis von Ramses II. benutzt hat ist hier."
+
+>GET COFFIN
+
+Taken.
+
+>LOOK AT COFFIN
+Die gold coffin is closed.
+
+>W
+Temple
+There is eine brass bell here.
+
+>S
+Altar
+This is the south end of a large temple. In front of you is what appears to be  an altar. In one corner is a small hole in the floor which leads into darkness You probably could not get back up it.
+On the two ends of the altar are burning candles.
+On the altar is a large black book, open to page 569.
+"Dies ist das Suedende eines grossen Tempels. Vor dir ist eine Art Altar. In einer Ecke ist ein kleines Loch im Boden, das in absolute Dunkelheit fuehrt. 
+Es sieht nicht so aus, als ob du da je wieder rauskaemst.
+Auf beiden Seiten des Altars stehen brennende Kerzen.
+Auf dem Altar liegt ein grosses schwarzes Buch. Es ist bei Seite 569 aufgeschlagen."
+
+>READ BOOK
+Commandment #12592
+12592.Gebot 
+
+Oh ye who go about saying unto each:  "Hello sailor":
+Dost thou know the magnitude of thy sin before the gods?
+Yea, verily, thou shalt be ground between two stones.
+Shall the angry gods cast thy body into the whirlpool?
+Surely, thy eye shall be put out with a sharp stick!
+Even unto the ends of the earth shalt thou wander and  Unto the land of the dead shalt thou be sent at last.
+Surely thou shalt repent of thy cunning.
+" Oh Ihr, die Ihr zueinander sagt:"Gegruesset seist Du, Seemann"
+Seid Ihr Euch der Groesse Eurer Suenden vor den Goettern bewusst?
+Es steht geschrieben, dass Ihr zwischen Steinen zermalmt werden sollt. 
+Sollen die zornigen Goetter Eure Ueberreste in das Kneippbecken werfen?
+Wahrhaftig  Eure Augen sollten mit einem spitzen Stock geblendet werden!
+Bis ans Ende dieser Erde sollt Ihr wandern,. und in denHades am Ende Eurer Tage sollt Ihr verbannt werden.
+Wahrhaftig Ihr sollt buessen fuer eure Schlauheit."
+>HELLO SAILOR
+Nothing happens here.
+
+>PRAY
+Forest
+This is a forest, with trees in all directions. To the east, there appears to be sunlight.
+
+>E
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+>S
+North of House
+
+>E
+Behind House
+
+>W
+Kitchen
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+Eine painting
+
+>PUT COFFIN IN TROPHY CASE
+Done.
+
+>GET COFFIN
+Taken.
+
+>E
+Kitchen
+
+>E
+Behind House
+
+>E
+Clearing
+
+>E
+Canyon View
+
+>D
+Rocky Ledge
+
+>D
+Canyon Bottom
+
+>N
+End of Rainbow
+
+>OPEN COFFIN
+Opening die gold coffin reveals eine sceptre.
+
+>GET SCEPTRE
+
+Taken.
+
+>WAVE SCEPTRE
+Suddenly, the rainbow appears to become solid and, probably, walkable   (the giveaway seems to be the stairs and bannister) 
+A shimmering pot of gold appears at the end of the rainbow.
+"Ploetzlich wird der Regenbogen zu einer Art Strasse und erscheint begehbar
+(Treppen mit Gelaendererweckendiesen Eindruck).
+Ein glitzernder goldener Topf erscheint am Ende des Regenbogens."
+
+>GET GOLD
+Your load is too heavy.
+
+>SW
+Canyon Bottom
+
+>U
+Rocky Ledge
+
+>U
+Canyon View
+
+>W
+Forest
+
+>E
+The rank undergrowth prevents eastward movement.
+"Undurchdringliches Unterholz versperrt den Weg nach Osten."
+
+>N
+Clearing
+
+>W
+Behind House
+
+>W
+Kitchen
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+Eine painting
+
+>PUT COFFIN IN TROPHY CASE
+Done.
+
+>E
+Kitchen
+
+>E
+Behind House
+
+>E
+Clearing
+
+>E
+Canyon View
+
+>D
+Rocky Ledge
+
+>D
+Canyon Bottom
+
+>N
+End of Rainbow
+At the end of the rainbow is a pot of gold.
+
+>GET GOLD
+
+Taken.
+
+>SW
+Canyon Bottom
+
+>U
+Rocky Ledge
+
+>U
+Canyon View
+
+>W
+Forest
+
+>N
+Clearing
+
+>W
+Behind House
+
+>W
+Kitchen
+
+>PUT GOLD IN TROPHY CASE
+You can't see any trophy case here!
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+Eine gold coffin
+Eine painting
+
+>PUT GOLD IN TROPHY CASE
+Done.
+
+>I
+You are carrying:
+Eine sceptre
+Eine torch (providing light)
+Eine brass lantern
+
+>OOPS TROPHY
+Done.
+
+>D
+The trap door is closed.
+
+>OPEN DOOR
+Welche door meinst du, die wooden door or die trap door?
+
+>TRAP DOOR
+The door reluctantly opens to reveal a rickety staircase descending into darkness.
+"Die Tuer oeffnet sich muehsam, und bringt eine baufaellige Treppe zum Vorschein, die in die Dunkelheit fuehrt."
+
+>D
+Cellar
+
+>N
+The Troll Room
+There is eine bloody axe here.
+
+>E
+East-West Passage
+
+>E
+Round Room
+
+>E
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground. There is a narrow passage from east to west and a stone stairway leading upward.
+"Das laute Zimmer 
+Dies ist ein riesiges Zimmer, in dem man die Decke nicht von unten erkennen kann. Hier ist ein enger Durchgang von Osten nach Westen und eine Steintreppe fuehrt nach oben."
+The room is deafeningly loud with an undetermined rushing sound. The sound seems  to reverberate from all of the walls, making it difficult even to think.
+"Der Raum ist mit ohrenbetaeubendem Laermgefuellt. Das Getoese scheint, von allen Waenden widerzuhallen. Es ist unmoeglich, hier auch nur zu denken.
+,On the ground is a large platinum bar.
+"Auf dem Boden liegt ein Platinbarren."
+
+>TAKE BAR
+bar bar ...
+
+>ECHO
+The acoustics of the room change subtly.
+"Die Akustik in dem Raum aendert sich ein bisschen."
+
+Loud Room
+On the ground is a large platinum bar.
+
+>GET PLATINUM BAR
+
+Taken.
+
+>DROP BAR
+Dropped.
+
+>E
+Damp Cave
+This cave has exits to the west and east, and narrows to a crack toward the south. The earth is particularly damp here.
+
+Diese Hoehle hat Ausgaenge nach Westen und Osten und verengt sich nach Sueden zu einer Ritze. Der Boden ist hier besonders feucht."
+
+>E
+White Cliffs Beach
+You are on a narrow strip of beach which runs along the base of the White Cliffs. There is a narrow path heading south along the Cliffs and a tight passage leading west into the cliffs themselves.
+"Weisse Felsen Strand
+du bist aneinem schmalen  Strand, der am Fusse der Weissen Felsen entlanglaeuft. Es gibt hier einen schmalen Pfad, der entlang der Felsen nach Sueden laeuft und einen engen Durchgang, der nach West mitten in die Klippen hineinfuehrt."
+
+>S
+White Cliffs Beach
+You are on a rocky, narrow strip of beach beside the Cliffs. A narrow path leads north along the shore.
+
+>N
+White Cliffs Beach
+
+>W
+Damp Cave
+
+>W
+Loud Room
+On the ground is a large platinum bar.
+
+>W
+Round Room
+
+>N
+North-South Passage
+This is a high north-south passage, which forks to the northeast.
+"Nord-Sueddurchgang
+Hier ist ein Nord-Sueddurchgang, der sich nach Nordosten gabelt."
+
+>N
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the  south side of the chasm, where a crack opens into a passage.
+"Spalte 
+Eine Spalte verlaeuft von Suedwesten nach Nordosten, und der Pfad folgt ihr. du bist auf der Suedseite der Spalte, wo eine schmale Oeffnung in einen Durchgang fuehrt."
+
+>NE
+Reservoir South
+You are in a long room on the south shore of a large lake, far too deep and widefor crossing.
+There is a path along the stream to the east or west, a steep pathway climbingsouthwest along the edge of a chasm, and a path leading into a canyon to the southeast.
+"Reservoir Sued
+du bist in einem laenglichen Raum am Suedufer eines grossen Sees, der viel zu tief und zu breit zum Ueberqueren ist. 
+AmBsvh entlang zieht sich ein Pfad nach Osten oder Westen, einSteilpfad, der suedwestlich am Rand der Spalte entlang ansteigt. Ein Pfad fuehrt in eine Schlucht nach Suedosten."
+
+>W
+Stream View
+You are standing on a path beside a gently flowing stream. The path follows the stream, which flows from west to east.
+"Blick auf den Bach
+du stehst auf einem Pfad bei einem plaetschernden Bach. Der Pfad folgt dem Bach, der von  Westen und nach Osten fliesst."
+
+>E
+Reservoir South
+
+>SE
+Deep Canyon
+You are on the south edge of a deep canyon. Passages lead off to the east, northwest and southwest. A stairway leads down. You can hear the sound of  flowing water from below.
+"Tiefe Schlucht
+du bist am Suedrand einer tiefen Schlucht. Durchgaenge fuehren nach Osten, Nordwesten und Suedwesten. Eine Treppe fuehrt nach unten. Du kannst von unten herauf das Rauschen von Wasser hoeren."
+
+>E
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite a tourist attraction in times far distant. There are paths to the north, south,  and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. 
+Directly above the bolt is a small green plastic bubble.
+"Damm
+du stehst oben auf dem Hochwasserschutzdamm Nr.3.Er war wohl zu seiner Zeit eine grosse Sehenswuerdigkeit.  Es gibt hier Pfade nach Norden, Sueden und Westen, und eine steile Abkuerzung.
+Die Schleusentore des Dammes sind geschlossen. Hinter dem Damm kann man ein grosses Reservoir sehen. Wasser fliesst wild ueber den jetzt seit langem unbenutzten Damm. Es gibt hier eine Schalttafel, auf der eine grosse Metallschraube angebracht ist. Direkt ueber der Schraube ist eine kleine gruene Plastikblase."
+
+>GET ALL
+dam: A valiant attempt.
+green bubble: It is an integral part of the control panel. bolt: 
+It is an integral part of the control panel.
+
+>N
+Dam Lobby
+This room appears to have been the waiting room for groups touring the dam.
+There are open doorways here to the north and east marked "Private", and there  is a path leading south over the top of the dam.
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+There is a matchbook whose cover says "Visit Beautiful FCD#3" here.
+"Eingangshalle zum Damm
+Dieser Raum scheint, der Warteraum fuer Besuchergruppen gewesen zu sein.
+Es gibt hier offene Tueren, die nach Norden und Osten fuehren. Sie haben die Aufschrift "Privat", und ein Pfad fuehrt nach Sueden ueber den oberen Damm.
+
+Einige Prospekte mit dem Titel: Hochwasserschutzdamm No.3 liegen bei der Rezepzion. Eine Streichholzschachtel mit der Auffschrift:"Visit Beautiful FCD#3"liegt hier."
+>N
+Maintenance Room
+This is what appears to have been the maintenance room for Flood Control Dam #3.
+"Wartungsraum
+Dies muss der Wartungsraum fuer den Hochwasserschutzdamm No.3 gewesen sein."
+Apparently, this room has been ransacked recently, for most of the valuable equipment is gone. On the wall in front of you is a group of buttons colored blue, yellow, brown, and red. There are doorways to the west and south.
+There is eine wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is eine screwdriver here.
+There is eine group of tool chests here.
+"Scheinbar ist dieser Raum vor Kurzem gepluendert worden, denn die meisten wertvollen Geraete sind weg. An der Wand vor dir haengen blaue, gelbe, braune und rote Knoepfe. Tueren fuehren nach Westen und Sueden. 
+
+>GET ALL
+wrench: Taken.
+tube: Taken.
+screwdriver: Taken.
+group of tool chests: The chests are so rusty and corroded that they crumble when you touch them
+"Reihe  von Werkzeugkaesten:Die Kaesten sind so rostig und verrottet, das sie zerfallen, wenn du sie anfasst."
+
+>PRESS YELLOW BUTTON
+Click.
+
+>LOOK AT BUTTON
+Welche button meinst du, die blue button, die red button, die brown button, or
+die yellow button?
+
+>BLUE
+There's nothing special about die blue button.
+
+>S
+Dam Lobby
+Some guidebooks entitled "Flood Control Dam #3" are on the reception desk.
+There is a matchbook whose cover says "Visit Beautiful FCD#3" here.
+
+>GET MATCHBOOK
+Taken.
+
+>LOOK AT MATCHBOOK
+The matchbook isn't very interesting, except for what's written on it.
+
+>READ MATCHBOOK
+
+(Close cover before striking)
+
+YOU too can make BIG MONEY in the exciting field of PAPER SHUFFLING!
+Auch DU kannst das GROSSE LOS in der interessanten Branche des PAPIERKRIEGES gewinnen!"
+
+Mr. Anderson of Muddle, Mass. says: "Before I took this course I was a lowly bit twiddler. Now with what I learned at GUE Tech I feel really important and can obfuscate and confuse with the best."
+"Herr Superschlau aus Hack sagt: "Bevor ich in diese Vorlesung ging war ich ein mickeriger Bit-Mischer. Jetzt, mit dem, was ich an der Hacker T.U gelernt habe, fuehle ich mich wichtig und kann mit den Besten interfacen  und verrueckt spielen."
+
+Dr. Blank had this to say: "Ten short days ago all I could look forward to was a  dead-end job as a doctor. Now I have a promising future and make really big Zorkmids."
+"Herr Dr. Leer hatte folgendes zu sagen: "Vor nur zehn kurzen Tagen hatte ich nur die Aussicht auf eine chancenlose Stelle als Doktor.  Jetzt habe ich eine vielversprechende Zukunft und mache wirkliche Zorkkohle."
+
+GUE Tech can't promise these fantastic results to everyone. But when you earn your degree from GUE Tech, your future will be brighter.
+"Die Technische Uni Hack  kann diese fantastischen Resultate nicht jedem versprechen. Aber, einen Doktortitel  von der Hack TU malt auch deine Zukunft rosiger aus."
+>S
+Dam
+You are standing on the top of the Flood Control Dam #3, which was quite  tourist attraction in times far distant. There are paths to the north, south, and west, and a scramble down.
+The sluice gates on the dam are closed. Behind the dam, there can be seen a wide reservoir. Water is pouring over the top of the now abandoned dam.
+There is a control panel here, on which a large metal bolt is mounted. Directly above the bolt is a small green plastic bubble which is glowing serenely.
+
+>TURN BOLT
+Your bare hands don't appear to be enough.
+
+>TURN BOLT WITH WRENCH
+The sluice gates open and water pours through the dam.
+
+>DROP WRENCH
+Dropped.
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+
+>W
+Reservoir South
+You are in a long room, to the north of which was formerly a lake. However, with the water level lowered, there is merely a wide stream running through the center of the room.
+There is a path along the stream to the east or west, a steep pathway climbing southwest along the edge of a chasm, and a path leading into a canyon to the southeast.
+"du bist in einem laenglichen Zimmer. Nach Norden lag frueher ein See. Aber, nachdem der Wasserstand gemindert wurde, gibt es hier bloss einen breiten Bach, der durch die Mitte des Raumes fliesst. 
+Den Bach  entlang fuehrt ein Pfad nach Osten oder Westen, ein steiler Pfad,  nach Suedwesten den Rand einer Spalte entlang und ein Pfad fuehrt  in eine Schlucht nach Suedosten.." 
+
+>N
+Reservoir
+You are on what used to be a large lake, but which is now a large mud pile There are "shores" to the north and south.
+Lying half buried in the mud is an old trunk, bulging with jewels.
+"Reservoir
+du stehst da, wo einmal ein grosser See war, aber der ist jetzt ein grosser Schlammhaufen. Es gibt hier "Ufer" nach Norden und Sueden.
+Halbvergraben im Schlamm ist ein alter Koffer, vollgepfropft mit Juwelen."
+
+>LOOK AT JEWELS
+There are lots of jewels in there.
+
+>N
+Reservoir North
+You are in a large cavernous room, the south of which was formerly a lake.
+However, with the water level lowered, there is merely a wide stream running through there.
+There is a slimy stairway leaving the room to the north.
+There is eine hand-held air pump here.
+"Nordreservoir
+du bist in einem grottenartigen Raum. Sein Suedteil war einmal ein See.
+"Aber, mit dem geminderten Wasserstand, gibt es hier nur noch einen breiten Bach, der hier durchfliesst. 
+Eine schleimige Treppe fuehrt aus  Raum nach Norden."
+Es gibt hier eine Fahrradpumpe."
+
+>GET PUMP
+Taken.
+
+>S
+Reservoir
+Lying half buried in the mud is an old trunk, bulging with jewels.
+
+>S
+Reservoir South
+
+>E
+Dam
+There is eine wrench here.
+
+>E
+Dam Base
+You are at the base of Flood Control Dam #3, which looms above you and to the north. The river Frigid is flowing by here. Along the river are the White Cliffs  which seem to form giant walls stretching from north to south along the shores of the river as it winds its way downstream.
+There is a folded pile of plastic here which has a small valve attached.
+" Am Fuss des Dammes 
+"du bist am Fuss des Hochwasserkontrolldammes No. 3, der ueber dir und nach Norden hin aufragt. Der Fluss Gletsch fliesst hier vorbei. Den Fluss entlang tuermen sich die Weissen Felsen, die sich flussabwaerts wie eine gigantische Wand von Norden nach Sueden erstrecken." 
+Hier gibt es einen Haufen Plastik, an dem ein kleines Ventil befestigt ist."
+>LOOK AT PLASTIC
+There's nothing special about die pile of plastic.
+
+>LOOK AT VALVE
+There's nothing special about die pile of plastic.
+
+>PUMP UP THE PILE OF PLASTIC
+The boat inflates and appears seaworthy.
+A tan label is lying inside the boat.
+
+>LOOK AT LABEL
+!!!!FROBOZZ MAGIC BOAT COMPANY!!!!
+?
+Hello, Sailor!
+"Gruess dich, Seeman!
+
+Instructions for use:
+"Gebrauchsanweisung"
+
+To get into a body of water, say "Launch".
+To get to shore, say "Land" or the direction in which you want to maneuver the boat.
+
+
+Warranty:
+
+This boat is guaranteed against all defects for a period of 76 milliseconds from date of purchase or until first used, whichever comes first.
+ 
+Warning:
+This boat is made of thin plastic.
+Good Luck!
+"Warnung:
+
+
+>L
+Dam Base
+You are at the base of Flood Control Dam #3, which looms above you and to the north. The river Frigid is flowing by here. Along the river are the White Cliffs which seem to form giant walls stretching from north to south along the shores of the river as it winds its way downstream.
+There is eine magic boat here.
+Die magic boat contains:
+Eine tan label
+
+>GET IN BOAT
+You are now in der magic boat.
+"du bist jetzt in dem Zauberboot".
+
+>LAUNCH
+(die magic boat)
+Frigid River, in der magic boat
+You are on the Frigid River in the vicinity of the Dam. The river flows quietly here. There is a landing on the west shore.
+"auf dem Gletsch im Zauberboot 
+du bist auf dem Gletsch bei dem Damm. Der Fluss fliesst ruhig hier. Es gibt einen Landungssteg am Westufer."
+Die magic boat contains:
+Eine tan label
+
+>Z
+Time passes...
+The flow of the river carries you downstream.
+"Zeit vergeht
+Die Stroemung traegt dich flussabwaerts"
+
+Frigid River, in der magic boat
+The river turns a corner here making it impossible to see the Dam. The White Cliffs loom on the east bank and large rocks prevent landing on the west.
+"Der Fluss fliesst hier um eine Biegung, die es unmoeglich macht, den Damm zu sehen. Die Weissen Felsen ragen ueber dem Ostufer auf und grosse Steine verhindern die Landung am Westufer."
+Die magic boat contains:
+Eine tan label
+
+>Z
+Time passes...
+
+>Z
+Time passes...
+The flow of the river carries you downstream.
+
+Frigid River, in der magic boat
+The river descends here into a valley. There is a narrow beach on the west shore below the cliffs. In the distance a faint rumbling can be heard.
+
+Die magic boat contains:
+Eine tan label
+
+>Z
+Time passes...
+The flow of the river carries you downstream.
+"Die Stroemung fuehrt dich flussabwaerts"
+
+Frigid River, in der magic boat
+The river is running faster here and the sound ahead appears to be that of    rushing water. On the east shore is a sandy beach. A small area of beach can also be seen below the cliffs on the west shore.
+There is a red buoy here (probably a warning).
+"Der Fluss stroemt hier staerker , und das Geraeusch vor dir scheint,das von.brausendem Wasser zu sein.An dem Ostufer ist ein Sandstrand. Ein bisschen Strand luft auch unter den Felsen an dem Westufer hervor."
+Es gibt hier eine rote Markierungsboje (Wahrscheinlich eine Warnung)."
+Die magic boat contains:
+Eine tan label
+
+>GET BUOY
+Taken.
+
+>E
+Die magic boat comes to a rest on the shore.
+
+Sandy Beach, in der magic boat
+You are on a large sandy beach on the east shore of the river, which is flowing quickly by. A path runs beside the river to the south here, and a passage is partially buried in sand to the northeast.
+"Sandiger Strand im Zauberboot
+
+There is eine shovel here. (outside der magic boat)
+"Da liegt eine Schaufel (ausserhalb des Bootes)."
+Die magic boat contains:
+Eine tan label
+
+>GET SHOVEL
+Taken.
+
+>NE
+Read the label for the boat's instructions.
+"Lies die Anweisungen fuer das Boot."
+
+>GET OUT OF BOAT
+You are on your own feet again.
+"du stehst wieder auf eigenen Fuessen."
+
+>NE
+Sandy Cave
+This is a sand-filled cave whose exit is to the southwest.
+"Sandige Hoehle
+Dies ist eine sandgefuellte Hoehle, deren Ausgang nach Suedwesten geht."
+
+>DIG IN SAND 
+Digging with der pair of hands is slow and tedious.
+"Mit den Haenden im Sand graben ist langsam und muehsam."
+
+>DIG IN SAND WITH SHOVEL
+You seem to be digging a hole here.
+"du scheinst hier ein Loch zu graben."
+
+>AGAIN
+The hole is getting deeper, but that's about it.
+"Das Loch wird immer tiefer, aber sonst nichts."
+
+>AGAIN
+You are surrounded by a wall of sand on all sides.
+" du bist auf allen Seiten von Sand umgeben."
+
+>SAVE
+To file (SS:<GERMAN>2): 3..1Ok.
+
+>AGAIN
+To file (SS:<GERMAN>3): 3..2Ok.
+
+>DIG IN SAND WITH SHOVEL
+You can see a scarab here in the sand.
+"du siehst hier einen Skarabaeus im Sand."
+
+>GET SCARAB
+Your load is too heavy.
+
+>DROP SHOVEL
+Dropped.
+
+>GET SCARAB
+
+Taken.
+
+>LOOK AT SCARAB
+There's nothing special about die beautiful jeweled scarab.
+
+>SW
+Sandy Beach
+There is eine magic boat here.
+Die magic boat contains:
+Eine tan label
+
+>S
+Shore
+You are on the east shore of the river. The water here seems somewhat treacherous. A path travels from north to south here, the south end quickly turning around a sharp corner.
+"Ufer
+
+
+>S
+Aragain Falls
+You are at the top of Aragain Falls, an enormous waterfall with a drop of about 450 feet. The only path here is on the north end.
+A solid rainbow spans the falls.
+
+
+>W
+On the Rainbow
+You are on top of a rainbow (you probably thought you'd never would walk on a rainbow), with a magnificent view of the Falls. The rainbow travels east-west here.
+
+>W
+End of Rainbow
+
+>SW
+Canyon Bottom
+
+>U
+Rocky Ledge
+
+>U
+Canyon View
+
+>W
+Forest
+
+>N
+Clearing
+
+>W
+Behind House
+
+>W
+Kitchen
+
+>W
+Living Room
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+Eine sceptre
+Eine pot of gold
+Eine gold coffin
+Eine painting
+
+>I
+You are carrying:
+Eine beautiful jeweled scarab
+Eine red buoy
+Eine hand-held air pump
+Eine matchbook
+Eine screwdriver
+Eine tube
+Eine torch (providing light)
+Eine brass lantern
+
+>OPEN BUOY
+
+Opening die red buoy reveals eine large emerald.
+
+>GET EMERALD
+Taken.
+
+>PUT EMERALD IN TROPHY CASE
+Done.
+
+>PUT SCARAB IN CASE
+Done.
+
+>I
+You are carrying:
+Eine red buoy
+Eine hand-held air pump
+Eine matchbook
+Eine screwdriver
+Eine tube
+Eine torch (providing light)
+Eine brass lantern
+
+>DROP SCREWDRIVER,PUMP,TUBE
+screwdriver: Dropped.
+hand-held air pump: Dropped.
+tube: Dropped.
+
+>D
+Cellar
+
+>S
+East of Chasm
+
+>E
+Gallery
+There is eine brown sack here.
+Die brown sack contains:
+Eine clove of garlic
+
+>N
+Studio
+There is eine nasty knife here.
+There is eine ZORK owner's manual here.
+
+>S
+Gallery
+There is eine brown sack here.
+Die brown sack contains:
+Eine clove of garlic
+
+>W
+East of Chasm
+
+>N
+Cellar
+
+>N
+The Troll Room
+There is eine bloody axe here.
+
+>E
+East-West Passage
+
+>E
+Round Room
+
+>E
+Loud Room
+This is a large room with a ceiling which cannot be detected from the ground. There is a narrow passage from east to west and a stone stairway leading upward.
+The room is eerie in its quietness.
+"Der Raum ist in seiner Stille unheimlich."
+
+>W
+Round Room
+
+>SE
+Engravings Cave
+There are old engravings on the walls here.
+
+>E
+Dome Room
+
+>D
+Torch Room
+
+>S
+Temple
+There is eine brass bell here.
+
+>GET BELL
+Taken.
+
+>S
+Altar
+On the two ends of the altar are burning candles.
+On the altar is a large black book, open to page 569.
+
+>GET ALL
+pair of candles: Taken.
+black book: Taken.
+
+>D
+Cave
+This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.
+
+
+>D
+Entrance to Hades
+You are outside a large gateway, on which is inscribed
+
+Abandon every hope all ye who enter here!
+
+The gate is open; through it you can see a desolation, with a pile of mangled bodies in one corner. Thousands of voices, lamenting some hideous fate, can be heard.
+The way through the gate is barred by evil spirits, who jeer at your attempts to pass.
+ 
+>SAVE
+To file (SS:<GERMAN>3): 3..4Ok.
+
+>DROP CANDLES
+Dropped.
+
+>RING BELL
+The bell suddenly becomes red hot and falls to the ground. The wraiths, as if paralyzed, stop their jeering and slowly turn to face you. On their ashen faces, the expression of a long-forgotten terror takes shape.
+"Laeute die Glocke
+"Die Glocke wird ploetzlich gluehend heiss und faellt zu Boden. Die Gespenster, als waeren sie versteinert, hoeren mit dem Gejammer auf und drehen sich dir zu. Auf ihren fahlen Gesichtern formt sich der Ausdruck einer langvergessenen Furcht."
+
+>HOLD CANDLE
+Taken.
+The flames flicker wildly and appear to dance. The earth beneath your feet trembles, and your legs nearly buckle beneath you. The spirits cower at your unearthly power.
+
+
+>READ BOOK
+Each word of the prayer reverberates through the hall in a deafening confusion. As the last word fades, a voice, loud and commanding, speaks:
+"Begone, fiends!" A heart-stopping scream fills the cavern, and the spirits, sensing a greater power, flee through the walls.
+"Lies das Buch
+ 
+
+>S
+Land of the Dead
+You have entered the Land of the Living Dead. Thousands of lost souls can be heard weeping and moaning. In the corner are stacked the remains of dozens of previous adventurers less fortunate than yourself. A passage exits to the north. Lying in one corner of the room is a beautifully carved crystal skull. It 
+appears to be grinning at you rather nastily.
+"Das Land der Toten
+>GET KRISTALL
+
+Taken.
+
+>I
+You are carrying:
+Eine kristallen Hirnschale
+Eine pair of candles (providing light)
+Eine black book
+Eine red buoy
+Eine matchbook
+Eine torch (providing light)
+Eine brass lantern
+
+>LOOK AT BODIES
+There's nothing special about die pile of bodies.
+
+>N
+Entrance to Hades
+On the ground is a red hot bell.
+
+>GET BELL
+The bell is very hot and cannot be taken.
+
+>DROP BOOK, BUOY, MATCHES, CANDLES
+black book: Dropped.
+red buoy: Dropped.
+matchbook: Dropped.
+pair of candles: Dropped.
+
+>I
+You are carrying:
+Eine kristallen Hirnschale
+Eine torch (providing light)
+Eine brass lantern
+
+>U
+Cave
+
+>N
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an enormous mirror which fills the entire wall. There are exits on the other three sides of the room.
+"Spiegelzimmer 
+
+
+>LOOK IN MIRROR
+There is an ugly person staring back at you.
+"Eine haessliche Person starrt aus dem Spiegel zurueck."
+
+>TALK TO MIRROR
+You can't talk to der mirror!
+"du kannst nicht mit dem Spiegel sprechen.!
+
+>FEEL MIRROR
+There is a rumble from deep within the earth and the room shakes. 
+>;
+[RENATA: I WAS TRANSPORTED TO A DIFFERENT MIRROR ROOM TO THE NORTH.]
+W
+Twisting Passage
+This is a winding passage. It seems that there are only exits on the east and north.
+"Ein Durchgang, der sich windet.
+Dies ist ein Durchgang, der sich windet. Es scheint, als ob es nur Ausgaenge auf der Ost-und Nordseite gibt."
+
+>E
+Cave
+This is a tiny cave with entrances west and north, and a staircase leading down. 
+>S
+Atlantis Room
+This is an ancient room, long under water. There is an exit to the south and a staircase leading up.
+On the shore lies Poseidon's own crystal trident.
+"Atlantiszimmer 
+"Dies ist ein uraltes Zimmer, seit langem unter Wasser . Es gibt einen Ausgang nach Sueden und eine Treppe, die nach oben fuehrt.
+Am Ufer liegt Poseidons ureigener Dreizack aus Kristall."
+
+>GET TRIDENT
+
+Taken.
+
+>S
+Reservoir North
+
+>S
+Reservoir
+
+>S
+Reservoir South
+
+>SW
+Chasm
+
+>S
+North-South Passage
+
+>S
+Round Room
+
+>W
+East-West Passage
+
+>W
+The Troll Room
+There is eine bloody axe here.
+
+>S
+Cellar
+
+>U
+Living Room
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine screwdriver here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine beautiful jeweled scarab
+    Eine large emerald
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>I
+You are carrying:
+  Eine crystal trident
+  Eine kristallen Hirnschale
+  Eine torch (providing light)
+  Eine brass lantern
+
+>PUT TRIDENT, HIRNSCHALE IN CASE
+crystal trident: Done.
+kristallen Hirnschale: Done.
+
+>D
+Cellar
+
+>N
+The Troll Room
+There is eine bloody axe here.
+
+>E
+East-West Passage
+
+>N
+Chasm
+
+>U
+East-West Passage
+
+>N
+Chasm
+
+>I
+You are carrying:
+  Eine clove of garlic
+  Eine torch (providing light)
+  Eine brass lantern
+
+>L
+Chasm
+A chasm runs southwest to northeast and the path follows it. You are on the south side of the chasm, where a crack opens into a passage.
+
+>S
+North-South Passage
+
+>N
+Chasm
+
+>NE
+Reservoir South
+
+>N
+Reservoir
+
+>N
+Reservoir North
+
+>N
+Atlantis Room
+
+>U
+Cave
+
+>N
+Mirror Room
+You are in a large square room with tall ceilings. On the south wall is an enormous mirror which fills the entire wall. There are exits on the other three sides of the room.
+
+>N
+Cold Passage
+This is a cold and damp corridor where a long east-west passageway turns into a southward path.
+ 
+
+>I
+You are carrying:
+  Eine screwdriver
+  Eine clove of garlic
+  Eine torch (providing light)
+  Eine brass lantern
+
+>W
+Slide Room
+This is a small chamber, which appears to have been part of a coal mine. On the south wall of the chamber the letters "Granite Wall" are etched in the rock. To the east is a long passage, and there is a steep metal slide twisting downward.
+To the north is a small opening.
+
+
+>N
+Mine Entrance
+You are standing at the entrance of what might have been a coal mine. The shaft enters the west wall, and there is another exit on the south end of the room.
+"Grubeneingang
+
+
+>W
+Squeaky Room
+You are in a small room. Strange squeaky sounds may be heard coming from the passage at the north end. You may also escape to the east.
+"Quietschzimmer 
+du bist in einem kleinen Zimmer. Eigentuemliche quietschende Geraeusche koennen von dem Durchgang am Nordende gehoert werden. du kannst auch nach Osten entfliehen."
+
+>N
+Bat Room
+You are in a small room which has doors only to the east and south.
+There is an exquisite jade figurine here.
+In the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+"Fledermauszimmer 
+"du bist in einem kleinen Zimmer, das nur eine Tuer nach Osten und Sueden hat."
+"In der Ecke des Zimmers haengt eine grosse Vampirfledermaus an der Decke, die offensichtlich nicht alle fuenf auf der Latte hat und sich die Nase zuhaelt."
+
+>;
+;[NOTE: HOLDING HIS NOSE BECAUSE OF THE GARLIC.]
+(Note: holding die Nase because of smelly root)
+LOOK AT BAT
+There's nothing special about die bat.
+
+>E
+Shaft Room
+This is a large room, in the middle of which is a small shaft descending through the floor into darkness below. To the west and the north are exits from this room. Constructed over the top of the shaft is a metal framework to which a heavy iron chain is attached. At the end of the chain is a basket.
+"Schachtzimmer 
+Dies ist ein grosser Raum, in dessen Mitte sich ein kleiner Schacht befindet,der durch den Fussboden  in die Dunkelheit verschwindet. Nach Westen und Norden gibt es Ausgaenge von diesem Zimmer. Ueber dem Schacht hat man ein Metallgehaeuse gebaut, an dem eine schwere, eiserne Kette befestigt ist. An dem anderen Ende der Kette haengt ein Korb."
+
+
+>PUT SCREWDRIVER, TORCH IN BASKET
+screwdriver: Done.
+torch: Done.
+
+>LIGHT LAMP
+Die brass lantern is now on.
+
+>N
+Smelly Room
+This is a small nondescript room. However, from the direction of a small descending staircase a foul odor can be detected. To the south is a narrow tunnel.
+"Stinkendes Zimmer 
+Dies ist ein kleines unscheinbares  Zimmer. Aber aus der Richtung einer kleinen, nach unten fuehrenden Treppe stroemt ein uebler Gestank . Nach Sueden verlaeuft ein schmaler Tunnel."
+
+>D
+Gas Room
+This is a small room which smells strongly of coal gas. There is a short climb up some stairs and a narrow tunnel leading east.
+There is eine sapphire-encrusted bracelet here.
+"Gaszimmer
+Dies ist ein kleiner Raum, der stark nach Kohlendioxyd stinkt. Es gibt dort einen kurzen Treppenaufgang nach oben und einen schmalen Tunnel nach Osten."
+
+>E
+Coal Mine
+This is a nondescript part of a coal mine.
+
+>NE
+Coal Mine
+This is a nondescript part of a coal mine.
+There is eine ZORK owner's manual here.
+There is eine sword here.
+
+>SE
+Coal Mine
+This is a nondescript part of a coal mine.
+
+>SW
+Coal Mine
+This is a nondescript part of a coal mine.
+
+>D
+Ladder Top
+This is a very small room. In the corner is a rickety wooden ladder, leading downward. It might be safe to descend. There is also a staircase leading upward.
+"Oberteil der Leiter 
+Dies ist ein sehr kleiner Raum. In der Ecke befindet sich einewackelige Holzleiter, die nach unten fuehrt. Sie macht einen relativ sicheren Eindruck Es gibt auch noch eine Treppe, die nach oben fuehrt. "
+
+>D
+Ladder Bottom
+This is a rather wide room. On one side is the bottom of a narrow wooden ladder.
+To the west and the south are passages leaving the room.
+"Am Fusse  der Leiter 
+Dies ist ein ziemlich breiter Raum. Auf einer Seite sieht man  das Unterteil einer schmalen Holzleiter."
+
+>S
+Dead End
+You have come to a dead end in the mine.
+There is eine small pile of coal here.
+
+>GET COAL
+Taken.
+
+>N
+Ladder Bottom
+
+>U
+Ladder Top
+
+>U
+Coal Mine
+
+>N
+Coal Mine
+
+>E
+Coal Mine
+There is eine ZORK owner's manual here.
+There is eine sword here.
+
+>S
+Coal Mine
+
+>N
+Gas Room
+There is eine sapphire-encrusted bracelet here.
+
+>U
+Smelly Room
+
+>S
+Shaft Room
+At the end of the chain is a basket.
+Die basket contains:
+  Eine torch (providing light)
+  Eine screwdriver
+
+>PUT COAL IN BASKET
+Done.
+
+>LOOK AT BASKET
+Die basket contains:
+  Eine small pile of coal
+  Eine torch (providing light)
+  Eine screwdriver
+
+>LOWER THE BASKET
+The basket is lowered to the bottom of the shaft.
+
+>I
+You are carrying:
+  Eine clove of garlic
+  Eine brass lantern (providing light)
+
+>N
+Smelly Room
+
+>D
+Gas Room
+There is eine sapphire-encrusted bracelet here.
+
+>E
+Coal Mine
+
+
+>NE
+Coal Mine
+There is eine ZORK owner's manual here.
+There is eine sword here.
+
+>SE
+Coal Mine
+
+>SW
+Coal Mine
+
+>D
+Ladder Top
+
+>D
+Ladder Bottom
+
+>I
+You are carrying:
+  Eine clove of garlic
+  Eine brass lantern (providing light)
+
+>W
+Timber Room
+This is a long and narrow passage, which is cluttered with broken timbers. A wide passage comes from the east and turns at the west end of the room into a very narrow passageway. From the west comes a strong draft.
+There is eine broken timber here.
+"Balkenzimmer
+Dies  ist ein langer und schmaler Durchgang, der mit zerbrochenen Balken vollgestopft. Ein breiter Durchgang kommt von Osten und muendet am Westende des Raumes in einen sehr engen Durchgang. Von Westen kommt ein starker Durchzug."
+
+>DROP ALL
+clove of garlic: Dropped.
+brass lantern: Dropped.
+
+>W
+Drafty Room
+This is a small drafty room in which is the bottom of a long shaft. To the south is a passageway and to the east a very narrow passage. In the shaft can be seen a heavy iron chain. At the end of the chain is a basket.
+"Zugiges Zimmer
+Dies  ist ein kleines, zugiges Zimmer, in dem sich das  untereEnde eines langen Schachtes befindet  Nach Sueden fuehrt ein Durchgang und nach Osten ein sehr schmaler Durchgang. In dem Schacht kann man eine schwere Eisenkette sehen. Am Ende der Kette haengt ein Korb."
+Die basket contains:
+  Eine small pile of coal
+  Eine torch (providing light)
+  Eine screwdriver
+
+>GET ALL FROM BASKET
+small pile of coal: 
+Taken.
+torch: 
+Taken.
+screwdriver: 
+Taken.
+
+>S
+
+Machine Room
+This is a large, cold room whose sole exit is to the north. In one corner there is a machine which is reminiscent of a clothes dryer. On its face is a switch which is labelled "START". The switch does not appear to be manipulable by any  human hand (unless the fingers are about 1/16 by 1/4 inch). On the front of the  machine is a large lid, which is closed.
+"Maschinenraum
+Dies ist ein grosser kalter Raum, dessen einziger Ausgang nach Norden fuehrt. In einer Ecke steht eine  die an einen Waeschetrockner erinnert. Vorne ist ein Schalter,  mit der Aufschrift "EIN". Der Schalter scheint nicht fuer Menschenhaende gebaut zu sein (ausser, wenn die Finger 1/2cm mal 1cm waeren). Vorne an der Maschine ist eine grosse Klappe, die geschlossen ist."
+
+>LOOK AT MACHINE
+Die machine is closed.
+
+>OPEN MACHINE
+The lid opens.
+
+>PUT COAL IN MACHINE
+Done.
+
+>CLOSE MACHINE
+The lid closes.
+
+>LOOK AT SWITCH
+There's nothing special about die switch.
+
+>TURN SWITCH WITH SCREWDRIVER
+The machine comes to life (figuratively) with a dazzling display of colored lights and bizarre noises. After a few moments, the excitement abates.
+"Die Maschine erwacht zum Leben(im uebertragenen Sinne):Sie laesst bunte Lichter aufflackern  und gibt haarstraeubende Geraeusche von sich. Nach ein paar Sekunden hoert der Zauber auf."
+
+>OPEN MACHINE
+The lid opens, revealing eine huge diamond.
+
+>GET DIAMOND
+
+Taken.
+
+>I
+You are carrying:
+  Eine huge diamond
+  Eine screwdriver
+  Eine torch (providing light)
+
+>PUT DIAMOND AND TORCH IN BASKET
+huge diamond: You can't see any basket here!
+torch: You can't see any basket here!
+
+>N
+Drafty Room
+At the end of the chain is a basket.
+
+>PUT DIAMOND AND TORCH IN BASKET
+huge diamond: 
+Done.
+torch: 
+Done.
+
+>E
+
+You cannot fit through this passage with that load.
+
+>I
+
+You are carrying:
+  Eine screwdriver
+
+>DROP DRIVER
+
+Dropped.
+
+>E
+
+Timber Room
+There is a brass lantern (battery-powered) here.
+There is eine clove of garlic here.
+There is eine broken timber here.
+
+>GET ALL
+brass lantern: Taken.
+clove of garlic: Taken.
+broken timber: Taken.
+
+>DROP TIMBER
+Dropped.
+
+>E
+Ladder Bottom
+
+>W
+Timber Room
+There is eine broken timber here.
+
+>E
+Ladder Bottom
+
+>U
+Ladder Top
+
+>U
+Coal Mine
+
+>N
+Coal Mine
+
+>E
+Coal Mine
+There is eine ZORK owner's manual here.
+There is eine sword here.
+
+>S
+Coal Mine
+
+>N
+Gas Room
+There is eine sapphire-encrusted bracelet here.
+
+>GET BRACELET
+
+Taken.
+
+>U
+Smelly Room
+
+>I
+You are carrying:
+  Eine sapphire-encrusted bracelet
+  Eine clove of garlic
+  Eine brass lantern (providing light)
+
+>S
+Shaft Room
+From the chain is suspended a basket.
+
+>L IN BASKET
+The basket is at the other end of the chain.
+
+>RAISE BASKET
+The basket is raised to the top of the shaft.
+
+>LOOK IN BASKET
+Die basket contains:
+  Eine torch (providing light)
+  Eine huge diamond
+
+>GET ALL FROM BASKET
+torch: Taken.
+huge diamond: Taken.
+
+>I
+You are carrying:
+  Eine huge diamond
+  Eine torch (providing light)
+  Eine sapphire-encrusted bracelet
+  Eine clove of garlic
+  Eine brass lantern (providing light)
+
+>W
+Bat Room
+There is an exquisite jade figurine here.
+In the corner of the room on the ceiling is a large vampire bat who is obviously deranged and holding his nose.
+
+>GET JADE
+
+Taken.
+
+>DROP GARLIC
+Dropped.
+
+>S
+Squeaky Room
+
+>E
+Mine Entrance
+
+>S
+Slide Room
+
+>D
+Cellar
+
+>I
+You are carrying:
+  Eine jade figurine
+  Eine huge diamond
+  Eine torch (providing light)
+  Eine sapphire-encrusted bracelet
+  Eine brass lantern (providing light)
+
+>U
+Living Room
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine large emerald
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>PUT ALL BUT LAMP AND TORCH IN TROPHY CASE
+jade figurine: Done.
+huge diamond: Done.
+sapphire-encrusted bracelet: Done.
+
+>SCORE
+Your score is 247 (total of 350 points), in 485 moves.
+This gives you the rank of Adventurer.
+
+>I
+You are carrying:
+  Eine torch (providing light)
+  Eine brass lantern (providing light)
+
+>E
+Kitchen
+
+>W
+Living Room
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine sapphire-encrusted bracelet
+    Eine huge diamond
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine large emerald
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>D
+Cellar
+
+>S
+East of Chasm
+
+>E
+Gallery
+There is eine brown sack here.
+
+>N
+Studio
+There is eine nasty knife here.
+
+>GET KNIFE
+Taken.
+
+>S
+Gallery
+There is eine brown sack here.
+
+>GET FOOD
+You can't see any food here!
+
+>GET SACK
+Taken.
+
+>LOOK IN SACK
+Die brown sack is empty.
+
+>W
+East of Chasm
+
+>N
+Cellar
+
+>N
+The Troll Room
+There is eine bloody axe here.
+
+>W
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>W
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>W
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>U
+Maze
+This is part of a maze of twisty little passages, all alike. A skeleton, probably the remains of a luckless adventurer, lies here.
+Beside the skeleton is a rusty knife.
+The deceased adventurer's useless lantern is here.
+There is eine skeleton key here.    Renata had to add different pun.
+An old leather bag, bulging with coins, is here.
+
+"Irrgarten: Dies ist ein Teil eines Irrgartens: kleine, verwirrende
+Gaenge, die sich alle aehnlich sehen. In einer Ecke liegt ein Skelett.
+
+Daneben steht die nutzlose Laterne des
+toten Abenteurers, und auch ein rostiges Messer ist hier. 
+
+>GET SKELETON KEY, BAG OF COINS
+skeleton key: Taken.change in German
+leather bag of coins: 
+Taken.
+
+>SW
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>E
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>S
+Maze
+This is part of a maze of twisty little passages, all alike.
+
+>SE
+Cyclops Room
+This room has an exit on the northwest, and a staircase leading up.
+A cyclops, who looks prepared to eat horses (much less mere adventurers), blocks the staircase. From his state of health, and the bloodstains on the walls, you gather that he is not very friendly, though he likes people.
+"Zyklopenzimmer
+Dieser Raum hat einen Ausgang nach Nordwesten, und eine Treppe fuehrt nach oben. Ein Zyklope, der seinen Appetit gerade auf ein paar Gaeule eingestellt hat (Abenteurer weniger auf simple Abenteurer ), blockiert die Treppe. Aus seinem Gesundheitszustand und den Blutspuren an den Waenden kannst du schliessen, dass er nicht sehr freundlich ist. Ansonsten mag er Menschen."
+
+>SAVE
+To file (SS:<GERMAN>4): 5..1Ok.
+
+>I
+You are carrying:
+  Eine leather bag of coins
+  Eine skeleton key
+  Eine brown sack
+  Eine nasty knife
+  Eine torch (providing light)
+  Eine brass lantern (providing light)
+
+>TALK TO CYCLOPS
+Die cyclops pauses for a moment, perhaps thinking that you should reread the manual.
+
+>LOOK AT CYCLOPS
+A hungry cyclops is standing at the foot of the stairs.
+
+>U
+The cyclops doesn't look like he'll let you past.
+
+>ODYSSEUS
+The cyclops, hearing the name of his father's deadly nemesis, flees the room by knocking down the wall on the east of the room.
+"Als der Zyklop von der toedlichen Strafe seines Vaters hoert, durchbricht  er die Ostwand des Zimmers und flieht."
+
+>E
+Strange Passage
+This is a long passage. To the west is one entrance. On the east there is an old wooden door, with a large opening in it (about cyclops sized).
+"Eigentuemlicher Durchgang
+Dies ist ein langer Durchgang. Nach Westen ist ein Eingang. Auf der Ostseite befindet sich eine Holztuer mit einer grossen Oeffnung darin (ungefaehr in der Form eines Zyklopen).
+
+>E
+Living Room
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine sapphire-encrusted bracelet
+    Eine huge diamond
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine large emerald
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>GET DIAMOND, EMERALD
+huge diamond: Taken.
+large emerald: Taken.
+
+>GET JADE
+You're holding too many things already!
+
+
+>I
+You are carrying:
+  Eine large emerald
+  Eine huge diamond
+  Eine leather bag of coins
+  Eine skeleton key
+  Eine brown sack
+  Eine nasty knife
+  Eine torch (providing light)
+  Eine brass lantern (providing light)
+
+>DROP SACK
+Dropped.
+
+>LOOK IN SACK
+Die brown sack is empty.
+
+>TURN OFF LAMP
+Die brass lantern is now off.
+
+>W
+Strange Passage
+
+>W
+Cyclops Room
+
+>U
+You hear a scream of anguish as you violate the robber's hideaway. Using passages unknown to you, he rushes to its defense.
+The thief gestures mysteriously, and the treasures in the room suddenly vanish.
+"Du hoerst einen Schreckensschrei, als du in das Versteck des Raeubers eindringst. Auf dir unbekannten Wegen eilt er herbei, sein Versteck zu verteidigen.
+Der Raeuber gestikuliert mit geheimnisvollen Gebaerden und ploetzlich sind alle Schaetze verschwunden."
+
+Treasure Room
+This is a large room, whose east wall is solid granite. A number of discarded bags, which crumble at your touch, are scattered about on the floor. There is an exit down a staircase.
+"Schatzzimmer 
+Dies ist ein grosser Raum, dessen Ostwand aus Granit ist. Eine Menge weggeworfener Tueten, die bei der kleinsten Beruehrung zerfallen, sind auf dem Fussboden verstreut."
+There is a suspicious-looking individual, holding a large bag, leaning against one wall. He is armed with a deadly stiletto.
+There is a silver chalice, intricately engraved, here.
+A quick thrust pinks your left arm, and blood starts to trickle down.
+
+"Ein verdaechtig aussehender Kerl, mit einr Tuete in der Hand steht an die Wand,gelehnt. Er ist mit einem toedlichen Stilett bewaffnet.
+Da ist ein silberner Pokal, der elegant graviert ist.
+Ein schneller Stich trifft deinen linken Arm, und Blut troepfelt herab."
+
+>SAVE
+To file (SS:<GERMAN>5): 6..1Ok.
+
+>GIVE DIAMOND TO MAN
+The thief is taken aback by your unexpected generosity, but accepts the die huge diamond and stops to admire its beauty.
+"Der Dieb ist voellig perplex ueber deine unerwartete Grosszuegigkeit, aber er .....
+
+>GIVE DIAMOND TO THIEF
+You don't have the huge diamond.
+
+>GIVE EMERALD TO THIEF
+The thief is taken aback by your unexpected generosity, but accepts the die large emerald and stops to admire its beauty.
+
+>I
+You are carrying:
+  Eine leather bag of coins
+  Eine skeleton key
+  Eine nasty knife
+  Eine torch (providing light)
+  Eine brass lantern
+The stiletto flashes faster than you can follow, and blood wells from your leg.
+"Das Stilett sticht schneller, als du gucken kannst , und Blut stroemt aus deinem Bein." 
+>GIVE COINS TO THIEF
+The thief is taken aback by your unexpected generosity, but accepts the die  leather bag of coins and stops to admire its beauty.
+
+>SAVE
+To file (SS:<GERMAN>6): 7..1Ok.
+
+>KILL THIEF
+(with der nasty knife)
+The thief is staggered, and drops to his knees.
+"Der Dieb ist total fertig  und faellt auf die Kniee."
+Die thief slowly regains his feet.
+
+>AGAIN
+(with der nasty knife)
+Your stroke lands, but it was only the flat of the blade.
+The thief draws blood, raking his stiletto across your arm.
+"Der Dieb ritzt mit seinem Stilettstich deinen Arm blutig ."
+
+>OOPS NASTY
+It's curtains for the thief as your nasty knife removes his head. Almost as soon as die thief breathes his last breath, a cloud of sinister black fog envelops him, and when the fog lifts, the carcass has disappeared. As the thief dies, the power of his magic decreases, and his treasures reappear:
+ Eine huge diamond
+ Eine large emerald
+ Eine leather bag of coins
+ Eine stiletto
+ Eine trunk of jewels
+ Eine platinum bar
+ Eine jewel-encrusted egg, with eine golden clockwork canary
+The chalice is now safe to take.
+
+>GET ALL
+huge diamond: Taken.
+large emerald: Taken.
+leather bag of coins: Your load is too heavy, especially in light of your condition.
+stiletto: Your load is too heavy, especially in light of your condition.
+trunk of jewels: Your load is too heavy, especially in light of your condition.
+platinum bar: Your load is too heavy, especially in light of your condition.
+jewel-encrusted egg: Your load is too heavy, especially in light of your
+condition.
+chalice: Your load is too heavy, especially in light of your condition.
+
+>DIAGNOSE
+You have several wounds, which will be cured after 88 moves.
+You can be killed by a serious wound.
+"Diagnose 
+Du hast mehrere Wunden, die nach 88 Spielrunden geheilt sein werden.
+Eine ernsthafte Verletzung kann dich toeten."
+
+>D
+Cyclops Room
+
+>E
+Strange Passage
+
+>E
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>PUT ALL IN TROPHY CASE
+large emerald: Done.
+huge diamond: Done.
+skeleton key: Done.
+nasty knife: Done.
+torch: Done.
+brass lantern: Done.
+
+>GET TORCH
+Taken.
+
+>W
+Strange Passage
+
+>W
+Cyclops Room
+
+>U
+Treasure Room
+An old leather bag, bulging with coins, is here.
+There is eine stiletto here.
+There is an old trunk here, bulging with assorted jewels.
+On the ground is a large platinum bar.
+There is eine jewel-encrusted egg here.
+There is a golden clockwork canary nestled in the egg. It has ruby eyes and a silver beak. Through a crystal window below its left wing you can see intricate machinery inside. It appears to have wound down. There is a silver chalice, intricately engraved, here.
+ 
+>GET ALL
+leather bag of coins: Taken.
+stiletto: Taken.
+trunk of jewels: Your load is too heavy, especially in light of your condition. platinum bar: Taken. jewel-encrusted egg: Your load is too heavy, especially in light of your condition. chalice: Your load is too heavy, especially in light of your condition.
+
+>I
+You are carrying:
+  Eine platinum bar
+  Eine stiletto
+  Eine leather bag of coins
+  Eine torch (providing light)
+
+>D
+Cyclops Room
+
+>E
+Strange Passage
+
+>E
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine brass lantern
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>PUT ALL BUT TORCH IN CASE
+platinum bar: Done.
+stiletto: Done.
+leather bag of coins: Done.
+
+>LOOK AT TORCH
+The torch is burning.
+
+>W
+Strange Passage
+
+>W
+Cyclops Room
+
+>U
+Treasure Room
+There is an old trunk here, bulging with assorted jewels.
+There is eine jewel-encrusted egg here.
+There is a golden clockwork canary nestled in the egg. It has ruby eyes and a silver beak. Through a crystal window below its left wing you can see intricate machinery inside. It appears to have wound down.
+There is a silver chalice, intricately engraved, here.
+
+>GET ALL
+trunk of jewels: 
+Taken.
+jewel-encrusted egg: Taken.
+chalice: Your load is too heavy, especially in light of your condition.
+
+>D
+Cyclops Room
+
+>E
+Strange Passage
+
+>E
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine brass lantern
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>PUT ALL BUT TORCH IN CASE
+jewel-encrusted egg: Done.
+golden clockwork canary: That's easy for you to say since you don't even have die golden clockwork canary trunk of jewels: Done.
+
+>I
+You are carrying:
+  Eine torch (providing light)
+
+>W
+Strange Passage
+
+>W
+Cyclops Room
+
+>U
+Treasure Room
+There is a silver chalice, intricately engraved, here.
+
+>GET CHALICE
+
+Taken.
+
+>LOOK AT CHALICE
+It looks pretty much like a die chalice.
+
+>D
+Cyclops Room
+
+>E
+Strange Passage
+
+>E
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine trunk of jewels
+    Eine jewel-encrusted egg
+There is a golden clockwork canary nestled in the egg. It has ruby eyes and a silver beak. Through a crystal window below its left wing you can see intricate machinery inside. It appears to have wound down.
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine brass lantern
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>I
+You are carrying:
+  Eine chalice
+  Eine torch (providing light)
+
+>PUT CHALICE IN TROPHY CASE
+Done.
+
+>E
+Kitchen
+
+>E
+Behind House
+
+>N
+North of House
+
+>N
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+>I
+You are carrying:
+  Eine torch (providing light)
+You hear in the distance the chirping of a song bird.
+
+>S
+North of House
+
+>S
+The windows are all boarded.
+
+>E
+Behind House
+
+>W
+Kitchen
+
+>W
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine chalice
+    Eine trunk of jewels
+    Eine jewel-encrusted egg
+There is a golden clockwork canary nestled in the egg. It has ruby eyes and a silver beak. Through a crystal window below its left wing you can see intricate machinery inside. It appears to have wound down.
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine brass lantern
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>GET EGG
+Taken.
+
+>LOOK AT EGG
+Die jewel-encrusted egg contains:
+  Eine golden clockwork canary
+
+>E
+Kitchen
+
+>E
+Behind House
+
+>N
+North of House
+
+>N
+Forest Path
+You hear in the distance the chirping of a song bird.
+
+>U
+Up a Tree
+Beside you on the branch is a small bird's nest.
+
+>SAVE
+To file (SS:<GERMAN>7): 8..1Ok.
+
+>I
+You are carrying:
+  Eine jewel-encrusted egg
+  Die jewel-encrusted egg contains:
+    Eine golden clockwork canary
+  Eine torch (providing light)
+
+>GET CANARY
+
+Taken.
+You hear in the distance the chirping of a song bird.
+
+>LOOK AT CANARY
+There's nothing special about die golden clockwork canary.
+
+>WIND THE CLOCKWORK CANARY
+The canary chirps, slightly off-key, an aria from a forgotten opera. From out of the greenery flies a lovely songbird. It perches on a limb just over your head and opens its beak to sing. As it does so a beautiful brass bauble drops from its mouth, bounces off the top of your head, and lands glimmering in the grass.
+As the canary winds down, the songbird flies away.
+"Der Kanarienvogel schmettert eine Arie, aus einer laengstvergessenen Oper. Er singt reichlich schraege . Aus dem Gruenen kommt ein lieblicher Singvogel geflogen. . Er laesst sich auf einem Zweig direkt ueber deinem Kopf nieder und oeffnet den Schnabel zum Singen. Gerade will er loslegen, da faellt eine schoene goldene Flitterkugel aus dem Schnabel, prallt auf deinen Kopf und landet schliesslich glitzernd im Gras."
+
+>LOOK AT BAUBLE
+You can't see any bauble here!
+
+>D
+Forest Path
+There is eine beautiful brass bauble here.
+You hear in the distance the chirping of a song bird.
+
+>GET BRASS BAUBLE
+
+Taken.
+
+>S
+North of House
+
+>E
+Behind House
+
+>W
+Kitchen
+
+>W
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine brass lantern
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine kristallen Hirnschale
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>PUT ALL IN CASE
+beautiful brass bauble: Done.
+golden clockwork canary: Done.
+jewel-encrusted egg: Done.
+torch: Done.
+
+>LOOK ON CASE
+Look on einer trophy case???
+
+>LOOK AT CASE
+Your collection of treasures consists of:
+  Eine torch (providing light)
+  Eine jewel-encrusted egg
+  Eine golden clockwork canary
+  Eine beautiful brass bauble
+  Eine chalice
+  Eine trunk of jewels
+  Eine leather bag of coins
+  Eine stiletto
+  Eine platinum bar
+  Eine brass lantern
+  Eine nasty knife
+  Eine skeleton key
+  Eine huge diamond
+  Eine large emerald
+  Eine sapphire-encrusted bracelet
+  Eine jade figurine
+  Eine kristallen Hirnschale
+  Eine crystal trident
+  Eine beautiful jeweled scarab
+  Eine sceptre
+  Eine pot of gold
+  Eine gold coffin
+  Eine painting
+
+>GET TREASURE
+Welche treasure meinst du, die torch, die jewel-encrusted egg, die golden clockwork canary, die beautiful brass bauble, die chalice, die trunk of jewels, die leather bag of coins, die platinum bar, die huge diamond, die large emerald,
+die sapphire-encrusted bracelet, die jade figurine, die crystal trident, die beautiful jeweled scarab, die sceptre, die pot of gold, die gold coffin, or die painting?
+>I
+You are empty-handed.
+
+>GET LAMP
+Taken.
+
+>TURN LAMP ON
+Die brass lantern is now on.
+
+>I
+You are carrying:
+  Eine brass lantern (providing light)
+
+>LOOK AT TREASURE
+Welche treasure meinst du, die torch, die jewel-encrusted egg, die goldenclockwork canary, die beautiful brass bauble, die chalice, die trunk of jewels,die leather bag of coins, 
+die platinum bar,
+die huge diamond, 
+die large emerald, 
+die sapphire-encrusted bracelet, 
+die jade figurine, 
+die crystal trident,
+die beautiful jeweled scarab, 
+die sceptre, 
+die pot of gold, 
+die gold coffin, 
+or die painting?
+
+>WHERE IS KRISTALL
+Die in der trophy case.
+
+>WHERE IS PARCHMENT
+You can't see any parchment here!
+
+>GET KRISTALL
+Taken.
+
+The lamp appears a bit dimmer.
+
+>E
+Kitchen
+
+>LOOK AT TREASURE
+You can't see any treasure here!
+
+>I
+You are carrying:
+  Eine kristallen Hirnschale
+  Eine brass lantern (providing light)
+
+>W
+Living Room
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine torch (providing light)
+    Eine jewel-encrusted egg
+    Eine golden clockwork canary
+    Eine beautiful brass bauble
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>TURN OFF TORCH
+(Taken)
+You nearly burn your hand trying to extinguish the flame.
+"Bei dem Versuch die Flamme zu loeschen, verbrennst  du dir beinahe die Hand."
+
+>I
+You are carrying:
+  Eine torch (providing light)
+  Eine kristallen Hirnschale
+  Eine brass lantern (providing light)
+
+>PUT ALL BUT LAMP IN CASE
+torch: Done.
+kristallen Hirnschale: Done.
+
+>L AT PARCHMENT
+You can't see any parchment here!
+
+>I
+You are carrying:
+  Eine brass lantern (providing light)
+
+>LOOK AT MAP
+You can't see any map here!
+
+>Z
+Time passes...
+
+>I
+You are carrying:
+  Eine brass lantern (providing light)
+
+>I
+You are carrying:
+  Eine brass lantern (providing light)
+
+>L
+Living Room
+You are in the living room. There is a doorway to the east. To the west is a cyclops-shaped opening in an old wooden door, above which is some strange gothic lettering, a trophy case, and a rug lying beside an open trap door.
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine kristallen Hirnschale
+    Eine torch (providing light)
+    Eine jewel-encrusted egg
+    Eine golden clockwork canary
+    Eine beautiful brass bauble
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>LOOK AT MAP
+You can't see any map here!
+
+>L
+Living Room
+You are in the living room. There is a doorway to the east. To the west is a cyclops-shaped opening in an old wooden door, above which is some strange gothic lettering, a trophy case, and a rug lying beside an open trap door.
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine kristallen Hirnschale
+    Eine torch (providing light)
+    Eine jewel-encrusted egg
+    Eine golden clockwork canary
+    Eine beautiful brass bauble
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine stiletto
+    Eine platinum bar
+    Eine nasty knife
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>GET STILETTO,KNIFE
+stiletto: Taken.
+nasty knife: Taken.
+
+>L
+Living Room
+You are in the living room. There is a doorway to the east. To the west is a cyclops-shaped opening in an old wooden door, above which is some strange gothic lettering, a trophy case, and a rug lying beside an open trap door.
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine kristallen Hirnschale
+    Eine torch (providing light)
+    Eine jewel-encrusted egg
+    Eine golden clockwork canary
+    Eine beautiful brass bauble
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine platinum bar
+    Eine skeleton key
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>GET KEY
+Taken.
+
+>L
+Living Room
+You are in the living room. There is a doorway to the east. To the west is a cyclops-shaped opening in an old wooden door, above which is some strange gothic lettering, a trophy case, and a rug lying beside an open trap door.
+There is eine brown sack here.
+There is an object which looks like a tube of toothpaste here.
+There is eine hand-held air pump here.
+There is eine glass bottle here.
+A hot pepper sandwich is here.
+Your collection of treasures consists of:
+    Eine kristallen Hirnschale
+    Eine torch (providing light)
+    Eine jewel-encrusted egg
+    Eine golden clockwork canary
+    Eine beautiful brass bauble
+    Eine chalice
+    Eine trunk of jewels
+    Eine leather bag of coins
+    Eine platinum bar
+    Eine huge diamond
+    Eine large emerald
+    Eine sapphire-encrusted bracelet
+    Eine jade figurine
+    Eine crystal trident
+    Eine beautiful jeweled scarab
+    Eine sceptre
+    Eine pot of gold
+    Eine gold coffin
+    Eine painting
+
+>CLOSE TROPHY CASE
+Closed.
+
+>LOOK AT MAP
+You can't see any map here!
+
+>SAVE
+To file (SS:<GERMAN>8): 9..1Ok.
+
+>Q
+Your score is 350 (total of 350 points), in 636 moves.
+This gives you the rank of Master Adventurer.
+Do you wish to leave the game? (Y is affirmative): >Y
+:>? , denn die meisten wertvollen Geraete sind we    1 R   yL yS } } w                                                                                      @         	  H  y  z  =  u  v  <  ~  A    H  
+  N       E  
+  D  E    ={{{{{{{{{{{{{{{{{{{{{{{         =  >    E  q  r  ~        n     j  R  S  l            (  X  e{{{{{{{{{{{{{{{{{{{{{{{         e  f  t  {  |  	
+  	  	2  	3  	]  
+A  
+K  
+]  
+l       Y  \  h  6  
+  
+;  
+<  
+H{{{{{{{{{{{{{{{{{{{{{{{         
+H  
+R  N      5  6  u  v         	    9  E  F  P  ~  .  1  =  >  A{{{{{{{{{{{{{{{{{{{{{{{         A  J  !  D  O  7  `  a  n  '  k  r  s      :  ;  >  E  ~  ;  <  ?  F{{{{{{{{{{{{{{{{{{{{{{{         F  |  F  G  J  Q    A  B  W  x  &  '  *  6  7  :  I  J  M  Z  o    {{{{{{{{{{{{{{{{{{{{{{{           "  ~  q  r  u  |  5  6  9  B  E  Q    %  A  D  P  `  n   1   2   5   C{{{{{{{{{{{{{{{{{{{{{{{          C  !l  !  ";  "<  "?  "N  #}  #  $V  $W  $h  %  %-  %.  %2  %@  %A  %D  %P  %Q  %T  %`  %a{{{{{{{{{{{{{{{{{{{{{{{         %a  %e  %n  %o  %r  %  %   %  %  %z  &  &y  &z  &}  &  &=  &>  &L  &y  '5  '6  '9  'F  'G{{{{{{{{{{{{{{{{{{{{{{{         'G  'J  'Y  'Z  ']  'j  'k  'x  ':  (
+  (  (!  ("  (*  )3  )U  )p  )  )I  )Q  +  +%  +o  +p{{{{{{{{{{{{{{{{{{{{{{{         +p  +{  +  +  +  ++  +8  +9  +D  ,	  ,R  ,S  ,a  ,  ,	  ,  ,M  -   -  -  -  -  -$  -S{{{{{{{{{{{{{{{{{{{{{{{         -S  -  -	  -  -  -  -*  -j  .2  .3  .6  .X  .  .9  /  /  /&  0:  0N  18  19  1<  1D  1E{{{{{{{{{{{{{{{{{{{{{{{         1E  1H  1T  2-  2m  3$  30  4X  4Y  4d  4k  4l  4v  4  4$  4%  43  4K  4h  4i  4x  5!  5P  5Q{{{{{{{{{{{{{{{{{{{{{{{         5Q  5T  5\  5]  5k  5  5(  5)  5,  58  5o  5p  5s  6  6  6"  62  6K  6`  6k  6  6  6%  6&{{{{{{{{{{{{{{{{{{{{{{{         6&  69  6I  6`  6a  6k  6r  6s  6v  6~  6  7  7$  7]  7^  7l  7	  7*  7+  71  7n  8  8@  8K{{{{{{{{{{{{{{{{{{{{{{{         8K  8  8G  9  9
+  9%  9&  9)  9;  9`  9k  9{  9  9)  9=  9V  9c  9d  9q  9z  9{  :	  :  :{{{{{{{{{{{{{{{{{{{{{{{         :  :  :$  :%  :(  :.  :k  :  :0  :U  :V  :a  :h  :i  :l  :~  ;  ;  ;>  ;I  ;Y  ;r  ;  ; {{{{{{{{{{{{{{{{{{{{{{{         ;   ;!  ;$  ;,  ;-  ;0  ;<  ;]  ;|  <  <-  <+  =!  ="  =0  =   =1  >=  >>  >L  >  >~  >  ?{{{{{{{{{{{{{{{{{{{{{{{         ?  ?b  ?_  ?`  ?c  @"  @f  @g  @n  A  AI  AQ  B  B*  Bu  BT  BU  BX  Bf  C  DF  Dj  Dk  Dn{{{{{{{{{{{{{{{{{{{{{{{         Dn  Dv  E
+  E  E0  Fs  Ft  G  G  G  G  G&  H!  HW  H`  J(  J\  Jh  Jp  K  K  L
+  L  L%{{{{{{{{{{{{{{{{{{{{{{{         L%  M3  M4  M5  M8  Mj  M%  M&  M?  M]  Ms  N  N  N5  N6  N9  NA  NB  NE  Nl  N!  N"  N%  N1{{{{{{{{{{{{{{{{{{{{{{{         N1  NR  Nq  Nr  O  OU  OV  OY  O  O  O  OL  P	  P
+  P
+  P  PB  PS  Q  Q  Qm  R  R_  R`{{{{{{{{{{{{{{{{{{{{{{{         R`  RA  Ri  S5  S7  S=  SU  SV  Se  S;  T
+  TZ  T[  Tq  T  TR  U  US  UT  Uk  U  U=  Ut  V({{{{{{{{{{{{{{{{{{{{{{{         V(  V)  V5  VF  Vw  VF  W  Wc  Wd  Wp  W  W  WM  Xd  X  X  Yy  Y  Y  Y,  YJ  Yl  Ym  Z {{{{{{{{{{{{{{{{{{{{{{{         Z   Z  Z  Z  Z&  ZK  ZL  ZO  ZV  ZW  ZZ  Zh  Zi  Zl  Zt  Zm  Zn  Z|  Z}  [  [  [  [C  [D{{{{{{{{{{{{{{{{{{{{{{{         [D  [G  [N  [m  [  [  [4  [T  [|  \L  \3  \w  ]r  ]s  ]v  ]~  ]  ]  ]  ]/  ]N  ]O  ]a  ]i{{{{{{{{{{{{{{{{{{{{{{{         ]i  ]j  ^   ^  ^  ^  ^f  ^g  ^j  ^'  ^(  ^/  ^0  ^3  ^A  ^B  ^E  ^M  ^N  ^Q  ^X  ^w  _  _%{{{{{{{{{{{{{{{{{{{{{{{         _%  _>  _^  _  _  _  _  _  _  _$  _%  _(  _6  _7  _:  _A  _B  _E  _T  _n  `
+  `  `  `{{{{{{{{{{{{{{{{{{{{{{{         `  `$  `  `  `  `!  a  a-  a'  a(  a,  a<  b  b.  bJ  b  bM  bN  bQ  b[  c  c  dY  dZ{{{{{{{{{{{{{{{{{{{{{{{         dZ  do  d4  e  e  e  e  e~  fV  f  f   gl  h&  h'  h2  h3  h:  h;  hJ  hh  hi  hl  h~  h{{{{{{{{{{{{{{{{{{{{{{{         h  h.  h/  h2  h9  iR  iq  k.  kZ  k[  k^  kl  kK  l  l:  l;  lG  lH  lO  lP  l`  l{  l|  l{{{{{{{{{{{{{{{{{{{{{{{         l  m  m%  m&  m)  m/  mu  n'  n]  nx  o2  oh  o=  o>  oI  o\  oi  oj  p   pY  p  pF  p{  qh{{{{{{{{{{{{{{{{{{{{{{{         qh  q  qR  r  r\  r$  rm  sX  s  s  s0  s1  s7  s>  t  t  t  t)  t_  t`  tc  tr  ts  tv{{{{{{{{{{{{{{{{{{{{{{{         tv  t  t  t  t  t  t  t  t@  t_  u	  u  u  u3  u9  u:  uF  uM  uN  uQ  uY  uZ  u]  uj{{{{{{{{{{{{{{{{{{{{{{{         uj  uk  un  uw  ux  u{  u  u  u  u  u  u  u)  u*  u-  u<  u=  uJ  ux  uy  v  v  v  v{{{{{{{{{{{{{{{{{{{{{{{         v  v  v  vV  w"  wR  w  w  w  w7  w8  w<  wJ  wK  wN  wZ  w[  w^  wj  wk  wn  wu  wv  wy{{{{{{{{{{{{{{{{{{{{{{{         wy  x*  xg  xh  xk  xt  xu  xx  x  x  x	  x  x  x  x!  xB  xa  y  y  y  y5  y;  y<  y?{{{{{{{{{{{{{{{{{{{{{{{         y?  yG  yH  yK  yX  yY  y\  ye  yf  yi  yu  yv  yy  y  y  y	  y  y  y  y*  yV  yW  ya  yb{{{{{{{{{{{{{{{{{{{{{{{         yb  yi  yj  yn  y|  y}  z   z  z
+  z  z  z  z   z'  z(  z+  z4  z5  z8  zE  zF  zI  zQ  zR{{{{{{{{{{{{{{{{{{{{{{{         zR  zk  z  z  z  z  z@  z_  {	  {  {(  {)  {B  {H  {I  {L  {^  {k  {  {  {  {)  {/  {0{{{{{{{{{{{{{{{{{{{{{{{         {0  {3  {L  {M  {X  |  |  |  |p  |a  |b  |e  |l  |m  |p  |  }  }  }"  }4  }5  }8  }C  }D{{{{{{{{{{{{{{{{{{{{{{{         }D  }G  }Q  }p  ~  ~0  K  `      0   1   ;   G   H   N   w   ,   -   7   ^   _   q   r   y{{{{{{{{{{{{{{{{{{{{{{{          y   z    
+          #  '  (  +  >                      {{{{{{{{{{{{{{{{{{{{{{{             (  )  ,  6  ]  ^  a  l  m  p    F  Z         &  0  9  a  b  f{{{{{{{{{{{{{{{{{{{{{{{         f  v  T  z  
+     	1  	2  	5  	A  	8  	L  
+F  
+G  
+J  
+Z  
+[  
+_  
+k    +  l  m  p{{{{{{{{{{{{{{{{{{{{{{{         p  t  -  A  	  B  H    <  =  F  ^     M  N  Q  [  '  (  s  7  O    1{{{{{{{{{{{{{{{{{{{{{{{         1  W  Z  k  <  J    x    R  r    n  o  x      (  	  x  y      {{{{{{{{{{{{{{{{{{{{{{{           &  u    	    >  ?  B  L    [  \  k  r  s    M  N  ^  _  }  ~  C{{{{{{{{{{{{{{{{{{{{{{{         C      a  U  V    U  V  ]      	  @  T   n   o   z   %   &   =   t   u  !{{{{{{{{{{{{{{{{{{{{{{{         !  !  !  !  !  !  !"  !1  !2  !5  !E  !u  "  #b  $  $  $  $$  $  $]  $h  %o  %:  %;{{{{{{{{{{{{{{{{{{{{{{{         %;  %K  %n  %o  %r  &  &M  &)  &b  '	  '  '`  'I  '  (   (!  (+  (2  (3  (6  (@  (  (  ({{{{{{{{{{{{{{{{{{{{{{{         (  (  (  (  (  (:  (;  (>  (G  )c  *,  *B  +P  +  +.  +a  +b  +q  ,$  ,%  ,B  ,k  ,  ,{{{{{{{{{{{{{{{{{{{{{{{         ,  ,!  ,D  ,F  ,U  ,k  ,l  -  -  -  -C  -  -F  .4  .5  .?  .@  .N  /c  /l  /  /  /$  /M{{{{{{{{{{{{{{{{{{{{{{{         /M  /c  /d  /g  /p  1  1*  1C  1R  1S  1`  1  1"  1#  1+  1<  1\  2X  2x  2e  2~  3
+  3  3{{{{{{{{{{{{{{{{{{{{{{{         3  3   3N  3\  3  3  3&  4=  4x  5  5   5!  5$  53  54  57  5F  5t  5u  5  6'  6I  6b  6q{{{{{{{{{{{{{{{{{{{{{{{         6q  6r  6u  7  72  7\  7]  7}  8I  8x  9J  9  9*  99  9:  9D  9K  9L  9O  9|  9}  :  :d  ;{{{{{{{{{{{{{{{{{{{{{{{         ;  ;Q  <  <7  <P  <_  <`  <l  <s  <t  <x  <$  <J  <K  <\  <|  =$  =%  =)  =4  =o  =  =H  =I{{{{{{{{{{{{{{{{{{{{{{{         =I  =W  >  >E  >F  >_  >  >*  >+  >2  >c  ?  ?  ?  ?O  ?}  ?~  ?  ?$  ?%  ?,  ?L  ?M  ?f{{{{{{{{{{{{{{{{{{{{{{{         ?f  @
+  @8  @9  @E  @]  @^  @k  @t  @u  @  @  @	  @
+  @  @V  @W  @[  @g  A  A  A.  A/  A2{{{{{{{{{{{{{{{{{{{{{{{         A2  A8  Ai  Ao  B  B  B  B'  C)  CJ  C\  Ch  D  D  D  D)  DK  D_  E:  E=  EL  EM  EQ  E_{{{{{{{{{{{{{{{{{{{{{{{         E_  E`  Ec  Eo  Ep  Es  E  F   F  F
+  F  F  F  F  F  F(  F)  F,  F4  F5  F8  FD  Fe  F{{{{{{{{{{{{{{{{{{{{{{{         F  F.  F;  FL  F]  Fk  Fl  Fo  G  G  G-  GE  GT  Ge  Go  G  G  G   G+  G,  G]  G^  Gk  Gr{{{{{{{{{{{{{{{{{{{{{{{         Gr  Gs  H  H  H  H*  H0  H1  H4  HF  HT  Hl  H{  H  H  H3  HF  HG  Hc  Hy  I  I%  I&  I){{{{{{{{{{{{{{{{{{{{{{{         I)  I0  I1  I4  IB  IC  IF  IN  Im  I  I  I  I  I&  IF  In  Io  Ir  Iz  J  J2  JG  JH  JK{{{{{{{{{{{{{{{{{{{{{{{         JK  JY  JZ  J]  Jd  Je  Jh  Jw  J  J  J  J,  J-  J0  J;  J<  J?  JI  Kh  K  K8  K9  K<  KG{{{{{{{{{{{{{{{{{{{{{{{         KG  KH  KL  K\  L  L	  L  L  L  L  L%  L&  L)  L0  LO  LP  LZ  La  Lb  Le  Lk  L  LS  LT{{{{{{{{{{{{{{{{{{{{{{{         LT  L]  Lu  M  M	  M  M  Ms  Ma  Mb  Me  Mw  N.  N/  NY  NZ  N~  OU  On  O*  Ob  P0  Q)  Q/{{{{{{{{{{{{{{{{{{{{{{{         Q/  QO  QP  Q^  Qg  Qh  Qs  RI  R\  SN  SO  S\  Sc  T  T3  T4  T?  UM  UK  UZ  W  W  W(  X_{{{{{{{{{{{{{{{{{{{{{{{         X_  X  X!  Z;  ZI  ZJ  ZQ  ZR  ZU  Zg  Z  Z)  Z9  ZG  ZV  Zs  [  [  [  [I  [J  [M  [_  [ {{{{{{{{{{{{{{{{{{{{{{{         [   [  [  [5  [6  [Y  [n  \  \  \/  \0  \3  \E  \`  \}  \  \  \  \  \  \  \)  ]W  ]g{{{{{{{{{{{{{{{{{{{{{{{         ]g  ^  ^   ^0  ^]  ^  ^  ^'  ^E  ^q  ^r  ^  _B  _E  _
+  _  _  _r  `  `  `  `  `
+  `\{{{{{{{{{{{{{{{{{{{{{{{         `\  `_  `m  aR  a  a  b  bO  bP  b]  b^  be  bf  bi  by  bz  b}  b  b  b  b  b  b   b&{{{{{{{{{{{{{{{{{{{{{{{         b&  b'  b*  b>  b?  bB  bM  bN  bQ  bc  bd  bg  bv  c  c  c  c   c!  c$  c0  co  c  c6  cW{{{{{{{{{{{{{{{{{{{{{{{         cW  cv  d   dB  dY  dj  d  d  d&  d'  d*  d<  dS  dp  e  e$  e%  eF  e]  ez  e{  e~  e  e{{{{{{{{{{{{{{{{{{{{{{{         e  e	  e  e7  e8  e;  eM  eN  eQ  eW  eX  e[  em  en  eq  ew  ex  e{  f
+  f$  fC  fX  fY  f\{{{{{{{{{{{{{{{{{{{{{{{         f\  fb  fk  fl  fo  g  g  g  g
+  g  g  g"  g#  g&  g0  g1  g4  gD  gE  gH  gV  gW  gZ  g_{{{{{{{{{{{{{{{{{{{{{{{         g_  g`  gc  go  h  h  h!  h.  h  h!  i  i  i&  i9  iP  io  i  i  i  i  j  j$  j5  kB{{{{{{{{{{{{{{{{{{{{{{{         kB  kC  kF  kT  lr  l  m,  m-  m0  m=  mE  mV  n{  n|  n  n  nL  nv  of  oy  oH  op  p  p{{{{{{{{{{{{{{{{{{{{{{{         p  p  pA  pq  p}  q$  q%  q(  q3  r`  rp  sI  sJ  sK  sm  t   t
+  t  t  t7  t8  t;  tG  tc{{{{{{{{{{{{{{{{{{{{{{{         tc  tw  u.  u/  u2  u;  v;  vk  vv  w  w  w  w  wH  wI  wM  wW  w  w*  wD  wE  wI  wS  w~{{{{{{{{{{{{{{{{{{{{{{{         w~  w  x  x
+  x8  x9  x<  xG  xe  x{  yG  yH  yK  yY  z*  zc  zz  zc  zd  zg  zp  {  {@  {A{{{{{{{{{{{{{{{{{{{{{{{         {A  {K  {R  {S  {V  {d  {e  {h  {s  {t  {w  {  {  {  {  {  {  {  {E  {_  {`  {c  {m  {n{{{{{{{{{{{{{{{{{{{{{{{         {n  {q  {z  |*  |+  |.  |:  |;  |>  |I  |n  |  |"  |5  |6  |J  |P  |Q  |a  |v  }  }/  }B  }C{{{{{{{{{{{{{{{{{{{{{{{         }C  }U  }  }  }  }  }4  }[  }\  }_  }k  }l  }o  }x  ~(  ~)  ~,  ~6  ~7  ~8  ~<  ~F  ~n  ~{{{{{{{{{{{{{{{{{{{{{{{         ~  ~	  ~  ~  ~  ~  ~&  ~'  ~*  ~5  ~6  ~9  ~G  ~H  ~K  ~]  ~t        +    $  2{{{{{{{{{{{{{{{{{{{{{{{         2   $ > V W Z f @ P \ q  * = > S h o w ~  {{{{{{{{{{{{{{{{{{{{{{{            %     + B C Q ` a v | }    - W X{{{{{{{{{{{{{{{{{{{{{{{        X v 	 	C 	D 	R 	~ 	 	 	 	 	 	 	* 	> 	Q 	p 	q 
+ 
+? 
+e 
+f 
+i 
+u{{{{{{{{{{{{{{{{{{{{{{{        
+u 
+ 
+ 
+< 
+K 
+Q 
+Y 
+_ 
+` 
+c 
+d     / B C P Q Z [ ^ _{{{{{{{{{{{{{{{{{{{{{{{        _ k  @ b c l   0 1 > G H K Y Z ] i     {{{{{{{{{{{{{{{{{{{{{{{         ! , - 0 : ; > H I L V ~ 
+ 
+ 
+ 
+& 
+' 
+* 
+3 
+c 
+d 
+r 
+s{{{{{{{{{{{{{{{{{{{{{{{        
+s 
+z 
+{ 
+~ 
+
+ 
+ 
+ 
+  
+C 
+Z     6 7 D q r   . / ? T{{{{{{{{{{{{{{{{{{{{{{{        T s    + @ A D V j 	 , C j k n w !     ${{{{{{{{{{{{{{{{{{{{{{{        $ % 2 ; < ? L M P ^ _ b m n q x y |  # 7 V y  {{{{{{{{{{{{{{{{{{{{{{{          ! $ 0 o  7 V    8 Z q   , > ? j   6 7 >{{{{{{{{{{{{{{{{{{{{{{{        > u     2 Q x y |     S z  : d 	  6 U n{{{{{{{{{{{{{{{{{{{{{{{        n  ' 8 M b t u x         < = @ G g h s z{{{{{{{{{{{{{{{{{{{{{{{        z { ~  % & 0 M N X _ ` n       $ % ( 7 V{{{{{{{{{{{{{{{{{{{{{{{        V W Z _     % b c f k ( ) , 1 4 Z  R     g{{{{{{{{{{{{{{{{{{{{{{{        g  , C J K O T     W X [ `   " / s P ` T{{{{{{{{{{{{{{{{{{{{{{{        T U [ { |     -  A  S  f    ,  -  > ! ! !% !] !^ !a ! ! !{{{{{{{{{{{{{{{{{{{{{{{        ! " " " " "& #6 #Q $ $ $ $ $R $y $ $9 $c % % %5 %T %m % %&{{{{{{{{{{{{{{{{{{{{{{{        %& %7 %L %a %s %t &
+ & &5 &6 &@ &h &i &j &m & & &( &D &X &j &} ' 'C{{{{{{{{{{{{{{{{{{{{{{{        'C 'D 'O 'X 'Y 'g '  ' ' '. '/ '2 'B 'C 'F 'S 'T 'W (S (# )> )& )' )5{{{{{{{{{{{{{{{{{{{{{{{        )5 *k *z +$ +! +X , ,& ,\ -% -& -, -L -M -b -[ .0 .1 .H .i .j . .{ .|{{{{{{{{{{{{{{{{{{{{{{{        .| . / /- /A /T /s / /X 02 0G 0I 0J 0P 0p 0q 0} 1 1D 1{ 1 1 1& 1={{{{{{{{{{{{{{{{{{{{{{{        1= 1w 23 2p 2q 2} 3' 3: 3N 3i 3x 4 4! 4^ 4 4  4	 4 44 5	 5R 5" 5o 68{{{{{{{{{{{{{{{{{{{{{{{        68 6C 6 6 6 6S 6y 7 7I 7w 7x 7{ 7 7	 7 7 7 7  7, 7K 8
+ 81 8R 8q{{{{{{{{{{{{{{{{{{{{{{{        8q 8 8@ 8W 8v 9 91 9B 9W 9l 9~ 9 9 9, 9@ 9T 9g 9t :	 :
+ : : : : {{{{{{{{{{{{{{{{{{{{{{{        :  :0 :1 :4 :A :B :E :S : :! :[ ; ;* <0 =p =y = =' >( >) >, >> >R >b{{{{{{{{{{{{{{{{{{{{{{{        >b >~ ? ? ?! ?. ?/ ?2 ?B ?C ?F ?R ?q ?0 ?W ?x @ @A @X @m @ @ @0 @U{{{{{{{{{{{{{{{{{{{{{{{        @U @l A A$ AF AW Al A A A A/ AC AS Ao Ap A B B B B) B* B- B: B;{{{{{{{{{{{{{{{{{{{{{{{        B; B> BL B B. C} C4 C5 C> CP CW Cs D; D< D? DL DM DP D` Da Dd Dp D DN{{{{{{{{{{{{{{{{{{{{{{{        DN Du E E5 E_ E} E E% E< EQ Eg E} F F9 FP Fo F F* F; FP Fe Fw Fx G{{{{{{{{{{{{{{{{{{{{{{{        G G. G/ G0 G3 GE Gd Ge Gh Gx Gy G| H	 H
+ H
+ H HR HS H` Ha Hh Hi Hz H#{{{{{{{{{{{{{{{{{{{{{{{        H# H$ H' H4 H5 H8 HH HI HL HX Hw I6 I] I~ I IG I` I} JL Jj J| K K) K>{{{{{{{{{{{{{{{{{{{{{{{        K> KT Kj K K& K= K\ Ku L L( L= LR Ld Le Lh Lz L	 L( L) LE LK LL LO LW{{{{{{{{{{{{{{{{{{{{{{{        LW LX L[ Lh Li Ll L{ L| L M MA MB ME MW Mv M, M- M0 M? M@ MC M` Ma Md{{{{{{{{{{{{{{{{{{{{{{{        Md Mq Mr Mu M} M~ N N
+ N, Nk N N3 NR N| O
+ O& OC P P0 PB PX Po P P{{{{{{{{{{{{{{{{{{{{{{{        P P0 PG Pl Q Q" Q; Q] Qn Q Q Q* Q+ Q4 Q; Q< QI Qk R
+ R R R R R{{{{{{{{{{{{{{{{{{{{{{{        R R' R( R+ R: R; R> RJ R  R R R R? R@ RF Rf Rg Rj R| S S; S\ S{ S|{{{{{{{{{{{{{{{{{{{{{{{        S| S S	 S SF SG SW T T T. Ul U WB WC WS Wr Ws Wv W W- Wc Wd Wv Ww{{{{{{{{{{{{{{{{{{{{{{{        Ww W~ W X X X X X" X# X& X. X/ X2 X> X] X XC Xd Y Y- Y> YW Yu Y{{{{{{{{{{{{{{{{{{{{{{{        Y Y Y4 YI Y_ Yu Z Z1 ZH Zg Z  Z" Z3 ZH Z] Zo Zp [ [ [> [Y [f [g [u{{{{{{{{{{{{{{{{{{{{{{{        [u [ [ [! [K [j \ \$ \B \Q \h \ \ \( \= \P \d \x ]
+ ]0 ]E ]b ]y ]{{{{{{{{{{{{{{{{{{{{{{{        ] ]( ]; ]N ]^ ]_ ]m ^X _ _ _ _ _# _* _+ _9 _V _W _Z _l ` ` `& `Y{{{{{{{{{{{{{{{{{{{{{{{        `Y `k `~ a a4 aH a] a| a
+ a a. a? a@ aS ak al b  b" b# b1 b8 b9 bX bY{{{{{{{{{{{{{{{{{{{{{{{        bY b\ bd be bw b b b b. bK br bs bv c c! c` c c( cG cq d d/ dP dp{{{{{{{{{{{{{{{{{{{{{{{        dp d d d8 dJ d` du e e! e8 e] et e e/ e@ eU ej e| e} f
+ f fO f f{{{{{{{{{{{{{{{{{{{{{{{        f f" f4 fS fp g g g2 g? g\ g] gm g g g g% gL gM gZ gv gw gz h	 h
+{{{{{{{{{{{{{{{{{{{{{{{        h
+ h
+ h hF hG hJ h\ h h h h iu i iS iz j j: jd j j$ jA jb k k{{{{{{{{{{{{{{{{{{{{{{{        k k, kJ k\ kr k k k3 kJ ko l l lA lR lg l| l l l l8 l9 l< lH m*{{{{{{{{{{{{{{{{{{{{{{{        m* mI n n/ nP no n n8 nY nv o o7 oH oa o o o' o< oR oh o p$ p; pT{{{{{{{{{{{{{{{{{{{{{{{        pT pv p p p1 pC pD pX pi p} p~ q q
+ qo r rM rt r r4 r^ r} s s; s\{{{{{{{{{{{{{{{{{{{{{{{        s\ s| s s& sD sZ sp t t tB tY tr t t% t: tO ta tb tk tr ts tv u ud{{{{{{{{{{{{{{{{{{{{{{{        ud v vB vi v
+ v) vS vr w w0 wQ wq w w w9 wO we w| x! x8 xQ xs x x{{{{{{{{{{{{{{{{{{{{{{{        x x. x@ xA xT x\ x] xj y y y
+ y- y. y1 yh y yL{{{{{{{{{{{{{{{{                                                        s t   v                    ^     xL  yL        H  a  "  1  $  (Q  -X  3h  6l  9h  >_  Et  L]  Q`  W  Z|  ^>  aN  g2  n2  s  u  x  y4  {e  y    
+  1  L  	  #  (c  .$  4   9  >O  A'  Ee  Gy  I?  Lb  S3  ZI  ^B  a>  d  fH  kr  q{  vI  z  |_    	  
+r q  N , $a .X 4o 9
+ >/ A Ew H} LE P] RF WC [( ` cp fv kg o} uB xL@     @     @     @     @     @     @     @     @     	@     
+@     @     @     
+@     @     @     @     @     @     @     @     @           @           @     @     @     @     @     @     @      @     !@     "@     #@     $@     %@     &@     '@     (      )      *@     +@     ,@     -@     .@     /      0      1@     2@     3@     4@     5      6@     7@     8@     9      :      ;      <      =      >@     @@     A@     C@     D@     E@     F      G      H      I      J      K      L@     M      N@     O      P@     Q      R      S      T      U    ySt     =  e  
+H  A  F     C  %a  'G  +p  -S  1E  5Q  6&  8K  :  ;   ?  Dn  L%  N1  R`  V(  Z   [D  ]i  _%  `  dZ  h  l  qh  tv  uj  v  wy  y?  yb  zR  {0  }D   y    f  p  1    C  !  %;  (  ,  /M  3  6q  ;  =I  ?f  A2  E_  F  Gr  I)  JK  KG  LT  Q/  X_  [   ]g  `\  b&  cW  e  f\  g_  kB  p  tc  w~  {A  {n  }C  ~  2  X 
+u _  
+s T $   > n z V g T ! %& 'C )5 .| 1= 68 8q :  >b @U B; DN G H# K> LW Md P R S| Ww Y [u ] `Y bY dp f h
+ k m* pT s\ ud x yLuvwxyz{|}~ 	
+
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}       
+     e f

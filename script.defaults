@@ -1,0 +1,928 @@
+
+>wake up the troll-object (Note: after it's unconscious)
+The troll-object is rudely awakened.
+
+
+>wake up the troll-object
+The troll-object is already awake, or haven't you noticed.
+
+
+>wake up the mailbox-object
+The mailbox-object isn't sleeping!
+
+
+>reply
+Nobody seems to be awaiting your answer.
+
+
+>attack the mailbox-object
+Only a deranged individual would attack an mailbox-object.
+
+
+>attack the troll-object with my hands
+Trying to attack a troll-object with your bare hands is suicidal.
+
+
+>attack the troll-object with the knife 
+You arn't even holding the knife-object.
+
+>attack the troll-object with sandwich
+Trying to attack a troll-object with a sandwich is suicidal.
+"Einen Troll mit einem belegten Brot anzugreifen ist Selbstmord."
+>get in the boat-object
+The boat-object must be on the ground to be boarded.
+"Der Boot muss da sein, wenn man einsteigen will."
+
+>get in the boat-object
+You are alread in the boat-object.
+"Du bist schon in dem Boot"
+
+>get in the mailbox-object
+You have a theory on how to board a mailbox-object, perhaps?
+"Du hast also eine Idee, wie man in einen Briefkasten einsteigt?"
+>get in the boat-object
+You are now in the boat-object.
+"Du bist jetzt in dem Boot."
+
+>brush the chalice
+If you wish, but only heaven knows why.
+"Wenn du willst,  aber um Himmels Willen, warum?"
+
+>burn the log-object
+You didn't say with what!  
+"Du hast nicht gesagt mit was!"
+
+>burn the object with the fork-object
+With the fork-object?!?
+"Mit dem Gabel etwa?!?"
+
+>burn the boat-object
+The boat-object catches fire. Unfortunately, you were in it at the time.
+[You have died.]
+"Der Boot faengt Feuer. Dummerweise warst du gerade darin. (Du bist darin umgekommen.)"
+
+>burn the log-object
+The boat-object catches fire. Unfortunately, your were holding it at the time.
+"Der Boot faengt Feuer. Dummerweise hast du ihn gerade festgehalten."
+
+>burn the leaflet-object
+The leaflet object catches fire and is consumed.
+"Der Zettel faengt Feuer und verbrennt ."
+
+>burn the fork-object
+You can't burn the fork-object.
+"Du kannst der Gabel nicht verbrennen."
+
+>climb onto the mailbox-object
+You can't climb onto the mailbox-object.
+"Du kannst nicht auf den Briefkasten  steigen."
+
+>climb up the mailbox-object
+The mailbox-object doesn't lead upward.
+"Der Briefkasten fuehrt nicht nach oben."
+
+>climb down the mailbox-object 
+The mailbox-object doesn't lead downward.
+"Der Briefkasten fuehrt nicht nach unten."
+
+>climb up the stairs
+The stairs don't lead upward.
+"Die Treppe fuehrt nicht nach oben."
+
+>climb down the stairs
+The stairs don't lead downward.
+"Die Treppe fuehrt nicht nach unten.
+
+>climb
+You can't go that way.
+"In diese Richtung  kannst du nicht gehen."
+
+>climb the walls
+Climbing the walls is to no avial.
+"Die Waende raufzuklettern ist sinnlos."
+
+>close the leaflet-object
+It's utterly impossible to close a leaflet-object.
+"Es ist ist einfach unmoeglich einen Zettel zu schliessen."
+
+>close the mailbox-object
+Closed.
+"Geschlossen."
+
+>close the door-object
+The door-object is now closed.
+"Der Tuer ist jetzt geschlossen."
+
+>close the door-object
+the door object is already closed.
+"DerTuer ist schon geschlossen."
+
+>close the log-object               (der Stamm in German)
+You cannot close that.
+"Du kannst das da nicht schliessen.":
+
+>command the troll-object
+The troll-object pays no attention.
+DER-NOM-CAP reagiert nicht."
+>command the mailbox-object
+You cannont talk to that!
+"Damit kannst man nicht sprechen. 
+
+>count my blessings [Renata: The player is blessed if he prays at the alter.] >"danke meinem Schoepfer.
+Well, for one, you are playing Zork...
+"Vergiss nicht, du spielst Zork."
+
+>count the mailbox-object
+You have lost your mind.
+"Du bist verrueckt."
+
+>cut the boat-object with the knife
+Not a bright idea, since you're in it. Your skillfull boatsmanship slices
+boat into inumerable slivers which blow away.
+"Nicht die kluegste Idee, denn du bist drin. Deine raffinierte  Navigation zermalmt den Boot in unzaehlbare Splitter, die wegfliegen."
+
+>cut the log with the chalice-object
+The "cutting edge" of the chalice is hardly adequate.  
+"* must find computer lingo term:attempt by Renata and Hildegunde:
+"Die scharfen Kanten des Kelches haben keinen Schneid."
+>cut the mailbox-object
+Strange concept, cutting the mailbox-object
+"Eine eigenartige Idee, den Briefkasten  zu zerschneiden."
+
+>deflate the mailbox-object
+Come on, now!
+"So ein Quatsch!"
+
+>dig in the ground with the shovel
+There's no reason to be diggin here
+"Hier gibt es wahrlich keinen Grund zum Graben."
+
+>dig in ground with the knife-object
+Digging with the knife-object is slow and tedious.
+"Mit dem Messer zu graben ist langsam und muehsam."
+>dig in ground with sandwich-object
+Digging with the sandwich-object is silly.
+"Mit dem belegten Brot zu graben ist bloedsinnig."
+
+>get out of the mailbox-object
+You're not in that!
+"Da bist du doch gar nicht drin!"
+
+>get out of the boat-object
+You are on your own feet again.
+"Du stehst wieder auf eigenen Fuessen."
+ 
+>get out of the boat-object [Renata: Eg, when it's on the river]
+You realize that getting ou here would be fatal.
+Du begreifst, dass es deinen Tod bedeuten wuerde, wenn du hier ausstiegest."
+	 
+>drink from mailbox-object
+How peculiar!
+"Wie eigenartig!"
+
+>drop the knife-object
+Dropped.
+"Fallen gelassen."
+>eat the sandwich-object
+You're not holding that.
+"Das hast du doch gar nicht in der Hand."
+
+>drink the sandwich-object
+How can you drink that?
+"Wie in aller Welt willst du den denn trinken?"
+
+>drink the water-object
+You don't have any to drink.                      anything?
+"Du hast doch garnichts zu trinken."
+>drink the water-object
+You have to be holding the bottle-object first.
+"Erst musst du doch den Flasche in der Hand halten."
+
+>drink the water-object
+You have to open the bottle-object first. 
+"Erst musst du doch den Flasche oeffnen."
+
+[Note: if the theif steals your lighted lamp.]
+You are left in the dark.
+"Du tappst im Dunkeln."
+
+>look at boat-object
+There's nothing speacial about the boat-object.
+"Da ist nichts Besonderes an dem Boot."
+
+>exorcise the mailbox-object
+What a bizarre concept!
+"Was fuer eine Schnappsidee!"
+
+>fill the chalice-object
+There's nothing to fill it with. [Note: ie, no water]
+"Da ist nichts, mit dem man ihn fuellen koennte." 
+
+>find me
+You're around here somewhere...
+
+
+>find air-object
+You can find that yourself.
+
+
+>find the knife-object
+You have it.
+
+
+>find the mailbox
+It's right here.
+"Er ist hier."
+
+>find the ax-object
+The troll-object has it.
+DER-NOM-CAP hat ihn."
+
+>find the sandwich-object
+It's on the table-object.
+"Er ist auf dem Tisch."
+>find the thief
+Beats me.
+"Da bist du bei mir an der falschen Adresse."
+
+>follow the mailbox
+You're nuts!
+"Du bist narrisch!"
+>FROBOZZ
+The FROBOZZ Corporation created, owns, and operates this dungeon.
+??????????????????????
+Die FROBOZZ FIRMA gruendete, besitzt und leitet diesen Kerker."
+>give the sandwich-object to the troll-object
+That's easy for you to say since you don't even have the sandwich object.
+"Das kannst du leicht sagen, denn du besitzt  ja nicht einmal den belegten Brot."
+
+>give the leaflet-object to the mailbox-object
+You can't give a leaflet-object to a mailbox-object!
+"Du kannst einem Briefkasten  doch keinen Zettel  geben!"
+
+>give the stone-object to the troll-object
+The troll-object politely refuses the stone object.
+
+
+>troll-object, hello
+The troll-object bows his head to you in greeting.
+
+>hello, mailbox
+It's a well known fact that only schizophrenics say "Hello" to a
+mailbox-object.
+	    
+
+>inflate the mailbox-object
+How can you inflate that?
+
+>kiss troll-object
+You'd sooner kiss a pig.
+
+
+>knock on the door
+Nobody's home.
+
+
+>knock on the mailbox-object
+Why knock on a mailbox-object
+
+
+>turn off the lamp-object
+The lamp-object is already off.
+
+		
+>turn off the lamp-object
+Okay, the lamp-object is now off.
+"O.k. der Lampe ist jetzt aus."
+
+It is now pitch black.
+
+	       
+>turn off mailbox-object
+You can't turn that off.
+
+
+>turn on lamp-object
+It is already on.
+
+
+>light the leaflet-object [Note: leaflet-object is burnable object]
+If you wish to burn the leaflet-object, you should say so.
+
+	       
+>turn on the mailbox-object
+You can't turn that on.
+
+	 
+>launch the boat
+You can't launch that by saying "launch.
+
+>launch the mailbox
+That's pretty weird.
+
+
+>lean on the tree-object
+Getting tired?
+
+
+>jump over the troll-object
+The troll-object is too big to jump over.
+
+
+>jump over the mailbox
+That would be a good trick.
+
+
+>jump down [Note: off the cliff]
+That was not a very safe place to try jumping.
+
+
+>jump down  [Note: you are up the tree]
+In a feat of unaccustomed daring, you manage to land on your feet without killing yourself.
+ 
+
+
+[Note: these are printed right before you jump and die from the fall]
+"You should have looked before you leaped."
+"In the movies, your life would be passing before your eyes."
+"Geronimo..."                            ????????
+
+
+
+>listen to the mailbox-object
+At the moment, the mailbox-object makes no sound.
+
+
+
+>lock the mailbox-object
+It doesn't seem to work.
+
+
+>look behind the mailbox-object
+There is nothing behind the mailbox-object.
+
+
+>look inside the door-object
+"The door-object is open, but you can't tell what's
+beyond it.
+
+
+
+>look inside the door-object
+The door-object is closed.
+
+
+>look inside the troll
+There is nothing special to be seen.
+
+		      
+>look on the table-object		
+There is nothing on the table-object.
+
+
+>look inside the mailbox-object
+The mailbox object is empty.
+
+
+>look inside the mailbox-object
+The mailbox object is closed.
+ 
+
+>look inside the log-object
+You can look inside a log-object.
+
+
+>look on the sandwich-object
+Look on a sandwich-object???
+
+>look under the mailbox-object
+There is nothing but dust there.
+
+
+>make a coin-object
+You can't do that.
+
+
+>melt the gold-object
+It's not clear that gold-object can be melted.
+
+
+>move the sandwich-object [Note: you are holding the object]
+You aren't an accomplished enough juggler.
+
+>move the leaflet-object
+Moving leaflet-object reveals nothing.
+
+
+>move the mailbox-object
+You can't move the mailbox-object.
+
+
+>break the mailbox-object
+Trying to destroy the mailbox-object with your bare hands is futile.
+
+
+>break the mailbox-object with the knife-object
+Trying to destroy the mailbox-object with the knife-object hands is futile.
+
+
+>break the mailbox-object
+Nice try.
+
+
+>odysseus [Note: getting rid of the cyclops]
+The cyclops, hearing the name of his father's deadly nemesis, flees the roomby knocking down the wall on the east of the room
+ 
+		        
+>oddysseus [Note: if the cyclops isn't here]
+Wasn't he a sailor?
+
+
+>oil the mailbox-object
+You probably put spinach in your gas tank, too.
+
+
+>open the mailbox-object
+It is already open.
+
+
+>open the mailbox-object
+Opened.
+
+
+>open the mailbox-object
+The mailbox-object opens.
+
+
+>open the chalice-object
+You cannot seem to open the chalice-object.
+
+
+>pick the mailbox-object (Note: You CAN try to 'pick a lock' in the game.)
+You can't pick that.
+
+
+>play the troll-object
+You become so engrossed in the role of the troll-object that you kill yourself, just as he might have done!
+
+>play the mailbox-object
+That's silly.
+
+
+>plug the mailbox-object (Note: You can try to PLUG A LEAK in the game.)
+This has no effect.
+
+
+>pour water on the torch-object
+The torch-object is extinquished.
+
+
+>pour water on the rock-object
+The water pours over the rock-object, to the floor, and evaporates.
+
+
+>pour the rainbow-object on the torch.
+You can't pour that.
+
+
+>pray (Note: If you pray at the alter, you're let out of the dungeon.)
+If you pray enough, your prayers may be answered.
+
+
+>push the rock to the machine-object.
+You can't push things to that.
+
+
+>put the rock-object in the ground.
+You can't do that.
+
+
+>put the leaflet in the mailbox-object
+The mailbox-object isn't open.
+
+
+>put the leaflet-object into the leaflet-object
+How can you do that?
+
+
+>put the leaflet-object into the mailbox-object
+The leaflet-object is already in the mailbox-object.
+
+
+>put the leaflet-object into the mailbox-object
+There's no room.   [Note: In other words, the mailbox is already full.]
+
+
+>put the leaflet-object into the mailbox-object
+You don't have the leaflet-object.
+
+
+>put the leaflet-object into the mailbox-object
+Done.
+
+
+>put the chalice-object behind the table
+That hiding place is too obvious.
+
+
+>put the chalice on the rock-object		
+There's no good surface on the rock-object.
+
+>put the chalice under the rock
+You can't do that.
+
+>read the leaflet
+It is impossible to read in the dark.
+
+
+>read the leaflet through the chalice-object
+How does one look through a chalice-object.
+
+
+>read the rock-object
+How does one read the rock-object?
+
+>repent  (Note: Usually input in Hades.)
+It could very well be too late!
+
+
+>reply
+It is hardly likely that troll-object is interested.
+
+	 
+>ring the chalice-object (Note: you CAN ring the bell.)
+How, exactly, can you ring that?
+
+
+>say "hello"  [Note: If a person is in the room.]
+ 
+To speak to characters, type: 
+PERSON, HELLO or
+PERSON, DROP THE AX (etc.)
+
+
+>say "hello"
+Talking to yourself is a sign of impending mental collapse.
+
+
+>search the room
+You find nothing unusual.
+
+
+>send for the troll-object
+Why would you send for the troll-object?
+
+
+>send for the chalice
+That doesn't make sense.
+
+
+>shake the troll-object
+This seems to have no effect.
+
+
+>shake the mailbox
+You can't take it; thus, you can't shake it.
+
+
+>shake the bag-object
+The content of the bag-object spill out and disappears.
+
+
+>shake the bag-object
+The content of the bag-object spill to the ground.
+"Der Inhalt des Tuete faellt 
+	                      
+>shake the leaflet
+Shaken.
+
+>shake the box-object (Note: the box is closed)
+It sounds like there's something inside the box-object.
+
+
+>shake the box-object (Note: it's empty)
+The box-object sounds empty.
+"Der Schachtel hoert sich leer an."
+			     
+>jump up
+"Very good. Now you can go to the second grade." (Note: 4 possible responses)
+"Are you enjoying yourself?"
+"Wheeeeeeeeee!!!!!"
+"Do you expect me to applaud?"
+
+
+>smell the mailbox-object
+It smells just like a mailbox-object.
+
+
+>spin the mailbox-object
+You can't spin that!
+
+
+>squeeze the troll-object
+The troll-object does not understand this.
+
+
+>squeeze the mailbox-object
+How singularly useless.
+
+
+>stab the troll-object (Note: without a knife)
+No doubt you propose to stab the troll-object with your pinky?
+
+
+>stand up
+You are already standing, I think.
+
+>stay
+You don't move a muscle.
+
+
+>strike the troll-object
+Since you aren't versed in hand-to-hand combat, you'd better attack the troll-object with a weapon.
+
+	       
+>swim
+Swimming isn't usually allowed in the dungeon.
+
+
+>Swimm (Note: with no water around.)
+Go jump in a lake!
+
+
+>swing the sword-object
+Whoosh!
+
+	       
+>take the shirt-object
+You are already wearing the shirt-object.
+
+		      
+>take the leaflet
+You already have that!
+
+
+>take the leaflet (Note: it's in the close mailbox)
+You can't reach something that's inside a closed container.
+
+
+>take the leaflet from the mailbox
+The leaflet-object isn't in the mailbox-object.
+
+
+>take the shirt
+You are now wearing the shirt-object.
+
+>take the leaflet-object.
+Taken.
+"Genommen."
+
+>talk to troll
+The troll-object pauses for a moment, perhaps thinking that you should reread the manual.
+
+
+>talk to mailbox
+You can't talk to the mailbox-object.
+
+
+>get into the mailbox
+You hit your head against the mailbox-object as you attempt this feat.
+
+
+>get into the table-object
+You can't do that!
+
+
+>get into the chalice-object (Note: you are holding it.)
+That would involve quite a contortion.
+
+
+>throw the knife-object at me
+A terrific throw! The knife-object hits you squarely in the head. Normally, this wouldn't do much damage, but by incredible mischance, you fall over backwards trying to duck, and break your neck, justice being swift and merciful in the Great Underground Empire.
+"Ein toller Wurf! Den Messer trifft dich genau in den Kopf. Normalerweise wuerde daraus nicht viel Schaden entstehen, aber du hast das unsagbare Pech, hintenueberzufallen, als du dich ducken willst und brichst dir das Genick. Die Gerechtigkeit kommt schnell und gnadenreich im Grossen Land der Unterwelt."       ????
+
+>throw the knife-object at the troll-object
+The troll-object ducks as knife-object flies by and crashes to the ground.
+
+
+>throw the knife-object.
+Thrown.
+
+
+>throw the knife-object off the table  (Note: rather that off the cliff, ect)
+You can't throw anything off of that!
+"Von dort kann man nichts runterwerfen!"
+
+>tie the rope to myself
+You can't tie anything to yourself.
+"Du kannst nichts an dir selber festbinden."
+	       
+>tie the rope-object to the rock
+You can't tie the rope-object to that.
+"Daran kannst du das Seil nicht festbinden."
+
+>tie up the troll-object with the rubber-boat
+You could certainly never tie the troll with that!
+"Den Troll kannst du damit bestimmt nicht fesseln!"
+
+>turn the screw
+Your bare hands don't appear to be enough.
+"Mit nackten Haenden kommst du hier nicht weiter."
+>turn the mailbox-object
+You can't turn that!
+"Den kannst du nicht umdrehen!"
+
+>turn the leaflet
+This has no effect.
+"Erfolglos."
+
+>tie the boat-object
+The boat-object cannot be tied, so it cannot be untied!
+"Den Boot kann nicht festgebunden werden, also kann er auch nicht losgebunden werden!"
+
+>wait
+Time passes...
+"Zeit vergeht..."
+
+>go south
+You can't go that way.
+"In die Richtung kannst du nicht gehen."
+		      
+>go north
+The door-object is closed.
+"Der Tuer ist geschlossen."
+
+>walk north (Note: it's dark)		                
+Oh, no! You have walked into a den of hungry grues and it's dinner time!
+"O nein! Du bist in eine Hoehle von hungrigen Greulen geraten und es ist Essenszeit!"
+			     
+>walk north (ditto)
+Oh, no! You have walked into the slavering fangs of a lurking grue!
+"O nein! Du bist in die lechzenden Faenge eines lauernden Greuls geraten!"
+	       
+
+>walk around
+Use compass directions for movement.
+"Benutze einen Kompass fuer die Richtung."
+
+>walk to the mailbox-object
+The mailbox-object is here!
+"Der Briefkasten ist hier!"
+
+>walk to the dog
+You should supply a direction!
+"Du musst eine Richtung angeben!"
+
+>wear the knife-object
+You can't wear the knife-object
+"Du kannst den Messer nicht tragen."
+	       
+>win
+Naturally!
+"Logo! Klar!"
+
+>wind the mailbox-object (Note: you can wind a clock)
+You cannot wind up the mailbox-object
+"Du kannst den Briefkasten nicht aufziehen."
+>wish
+With luck, your wish will come true.
+"Mit viel Glueck, wird dein Wunsch sich erfuellen."
+
+>yell
+Aaaarrrrgggghhhh!
+AAAUUUUUU!"
+
+>zork
+At your service!
+"Zu deinen Diensten!"
+
+>look
+It is pitch black.
+You are likely to be eaten by a grue.
+"Es ist stockdunkel.
+"Die Wahrscheinlichkeit, dass du von einem Greul gefressen wirst, ist ziemlich gross."
+		
+>look
+Only bats can see in the dark. And you're not one.
+"Nur Fledermaeuse koennen im Dunkeln sehen. Und du bist keine."
+
+>look
+There is a mailbox-object here.
+There is a torch here.
+"Hier ist eine Fackel."
+
+>inventory
+You are carrying:
+"Du traegst:
+
+A shirt (being worn).
+"Ein Hemd auf dem Leib."
+
+>look
+Your collection of treasures consists of:
+"Deine Schatzsammlung besteht aus:
+
+[Etc., etc.]
+
+>look
+Sitting on the table-object is: 
+"Auf dem Tisch sind:"
+
+[Etc., etc.]
+
+>look
+It appears the troll-object is holding:
+"DER-NOM-CAP scheint das Folgende zu halten:"
+
+[Etc., etc.]
+
+>look
+It appears the box-object contains: 
+"Der Schachtel scheint das Folgende zu enthalten:"
+
+[Etc., etc.]
+
+>look at treasures [Note: after you have collected all the treasures.]
+An almost inaudible voice whispers in your ear, "Look to your treasures
+for the final secret.
+"Eine fast unvernehmbare Stimme fluestert dir zu: "Suche unter den Schaetzen nach dem letzten Geheimnis."
+	 
+>take the chalice [Note: you are a disembodied spirit, ie dead.]
+Your hand passes through its object.
+"Deine Hand greift durch das Objekt hindurch."
+
+>take the chalice
+Your load is too heavy.
+"Deine Last ist zu schwer."
+
+>take the chalice 
+Your load is too heavy, especially in light of your condition.
+"Deine Last ist zu schwer, aber du nimmst es leicht."
+>take the chalice
+You're holding too many things already!
+"Du hast deine Haende schon zu voll!"
+		
+>drop the leaflet-object
+You're not carrying the leaflet-object.
+"Du traegst den Zettel nicht."
+		
+>drop the leaflet [Note: it's in a closed box]
+The box-object is closed.
+"Der Schachtel ist geschlossen."
+	       
+>wave the chalice-object
+The chalice-object isn't here!
+"Der Kelch ist nicht hier!"
+	       
+
+[Note: this sentence is for variety. One string from A and B are chosen
+randomly to form the sentence. "Fiddling with" is when you 'rub' something.
+"Playing in this way..." is when you 'lower' something.]
+  
+A) "Kicking " / "Playing in this way with" / "Pushing " / 
+   "Fiddling with " / "Waving "
+"A) "mit dem Fuss treten" /..........runterlassen"./."Schieben"./."mit .........reiben."/."mit ..........wedeln."
+
+B) "the OBJECT"
+"B) "der OBJEKT"
+
+B) " doesn't seem to work." / " isn't notably helpful." / " has no effect."
+B)" scheint nicht zu funktionieren." /."ist nicht hilfreich."./."erfolglos."
+
+>go north
+You can't go there in the boat-object.
+"Mit dem Boot kannst du da nicht hin."
+	       
+>go south
+You can't go there without a vehicle. (Note: eg, a boat)
+
+
+>hello (Note: If no one is around.)
+
+
+
+"Good day."
+"Nice weather we've been having lately."
+"Goodbye".
+
+
+."
+
+
+[Note: these are responses to really silly inputs.]
+"A valiant attempt."
+"Ein beachtlicher Versuch."
+"You can't be serious."
+"Das kann doch nicht dein Ernst sein."
+"An interesting idea..."
+"Eine interessante Idee...."
+"What a concept!"
+"Geniale Idee!"
+
+[Note: if you, eg, type 'get out of boat' when your not in it.]
+ 		"Look around."
+	        "Too late for that."
+	        "Have your eyes checked."
+"Schau dich um."
+"Dazu ist es zu spaet."
+"Lass dir mal die Augen checken."

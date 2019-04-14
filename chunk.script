@@ -1,0 +1,59 @@
+Notes: 
+
+1) Under each paragraph of so of text, type out your translation.
+   (So I know to what the translation corresponds.)
+
+2) Don't bother translating the input now, such as >OPEN THE MAILBOX,
+   etc. All the inputs will be translated as all together.
+
+3) You do NOT need to translate sentences with a German article in them.
+   These sentences are usually simple, functional sentences that are
+   used repeatedly. The object following the German article indicates
+   that it is "plugged into" the sentence and could be, usually, just
+   about any object in the game. (These sentences all have the default
+   Feminine gender because the object names to be plugged in haven't
+   been translated yet.) The sentences with the German article will be
+   translated apart from the game transcript below.
+
+4) If you run across a chunk of text that you've already translated, of
+   course there's no need to do it again. Hopefully there won't be alot
+   of these. But there will be some "repeat" chunks of text.
+
+5) If you can put quotes around each paragraph of text, it would be
+   helpful. But if you forget, don't worry about it.     
+
+6) Some text may be seem bizarre or puzzling. You might as well not waste
+   your time trying to figure out exactly what they mean. I'll try
+   to explain them (or find someone who can). 
+
+7) Good luck. 
+            
+
+West of House
+You are standing in an open field west of a white house, with a boarded front
+door.
+There is eine small mailbox here. (Renata: E.g., don't bother translating 
+				           this sentence) 
+
+>EXAMINE THE WHITE HOUSE
+
+The house is a beautiful colonial house which is painted white.
+It is clear that the owners must have been extremely wealthy.
+
+>OPEN THE MAILBOX
+Opening die small mailbox reveals eine leaflet.
+
+>TAKE LEAFLET
+Taken.
+
+>READ LEAFLET
+"WELCOME TO ZORK!
+
+ZORK is a game of adventure, danger, and low cunning. In it you will explore
+some of the most amazing territory ever seen by mortals. No computer should be
+without one!"
+
+>GO NORTH
+North of House
+You are facing the north side of a white house. There is no door here, and all
+the windows are boarded up. To the north a narrow path winds through the trees.

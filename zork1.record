@@ -1,0 +1,409 @@
+ZILCH of 6/8/89 11:26
+
+Combined ZIL Compiler Ver 2.0 (MIM)
+-----------------------------------
+Input file: /HOME/DEVELOPMENT/OLD/GERMAN/ZORK1.ZIL
+[YZIP instructions]
+
+[Language is GERMAN, string escape is %]
+[Character set for GERMAN installed]
+
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/TELLS.ZABSTR.
+Loading /HOME/DEVELOPMENT/OLD/GERMAN/SYNTAX.ZIL and compiling it.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/DUNGEON.ZABSTR.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/GLOBALS.ZABSTR.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/CLOCK.ZABSTR.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/LOOP.ZABSTR.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/PARSER.ZABSTR.
+Loading /HOME/DEVELOPMENT/OLD/GERMAN/VERBS.ZIL and compiling it.
+
+Compiling routine: V-VERBOSE
+Compiling routine: V-BRIEF
+Compiling routine: V-SUPER-BRIEF
+Compiling routine: V-INVENTORY
+Compiling routine: FINISH
+Compiling routine: V-QUIT
+Compiling routine: V-RESTART
+Compiling routine: V-RESTORE
+Compiling routine: V-SAVE
+Compiling routine: V-SCRIPT
+Compiling routine: V-UNSCRIPT
+Compiling routine: V-$ID
+Compiling routine: V-VERSION
+Compiling routine: V-VERIFY
+Compiling routine: V-COMMAND-FILE
+Compiling routine: V-RANDOM
+Compiling routine: V-RECORD
+Compiling routine: V-UNRECORD
+Compiling routine: V-ADVENT
+Compiling routine: V-ALARM
+Compiling routine: V-ANSWER
+Compiling routine: V-ATTACK
+Compiling routine: V-BACK
+Compiling routine: V-BLAST
+Compiling routine: PRE-BOARD
+Compiling routine: V-BOARD
+Compiling routine: V-BRUSH
+Compiling routine: TELL-NO-PRSI
+Compiling routine: PRE-BURN
+Compiling routine: V-BURN
+Compiling routine: V-CHOMP
+Compiling routine: V-CLIMB-DOWN
+Compiling routine: V-CLIMB-FOO
+Compiling routine: V-CLIMB-ON
+Compiling routine: V-CLIMB-UP
+Compiling routine: V-CLOSE-OR-LOCK
+Compiling routine: V-CLOSE-OR-UNLOCK
+Compiling routine: V-CLOSE
+Compiling routine: V-COMMAND
+Compiling routine: V-COUNT
+Compiling routine: V-CROSS
+Compiling routine: V-CURSES
+Compiling routine: V-CUT
+Compiling routine: V-DEFLATE
+Compiling routine: V-DIG
+Compiling routine: V-DIG-WITH
+Compiling routine: V-DISEMBARK
+Compiling routine: V-DISENCHANT
+Compiling routine: V-DRINK
+Compiling routine: V-DRINK-FROM
+Compiling routine: PRE-DROP
+Compiling routine: V-DROP
+Compiling routine: V-EAT
+Compiling routine: HIT-SPOT
+Compiling routine: V-ECHO
+Compiling routine: V-ENCHANT
+Compiling routine: REMOVE-CAREFULLY
+Compiling routine: V-ENTER
+Compiling routine: V-EXAMINE
+Compiling routine: V-EXIT
+Compiling routine: V-EXORCISE
+Compiling routine: PRE-FILL
+Compiling routine: V-FILL
+Compiling routine: V-FIND
+Compiling routine: V-FOLLOW
+Compiling routine: V-FROBOZZ
+Compiling routine: PRE-GIVE
+Compiling routine: V-GIVE
+Compiling routine: V-HATCH
+Compiling routine: V-HELLO
+Compiling routine: V-HINTS-OFF
+Compiling routine: V-INCANT
+Compiling routine: V-INFLATE
+Compiling routine: V-KICK
+Compiling routine: V-KISS
+Compiling routine: V-KNOCK
+Compiling routine: V-LAMP-OFF
+Compiling routine: V-LAMP-ON
+Compiling routine: V-LAUNCH
+Compiling routine: V-LEAN-ON
+Compiling routine: V-LEAP
+Compiling routine: V-LEAVE
+Compiling routine: V-LISTEN
+Compiling routine: V-LOCK
+Compiling routine: V-LOOK
+Compiling routine: V-LOOK-BEHIND
+Compiling routine: V-LOOK-INSIDE
+Compiling routine: V-LOOK-ON
+Compiling routine: V-LOOK-UNDER
+Compiling routine: V-LOWER
+Compiling routine: V-MAKE
+Compiling routine: V-MELT
+Compiling routine: PRE-MOVE
+Compiling routine: V-MOVE
+Compiling routine: V-MUMBLE
+Compiling routine: PRE-MUNG
+Compiling routine: V-MUNG
+Compiling routine: V-NO
+Compiling routine: V-ODYSSEUS
+Compiling routine: V-OIL
+Compiling routine: V-OPEN
+Compiling routine: V-OVERBOARD
+Compiling routine: V-PICK
+Compiling routine: V-PLAY
+Compiling routine: V-PLUG
+Compiling routine: V-POUR-ON
+Compiling routine: V-PRAY
+Compiling routine: V-PUMP
+Compiling routine: V-PUSH
+Compiling routine: V-PUSH-TO
+Compiling routine: PRE-PUT
+Compiling routine: V-PUT
+Compiling routine: V-PUT-BEHIND
+Compiling routine: V-PUT-ON
+Compiling routine: V-PUT-UNDER
+Compiling routine: V-RAISE
+Compiling routine: PRE-READ
+Compiling routine: V-READ
+Compiling routine: V-READ-PAGE
+Compiling routine: V-REPENT
+Compiling routine: V-REPLY
+Compiling routine: V-RING
+Compiling routine: V-RUB
+Compiling routine: V-SAY
+Compiling routine: V-SEARCH
+Compiling routine: V-SEND
+Compiling routine: V-SCHENKE
+Compiling routine: PRE-SGIVE
+Compiling routine: V-SGIVE
+Compiling routine: V-SHAKE
+Compiling routine: SHAKE-LOOP
+Compiling routine: V-SKIP
+Compiling routine: V-SMELL
+Compiling routine: V-SPIN
+Compiling routine: V-SPRAY
+Compiling routine: V-SQUEEZE
+Compiling routine: V-SSPRAY
+Compiling routine: V-STAB
+Compiling routine: V-STAND
+Compiling routine: V-STAY
+Compiling routine: V-SWIM
+Compiling routine: V-SWING
+Compiling routine: V-TRAGE
+Compiling routine: PRE-TAKE
+Compiling routine: V-TAKE
+Compiling routine: V-TELL
+Compiling routine: V-TEST-IT
+Compiling routine: V-THROUGH
+Compiling routine: V-THROW
+Compiling routine: V-THROW-OFF
+Compiling routine: V-TIE
+Compiling routine: V-TIE-UP
+Compiling routine: V-TREASURE
+Compiling routine: PRE-TURN
+Compiling routine: V-TURN
+Compiling routine: V-UNLOCK
+Compiling routine: V-UNTIE
+Compiling routine: V-USE
+Compiling routine: V-WAIT
+Compiling routine: V-WALK
+Compiling routine: V-WALK-AROUND
+Compiling routine: V-WALK-TO
+Compiling routine: V-WAVE
+Compiling routine: V-WEAR
+Compiling routine: V-WIN
+Compiling routine: V-WIND
+Compiling routine: V-WISH
+Compiling routine: V-YELL
+Compiling routine: V-YES
+Compiling routine: V-ZORK
+Compiling routine: V-FIRST-LOOK
+Compiling routine: DESCRIBE-ROOM
+Compiling routine: DESCRIBE-OBJECTS
+Compiling routine: DESCRIBE-OBJECT
+Compiling routine: PRINT-CONTENTS
+Compiling routine: PRINT-CONT
+Compiling routine: FIRSTER
+Compiling routine: SEE-INSIDE?
+Compiling routine: SCORE-UPD
+Compiling routine: SCORE-OBJ
+Compiling routine: YES?
+Compiling routine: ITAKE
+Compiling routine: IDROP
+Compiling routine: CCOUNT
+Compiling routine: WEIGHT
+Compiling routine: NO-GO-TELL
+Compiling routine: GOTO
+Compiling routine: LKP
+Compiling routine: DO-WALK
+Compiling routine: GLOBAL-IN?
+Compiling routine: FIND-IN
+Compiling routine: HELD?
+Compiling routine: OTHER-SIDE
+Compiling routine: MUNG-ROOM
+Compiling routine: THIS-IS-IT
+Abstracting VERBS to /HOME/DEVELOPMENT/OLD/GERMAN/VERBS.
+Loading abstract /HOME/DEVELOPMENT/OLD/GERMAN/ACTIONS.ZABSTR.
+Loading /HOME/DEVELOPMENT/OLD/GERMAN/HINTS.ZIL and compiling it.
+
+Compiling routine: V-HINT
+Compiling routine: PICK-QUESTION
+Compiling routine: ERASE-CURSOR
+Compiling routine: NEW-CURSOR
+Compiling routine: INVERSE-LINE
+Compiling routine: DISPLAY-HINT
+Compiling routine: PUT-UP-QUESTIONS
+Compiling routine: PUT-UP-CHAPTERS
+Compiling routine: INIT-HINT-SCREEN
+Compiling routine: CENTER-LINE
+Compiling routine: LEFT-LINE
+Compiling routine: RIGHT-LINE
+Abstracting HINTS to /HOME/DEVELOPMENT/OLD/GERMAN/HINTS.
+Vocabulary: 1074
+
+Prepositions: 39
+
+AB		FEST		HINTER		NACH		UM
+AN		FUER		HINUNTER	NICHT		UNTER
+AT		HERAB		HOCH		NIEDER		UP
+AUF		HERUM		IN		OBJEKT		VON
+AUS		HERUNTER	INSTAND		QUER		WEG
+DICH		HERUNTERFALLEN	LIEGEN		RAUS		WITH
+DURCH		HINAUF		LOS		RUNTER		ZU
+FALLEN		HINEIN		MIT		UEBER
+
+Real globals: 166
+
+ABOVE-GROUND	     HINT-WARNING	  P-NCN
+AGAIN-DIR	     HINTS		  P-NOT-HERE
+AGAIN-LEXV	     HINTS-OFF		  P-NUMBER
+ALWAYS-LIT	     HOST		  P-OCLAUSE
+BASE-SCORE	     HOUSE-AROUND	  P-OFLAG
+BAT-DROPS	     HS			  P-ONEOBJ
+BDIGS		     IN-HOUSE-AROUND	  P-OTBL
+BEACH-DIG	     INDENTS		  P-OVTBL
+BUOY-FLAG	     JUMPLOSS		  P-PRSI
+C-DEMONS	     KITCHEN-WINDOW-FLAG  P-PRSO
+C-INTS		     LAMP-TABLE		  P-SLOCBITS
+C-TABLE		     LIGHT-SHAFT	  P-SYNTAX
+CAGE-TOP	     LINE-TABLE		  P-TABLE
+CANDLE-TABLE	     LIT		  P-VTBL
+CHAPT-NUM	     LLD-FLAG		  P-WALK-DIR
+CHEIGHT		     LOAD-ALLOWED	  P-WON
+CLOCK-WAIT	     LOAD-MAX		  P-XADJ
+COFFIN-CURE	     LOUD-FLAG		  P-XNAM
+COLUMN-TABLE	     LOUD-RUNS		  PLAYER
+CUR-POS		     LOW-TIDE		  PRSA
+CWIDTH		     LUCKY		  PRSI
+CYCLOMAD	     MAGIC-FLAG		  PRSO
+CYCLOPS-FLAG	     MATCH-COUNT	  QUEST-NUM
+CYCLOPS-MELEE	     MIRROR-MUNG	  QUOTE-FLAG
+CYCLOWRATH	     MOVES		  RAINBOW-FLAG
+DEAD		     OHERE		  RESERVE-LEXV
+DEATHS		     OLD-LEN		  RESERVE-PTR
+DEF1		     OOPS-INBUF		  RIVER-LAUNCH
+DEF1-RES	     OOPS-TABLE		  RIVER-NEXT
+DEF2-RES	     P-AADJ		  RIVER-SPEEDS
+DEF2A		     P-ACLAUSE		  ROBBER-C-DESC
+DEF2B		     P-ACT		  ROBBER-U-DESC
+DEF3-RES	     P-ADJ		  RUG-MOVED
+DEF3A		     P-ADVERB		  SCORE
+DEF3B		     P-ANAM		  SCORE-MAX
+DEF3C		     P-AND		  SING-SONG
+DEFLATE		     P-BUTS		  SPRAYED?
+DESC-OBJECT	     P-CCTBL		  SUPER-BRIEF
+DIROUT-TBL	     P-CONT		  SWIMYUKS
+DOME-FLAG	     P-DIR		  THIEF-ENGROSSED
+DROWNINGS	     P-DIRECTION	  THIEF-HERE
+DUMMY		     P-END-ON-PREP	  THIEF-MELEE
+EGG-SOLVE	     P-GETFLAGS		  TROLL-FLAG
+EMPTY-HANDED	     P-GWIMBIT		  TROLL-MELEE
+FALSE-FLAG	     P-HER-OBJECT	  VERBOSE
+FOREST-AROUND	     P-HIM-OBJECT	  VILLAINS
+FUMBLE-NUMBER	     P-INBUF		  WATER-LEVEL
+FUMBLE-PROB	     P-IT-OBJECT	  WHEEEEE
+GATE-FLAG	     P-ITBL		  WIDTH
+GATES-OPEN	     P-LEN		  WINNER
+GRATE-REVEALED	     P-LEXV		  WON-FLAG
+GRUNLOCK	     P-MATCHLEN		  XB
+GWIM-PRSO?	     P-MERGE		  XC
+HELLOS		     P-MERGED		  YUKS
+HERE		     P-MULT
+HERO-MELEE	     P-NAM
+
+Objects: 260
+
+ADVENTURER	     GATE		  PAINTING
+ADVERTISEMENT	     GHOSTS		  PATH
+ALTAR		     GLOBAL-OBJECTS	  PATHOBJ
+ARAGAIN-FALLS	     GLOBAL-WATER	  PEDESTAL
+ATLANTIS-ROOM	     GRATE		  POT-OF-GOLD
+ATTIC		     GRATING-CLEARING	  PRAYER
+ATTIC-TABLE	     GRATING-ROOM	  PUMP
+AXE		     GROUND		  PUNCTURED-BOAT
+BAG-OF-COINS	     GRUE		  PUTTY
+BAR		     GUIDE		  RAILING
+BARROW		     GUNK		  RAINBOW
+BARROW-DOOR	     HANDS		  RAISED-BASKET
+BAT		     HER		  RED-BUTTON
+BAT-ROOM	     HIM		  RESERVOIR
+BAUBLE		     HOT-BELL		  RESERVOIR-NORTH
+BELL		     IN-STREAM		  RESERVOIR-SOUTH
+BLUE-BUTTON	     INFLATABLE-BOAT	  RIVER
+BOARD		     INFLATED-BOAT	  RIVER-1
+BOARDED-WINDOW	     INTDIR		  RIVER-2
+BOAT-LABEL	     INTNUM		  RIVER-3
+BODIES		     IT			  RIVER-4
+BOLT		     JADE		  RIVER-5
+BONES		     KEYS		  ROOMS
+BOOK		     KITCHEN		  ROPE
+BOTTLE		     KITCHEN-TABLE	  ROUND-ROOM
+BRACELET	     KITCHEN-WINDOW	  RUG
+BROKEN-CANARY	     KNIFE		  RUSTY-KNIFE
+BROKEN-EGG	     LADDER		  SAILOR
+BROKEN-LAMP	     LADDER-BOTTOM	  SAND
+BROWN-BUTTON	     LADDER-TOP		  SANDWICH-BAG
+BUBBLE		     LAKE		  SANDY-BEACH
+BUOY		     LAMP		  SANDY-CAVE
+BURNED-OUT-LANTERN   LAND-OF-LIVING-DEAD  SCARAB
+CANARY		     LARGE-BAG		  SCEPTRE
+CANDLES		     LEAK		  SCREWDRIVER
+CANYON-BOTTOM	     LEAVES		  SHAFT-ROOM
+CANYON-VIEW	     LIVING-ROOM	  SHORE
+CELLAR		     LOCAL-GLOBALS	  SHOVEL
+CHAIN		     LOUD-ROOM		  SKULL
+CHALICE		     LOWER-SHAFT	  SLIDE
+CHASM		     LOWERED-BASKET	  SLIDE-ROOM
+CHASM-ROOM	     LUNCH		  SMALL-CAVE
+CHIMNEY		     LUNGS		  SMELLY-ROOM
+CLEARING	     MACHINE		  SONGBIRD
+CLIFF-MIDDLE	     MACHINE-ROOM	  SOUTH-OF-HOUSE
+CLIMBABLE-CLIFF	     MACHINE-SWITCH	  SOUTH-TEMPLE
+COAL		     MAILBOX		  SQUEEKY-ROOM
+COFFIN		     MAINTENANCE-ROOM	  STAIRS
+COLD-PASSAGE	     MAP		  STILETTO
+CONTROL-PANEL	     MATCH		  STONE-BARROW
+CRACK		     MAZE-1		  STRANGE-PASSAGE
+CYCLOPS		     MAZE-10		  STREAM
+CYCLOPS-ROOM	     MAZE-11		  STREAM-VIEW
+DAM		     MAZE-12		  STUDIO
+DAM-BASE	     MAZE-13		  SWORD
+DAM-LOBBY	     MAZE-14		  TEETH
+DAM-ROOM	     MAZE-15		  THIEF
+DAMP-CAVE	     MAZE-2		  TIMBER-ROOM
+DEAD-END-1	     MAZE-3		  TIMBERS
+DEAD-END-2	     MAZE-4		  TINY-CAVE
+DEAD-END-3	     MAZE-5		  TOOL-CHEST
+DEAD-END-4	     MAZE-6		  TORCH
+DEAD-END-5	     MAZE-7		  TORCH-ROOM
+DEEP-CANYON	     MAZE-8		  TRAP-DOOR
+DIAMOND		     MAZE-9		  TREASURE-ROOM
+DOME		     ME			  TREE
+DOME-ROOM	     MINE-1		  TRIDENT
+DOOR-P		     MINE-2		  TROLL
+EAST-OF-CHASM	     MINE-3		  TROLL-ROOM
+EAST-OF-HOUSE	     MINE-4		  TROPHY-CASE
+EGG		     MINE-ENTRANCE	  TRUNK
+EGYPT-ROOM	     MIRROR-1		  TUBE
+EMERALD		     MIRROR-2		  TWISTING-PASSAGE
+END-OF-RAINBOW	     MIRROR-ROOM-1	  UP-A-TREE
+ENGRAVINGS	     MIRROR-ROOM-2	  WALL
+ENGRAVINGS-CAVE	     MOUNTAIN-RANGE	  WATER
+ENTRANCE-TO-HADES    MOUNTAINS		  WEST-OF-HOUSE
+EW-PASSAGE	     NAILS		  WHITE-CLIFF
+FOREST		     NARROW-PASSAGE	  WHITE-CLIFFS-NORTH
+FOREST-1	     NEST		  WHITE-CLIFFS-SOUTH
+FOREST-2	     NORTH-OF-HOUSE	  WHITE-HOUSE
+FOREST-3	     NORTH-TEMPLE	  WINDING-PASSAGE
+FRONT-DOOR	     NOT-HERE-OBJECT	  WOODEN-DOOR
+GALLERY		     NS-PASSAGE		  WRENCH
+GARLIC		     ON-RAINBOW		  YELLOW-BUTTON
+GAS		     OWNERS-MANUAL	  ZORKMID
+GAS-ROOM	     PAINT
+
+Properties: 30
+
+P?ACTION     P?CONTFCN	  P?LANDEN     P?OST	    P?SO	 P?TEXT
+P?ADJDESC    P?DESCFCN	  P?LDESC      P?RAUF	    P?STRENGTH	 P?TVALUE
+P?ADJECTIVE  P?FDESC	  P?NO	       P?RAUS	    P?SUED	 P?VALUE
+P?ADVFCN     P?GLOBAL	  P?NORD       P?RUNTER	    P?SW	 P?VTYPE
+P?CAPACITY   P?HINEIN	  P?NW	       P?SIZE	    P?SYNONYM	 P?WEST
+
+Flags: 35
+
+ACTORBIT    DIEBIT	INVISIBLE   OPENBIT	STAGGERED   TRYTAKEBIT
+BURNBIT	    DOORBIT	KLUDGEBIT   READBIT	SURFACEBIT  TURNBIT
+CLIMBBIT    DRINKBIT	LIGHTBIT    RLANDBIT	TAKEBIT	    VEHBIT
+CONTBIT	    FIGHTBIT	NDESCBIT    RMUNGBIT	TOOLBIT	    WEAPONBIT
+DASBIT	    FLAMEBIT	NONLANDBIT  SACREDBIT	TOUCHBIT    WEARBIT
+DERBIT	    FOODBIT	ONBIT	    SEARCHBIT	TRANSBIT

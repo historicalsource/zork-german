@@ -1,0 +1,200 @@
+
+
+	.FUNCT	NOT-HERE-OBJECT-F:ANY:0:0,TBL,PRSO?,OBJ
+	SET	'PRSO?,TRUE-VALUE
+	EQUAL?	PRSO,NOT-HERE-OBJECT \?CCL3
+	EQUAL?	PRSI,NOT-HERE-OBJECT \?CCL3
+	PRINTR	"Diese Dinge sind nicht hier!"
+?CCL3:	EQUAL?	PRSO,NOT-HERE-OBJECT \?CCL7
+	SET	'TBL,P-PRSO
+	JUMP	?CND1
+?CCL7:	SET	'TBL,P-PRSI
+	SET	'PRSO?,FALSE-VALUE
+?CND1:	SET	'P-CONT,FALSE-VALUE
+	SET	'QUOTE-FLAG,FALSE-VALUE
+	EQUAL?	WINNER,PLAYER \?CCL10
+	PRINTR	"Du kannst das hier nicht sehen!"
+?CCL10:	ICALL2	DER-NOM-CAP-PRINT,WINNER
+	PRINTR	" scheint verwirrt. %>Ich sehe das hier nicht!%<"
+
+
+	.FUNCT	NULL-F:ANY:0:2,A1,A2
+	RFALSE	
+
+
+	.FUNCT	STAIRS-F:ANY:0:0
+	EQUAL?	PRSA,V?THROUGH \FALSE
+	PRINTR	"Du mu%st sagen, ob du nach oben oder unten gehen willst."
+
+
+	.FUNCT	SAILOR-FCN:ANY:0:0
+	EQUAL?	PRSA,V?TELL \?CCL3
+	SET	'P-CONT,FALSE-VALUE
+	SET	'QUOTE-FLAG,FALSE-VALUE
+	PRINTR	"So kannst du mit dem Seemann nicht sprechen."
+?CCL3:	EQUAL?	PRSA,V?EXAMINE \?CCL5
+	PRINTR	"Hier ist kein Seemann zu sehen."
+?CCL5:	EQUAL?	PRSA,V?HELLO \FALSE
+	INC	'HS
+	MOD	HS,20
+	ZERO?	STACK \?CCL10
+	PRINTR	"Du wiederholst dich."
+?CCL10:	MOD	HS,10
+	ZERO?	STACK \?CCL12
+	PRINTR	"Dieser Satz wird langsam langweilig."
+?CCL12:	PRINTR	"Hier passiert garnichts."
+
+
+	.FUNCT	GROUND-FUNCTION:ANY:0:0
+	EQUAL?	PRSA,V?PUT-ON,V?PUT \?CCL3
+	EQUAL?	PRSI,GROUND \?CCL3
+	ICALL	PERFORM,V?DROP,PRSO
+	RTRUE	
+?CCL3:	EQUAL?	HERE,SANDY-CAVE \?CCL7
+	CALL1	SAND-FUNCTION
+	RSTACK	
+?CCL7:	EQUAL?	PRSA,V?DIG \FALSE
+	PRINTR	"Hier ist der Boden zu hart zum Graben."
+
+
+	.FUNCT	GRUE-FUNCTION:ANY:0:0
+	EQUAL?	PRSA,V?EXAMINE \?CCL3
+	PRINTR	"Das Greuel ist ein b%osartiges lauerndes Wesen in den dunklen Orten dieser Welt. Sein Lieblingsfressen besteht aus Abenteurern, aber sein uners%attlicher Appetit ist von seiner Furcht vor Licht gem%a%sigt Kein Greuel ist je bei Tageslicht gesehen worden, und nur wenige haben seine f%urchterlichen Krallen %uberlebt, um von dem grauenhaften Wesen zu erz%ahlen."
+?CCL3:	EQUAL?	PRSA,V?FIND \?CCL5
+	PRINTR	"Hier ist kein Greuel, aber ich bin sicher, das mindestens eines hier in der N%ahe im Dunkeln auf der Lauer liegt. Es w%are schon klug, auf die Lichtquelle zu achten."
+?CCL5:	EQUAL?	PRSA,V?LISTEN \FALSE
+	PRINTR	"Es gibt keinen Ton von sich, aber es liegt immer in der N%ahe im Dunkeln."
+
+
+	.FUNCT	CRETIN-FCN:ANY:0:0,?TMP1
+	EQUAL?	PRSA,V?TELL \?CCL3
+	SET	'P-CONT,FALSE-VALUE
+	SET	'QUOTE-FLAG,FALSE-VALUE
+	PRINTR	"Selbstgespr%ache deuten auf einen bevorstehenden Nervenzusammenbruch hin."
+?CCL3:	EQUAL?	PRSA,V?GIVE \?CCL5
+	EQUAL?	PRSI,ME \?CCL5
+	ICALL	PERFORM,V?TAKE,PRSO
+	RTRUE	
+?CCL5:	EQUAL?	PRSA,V?ALARM \?CCL9
+	PRINTR	"Du bist schon hellwach!"
+?CCL9:	EQUAL?	PRSA,V?EAT \?CCL11
+	PRINTR	"Selbst-Kanibalismus ist nicht die L%osung."
+?CCL11:	EQUAL?	PRSA,V?MUNG,V?ATTACK \?CCL13
+	ZERO?	PRSI /?CCL16
+	FSET?	PRSI,WEAPONBIT \?CCL16
+	CALL2	JIGS-UP,STR?197
+	RSTACK	
+?CCL16:	PRINTR	"Selbstmord ist nicht die L%osung."
+?CCL13:	EQUAL?	PRSA,V?THROW \?CCL20
+	EQUAL?	PRSO,ME \FALSE
+	PRINTR	"Warum l%aufst du nicht wie normale Menschen?"
+?CCL20:	EQUAL?	PRSA,V?TAKE \?CCL25
+	PRINTR	"Ach, wie romantisch!"
+?CCL25:	EQUAL?	PRSA,V?EXAMINE \FALSE
+	LOC	MIRROR-1 >?TMP1
+	LOC	MIRROR-2
+	EQUAL?	HERE,?TMP1,STACK \?CCL30
+	PRINTR	"Dein Spiegelbild sieht m%ude aus."
+?CCL30:	PRINTR	"Das ist schwierig, au%ser wenn deine Augen rausnehmbar sind."
+
+
+	.FUNCT	PATH-OBJECT:ANY:0:0
+	EQUAL?	PRSA,V?FOLLOW,V?TAKE,V?FIND \?CCL3
+	PRINTR	"Du mu%st eine Richtung angeben."
+?CCL3:	EQUAL?	PRSA,V?DIG \FALSE
+	ICALL	PERFORM,V?DIG,GROUND
+	RTRUE	
+
+
+	.FUNCT	ZORKMID-FUNCTION:ANY:0:0
+	EQUAL?	PRSA,V?EXAMINE \?CCL3
+	PRINTR	"Zorkknete ist die W%ahrung des Gro%sen Unterweltreiches."
+?CCL3:	EQUAL?	PRSA,V?FIND \FALSE
+	PRINTR	"Man findet Zorkknete am besten, indem man rausgeht, und sie sucht."
+
+
+	.FUNCT	INIT-STATUS-LINE:ANY:0:0
+	GETB	0,30 >HOST
+	GETB	0,38 >CWIDTH
+	GET	0,17
+	DIV	STACK,CWIDTH >WIDTH
+	LESS?	WIDTH,38 \?CND1
+	PRINTI	"[Screen too narrow.]"
+	CRLF	
+	QUIT	
+?CND1:	GETB	0,39 >CHEIGHT
+	SET	'OHERE,FALSE-VALUE
+	SET	'OLD-LEN,0
+	SPLIT	1
+	SCREEN	S-WINDOW
+	HLIGHT	H-INVERSE
+	ICALL	DO-CURSET,1,1
+	ICALL2	PRINT-SPACES,WIDTH
+	GRTR?	WIDTH,75 \?CND3
+	ICALL	DO-CURSET,1,48
+	PRINTI	"Spielstand:"
+	ICALL	DO-CURSET,1,66
+	PRINTI	"Z%ugen:"
+?CND3:	HLIGHT	H-NORMAL
+	SCREEN	S-TEXT
+	RTRUE	
+
+
+	.FUNCT	UPDATE-STATUS-LINE:ANY:0:0
+	SCREEN	S-WINDOW
+	HLIGHT	H-NORMAL
+	HLIGHT	H-INVERSE
+	EQUAL?	HERE,OHERE /?CND1
+	SET	'OHERE,HERE
+	DIROUT	D-TABLE-ON,SL-TABLE
+	ICALL1	SAY-HERE
+	DIROUT	D-TABLE-OFF
+	ICALL	DO-CURSET,1,2
+	ICALL2	PRINT-SPACES,OLD-LEN
+	GET	SL-TABLE,0 >OLD-LEN
+	ICALL	DO-CURSET,1,2
+	ICALL1	SAY-HERE
+?CND1:	GRTR?	WIDTH,78 \?CCL5
+	ICALL	DO-CURSET,1,60
+	PRINTN	SCORE
+	PRINTC	32
+	ICALL	DO-CURSET,1,73
+	PRINTN	MOVES
+	JUMP	?CND3
+?CCL5:	DIROUT	D-TABLE-ON,SL-TABLE
+	PRINTN	SCORE
+	PRINTC	47
+	PRINTN	MOVES
+	DIROUT	D-TABLE-OFF
+	GET	SL-TABLE,0
+	ADD	STACK,2
+	SUB	WIDTH,STACK
+	ICALL	DO-CURSET,1,STACK
+	PRINTC	32
+	PRINTN	SCORE
+	PRINTC	47
+	PRINTN	MOVES
+?CND3:	HLIGHT	H-NORMAL
+	SCREEN	S-TEXT
+	RTRUE	
+
+
+	.FUNCT	PRINT-SPACES:ANY:1:1,N
+?PRG1:	DLESS?	'N,0 /TRUE
+	PRINTC	32
+	JUMP	?PRG1
+
+
+	.FUNCT	SAY-HERE:ANY:0:0
+	ZERO?	LIT? \?CCL3
+	PRINTI	"Dunkelheit"
+	RTRUE	
+?CCL3:	ICALL	DPRINT,HERE,FALSE-VALUE
+	GRTR?	WIDTH,75 \TRUE
+	IN?	ADVENTURER,HERE /TRUE
+	PRINTI	", in "
+	LOC	ADVENTURER
+	ICALL2	DER-DAT-PRINT,STACK
+	RTRUE	
+
+	.ENDI

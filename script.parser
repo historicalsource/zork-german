@@ -1,0 +1,74 @@
+(NOTE: IF YOU TYPE NOTHING, AND JUST HIT RETURN)
+"I beg your pardon?"
+
+(NOTE: IF YOU TYPE A PERIOD AND THEN A RETURN WITH NO WORDS)
+"I can't help your clumsiness."
+
+(NOTE: IF YOU TYPE >OOPS SOMETHING AND THE SOMETHING WAS IN A QUOTE)
+"Sorry, you can't correct mistakes in quoted text."
+
+(NOTE: IF YOU TYPE ">OOPS WORD1 WORD2")
+"Warning: only the first word after OOPS is used."
+
+(NOTE: IF YOU TYPE "OOPS" AFTER YOU DIDN'T MISSPELL SOMETHING)
+"There was no word to replace!"
+
+(NOTE: IF YOU TYPE "OOPS" AFTER AN INCOMPLETE INPUT GAME)  
+"It's difficult to repeat fragments."
+
+(NOTE: IF YOU TYPE "AGAIN" AFTER A BAD SENTENCE INPUT)
+"That would just repeat a mistake."
+
+
+"That sentence was not understood."
+
+
+"There were too many nouns in that sentence."
+
+
+"Please consult your manual for the correct way to talk to other people or creatures."
+
+>LOOK AT THING
+"The word is not in the story's vocabulary of understanding."
+
+>LOOK AT THE DIG (NOTE: DIG IS RECOGNIZED ONLY AS A VERB)
+"You used the word "dig" in a way that I don't understand."
+
+>DOG THE TROLL
+"There was no verb in that sentence!"
+
+
+"That sentence isn't recognized by the story."
+
+>WHO IS TROLL
+"That question can't be answered."
+
+>TROLL, LOOK AT THE BUTTON
+"""I don't understand! What are you referring to?"""
+
+>LOOK AT THE RED
+"There seems to be a noun missing in that sentence!"
+
+"It's too dark to see!"
+
+>DROP SWORD
+"You don't have that!"
+
+"You don't have the SWORD."
+
+>READ THE LEAFLET
+(taking the leaflet first)
+
+The leaflet says... ect.
+
+
+>LOOK AT THE RED
+It's not clear what you're referring to."
+
+
+>LOOK AT THE SWORD AND LAMP
+You can't use multiple direct objects with "look."
+
+
+>HIT THE TROLL WITH SWORD AND KNIFE
+You can't use multiple indirect objects with "hit."

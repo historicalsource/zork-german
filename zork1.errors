@@ -1,0 +1,50 @@
+zap of 6/13/89 15:17.
+Release: 15
+     0  Inserting zork1.zap.
+German characters; escape is %.
+    64  Inserting zork1freq.xzap.
+   698  Inserting zork1dat.zap.
+ 28973  Inserting zork1pur.zap.
+ 30515  Inserting tells.zap.
+ 31238  Inserting dungeon.zap.
+ 31552  Inserting globals.zap.
+ 33121  Inserting clock.zap.
+"clock.zap", line 3: 	.FUNCT	QUEUE:ANY:2:2,RTN:ATOM,TICK:FIX,CINT
+   -- unknown type "ATOM"
+"clock.zap", line 9: 	.FUNCT	INT:ANY:1:5,RTN:ATOM,DEMON:ATOM,E,C,INT
+   -- unknown type "ATOM"
+   -- unknown type "ATOM"
+"clock.zap", line 26: 	.FUNCT	CLOCKER:ANY:0:0,C,E,TICK:FIX,FLG:ATOM
+   -- unknown type "ATOM"
+ 33279  Inserting loop.zap.
+ 34400  Inserting parser.zap.
+ 41444  Inserting verbs.zap.
+"verbs.zap", line 2191: 	.FUNCT	ITAKE:ANY:0:1,VB:ATOM,CNT:FIX,OBJ:OBJECT,?TMP1
+   -- unknown type "ATOM"
+ 54356  Inserting actions.zap.
+"actions.zap", line 3816: 	.FUNCT	V-SCORE:ANY:0:1,ASK?:ATOM
+   -- unknown type "ATOM"
+ 91444  Inserting hints.zap.
+ 92335  Inserting zork1str.zap.
+Unreferenced global: THIEF-MELEE
+Unreferenced string: STR?701
+Unreferenced global: HOST
+Unreferenced function: UNTIE-FROM
+Unreferenced global: DEF3C
+Unreferenced global: HINT-WARNING
+Unreferenced table: STRBEG
+Unreferenced global: DEF2A
+Unreferenced global: TROLL-MELEE
+Unreferenced function: PUT-UP-CHAPTERS
+Unreferenced string: STR?435
+Unreferenced global: CYCLOPS-MELEE
+No segments defined.
+
+Lexical buffer space allocated:  608152
+Max lexical space allocated at any one time: 48012
+Object buffer space allocated:  144000
+Source bytes read:  561212
+Object bytes written:  131072
+Preload: 28973; 260 objects; 170 globals; 1074 words.
+Used 1:57
+Elapsed time 2:30

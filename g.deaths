@@ -1,0 +1,322 @@
+
+*** BELOW ARE THE SEVERAL WAYS TO DIE IN ZORK I ***
+
+>BRUSH TEETH WITH GUNK
+"Well, you seem to have been brushing your teeth with some sort of glue. As a result, your mouth gets glued together (with your nose) and you die of respiratory failure."
+
+
+>BURN LEAVES
+"The leaves burn, and so do you."
+
+
+>KILL THIEF WITH KNIFE
+"As the knife approaches its victim, your mind is submerged by an
+overmastering will. Slowly, your hand turns, until the rusty blade
+is an inch from your neck. The knife seems to sing as it savagely
+slits your throat."strange phrase in English????
+
+
+>JUMP OF CLIFF
+"It's a shame the leap you just attempted has done you in."
+
+
+(NOTE: IN THE BOAT)
+"You are lifted up by the rising river! You try to swim, but the
+currents are too strong. You come closer, closer to the awesome
+structure of Flood Control Dam #3. The dam beckons to you.
+The roar of the water nearly deafens you, but you remain conscious
+as you tumble over the dam toward your certain doom among the rocks at its base."
+
+
+
+"Unfortuneately, you have drowned yourself."
+
+
+"The rising water carries the boat over the dam, down the river, and over the falls. Tsk, tsk."
+
+>LOOK AT CYCLOPS
+"The cyclops, tired of all of your games and trickery, grabs you firmly.
+As he licks his chops, he says \"Mmm. Just like Mom used to make 'em.\"
+\"
+It's nice to be appreciated."
+
+
+>BURN THE BODIES (IN HADES)
+"The voice of the guardian of the dungeon booms out from the darkness, \"Your disrespect costs you your life!\" and places your head on a sharp pole."
+
+
+
+>BURN THE BLACK BOOK
+"A booming voice says \"Wrong, cretin!\" and you notice that you have
+turned into a pile of dust. How, I can't imagine."
+
+
+ 
+>WALK NORTH (INTO THE GAS ROOM)
+
+** BOOOOOOOOOOOM **
+
+
+(NOTE: THE RAINBOW GIVES WAY)
+"The structural integrity of the rainbow is severely compromised, leaving you hanging in midair, supported only by water vapor. Bye."
+
+
+>PUT MYSELF IN RIVER
+"You splash around for a while, fighting the current, then you drown."
+
+
+...
+"Unfortunately, the magic boat doesn't provide protection from
+the rocks and boulders one meets at the bottom of waterfalls.
+Including this one."
+
+
+THE BOAT DEFLATES...
+"Another pathetic sputter, this time from you, heralds your drowning."
+
+
+THE BOAT DEFLATES...
+"In other words, fighting the fierce currents of the Frigid River. You
+manage to hold your own for a bit, but then you are carried over a
+waterfall and into some nasty rocks. Ouch!"
+
+
+(NOTE: IF YOU DIG TOO DEEP)
+"The hole collapses, smothering you."
+
+
+DITTO
+"That was just a bit too far down."
+
+
+
+FIGHTING A VILLAIN...
+"It appears that that last blow was too much for you. I'm afraid you
+are dead."
+
+
+DITTO
+"Well, you really did it that time. Is suicide painless?"
+
+
+
+>THROW THING AT ME
+"The THING hits you squarely in the head. Normally, this wouldn't do much damage, but by incredible mischance, you fall over backwards trying to duck, and break your neck, justice being swift and merciful in the Great Underground Empire." copy from text.
+
+
+>WALK NORTH
+"Oh, no! You have walked into a den of hungry grues and it's dinner time!" copy
+
+DITTO
+"Oh, no! You have walked into the slavering fangs of a lurking grue!"copy
+
+>ATTACK MYSELF
+"If you insist.... Poof, you're dead!"
+
+
+
+*** BELOW ARE SOME MORE MISCELLANEOUS TEXT STRINGS ***
+
+>TAKE THE SWORD AND THE LAMP
+"Those things aren't here!"
+
+
+>LOOK AT THE THING
+"You can't see that here!" (RENATA: does the word 'that' depend on gender?)  no
+
+>PERSON, TAKE THE SWORD 
+"The PERSON seems confused. ""I don't see that here!""
+"Der PERSON scheint verwirrt""Ich sehe das hier nicht!""
+
+>CLIMB STAIRS
+"You should say whether you want to go up or down."
+
+
+>SAILOR, GO AWAY
+"You can't talk to the sailor that way."
+
+
+>LOOK AT SAILOR
+"There is no sailor to be seen."
+
+
+>HELLO, SAILOR
+"You seem to be repeating yourself."
+
+
+>HELLO, SAILOR
+"I think that phrase is getting a bit worn out."
+
+
+>HELLO, SAILOR
+"Nothing happens here."
+
+
+>DIG IN GROUND
+"The ground is too hard for digging here."
+
+
+>LOOK AT GRUE
+"There is no grue here, but I'm sure there is at least one lurking in the darkness nearby. It would be wise keep an eye on your light source!"
+
+
+>LISTEN TO GRUE
+"It makes no sound but is always lurking in the darkness nearby."
+
+
+>TALK TO MYSELF
+"Talking to yourself is said to be a sign of impending mental collapse."copy
+
+>WAKE MYSELF UP
+"You're already wide awake!"
+
+
+>EAT MYSELF
+"Auto-cannibalism is not the answer."
+
+
+>KILL MYSELF
+"Suicide is not the answer."
+
+
+>THROW MYSELF AT THE TROLL
+"Why don't you just walk like normal people?"
+
+
+>TAKE ME
+"How romantic!"
+
+
+>LOOK AT MYSELF
+"Your image in the mirror looks tired."
+
+
+>LOOK AT MYSELF
+"That's difficult unless your eyes are prehensile."
+
+
+>WHAT IS A ZORKMID
+"The zorkmid is the unit of currency of the Great Underground Empire."
+
+
+>FIND ZORKMID
+"The best way to find zorkmids is to go out and look for them."
+
+
+*** BELOW ARE RESPONSES GIVEN WHEN YOU INPUT IS UNCLEAR ***
+(GENERAL NOTES: IN THE GAME, IF YOU MISSPELL A WORD, THE GAME WILL TELL YOU
+IT'S DOESN'T KNOW THE WORD. BUT THEN YOU MAY TYPE >OOPS "WORD", SPELLING IT CORRECTLY, SO YOU WON'T HAVE TO RETYPE THE WHOLE INPUT.)
+
+
+(NOTE: IF YOU TYPE NOTHING, AND JUST HIT RETURN)
+"I beg your pardon?"
+
+
+(NOTE: IF YOU TYPE A PERIOD AND THEN A RETURN WITH NO WORDS)
+"I can't help your clumsiness."
+ 
+
+(NOTE: IF YOU TYPE >OOPS SOMETHING AND THE SOMETHING WAS IN A QUOTE)
+"Sorry, you can't correct mistakes in quoted text."
+
+
+(NOTE: IF YOU TYPE ">OOPS WORD1 WORD2")
+"Warning: only the first word after OOPS is used."
+
+
+(NOTE: IF YOU TYPE "OOPS" AFTER YOU DIDN'T MISSPELL SOMETHING)
+"There was no word to replace!"
+
+
+(NOTE: IF YOU TYPE "OOPS" AFTER AN INCOMPLETE INPUT GAME)  
+"It's difficult to repeat fragments."
+
+
+(NOTE: IF YOU TYPE "AGAIN" AFTER A BAD SENTENCE INPUT)
+"That would just repeat a mistake."
+"Das wuerde den Fehler nur wiederholen."
+
+
+"That sentence was not understood."
+
+
+
+"There were too many nouns in that sentence."
+
+
+
+"Please consult your manual for the correct way to talk to other people or creatures."
+
+The word is not in the story's vocabulary of understanding."
+
+
+>LOOK AT THE DIG (NOTE: DIG IS RECOGNIZED ONLY AS A VERB)
+"You used the word "dig" in a way that I don't understand."
+"Du hast das Wort "graben" so gebraucht, dass ich es nicht verstehen kann."
+
+>DOG THE TROLL
+"There was no verb in that sentence!"
+
+
+
+"That sentence isn't recognized by the story."
+
+
+>WHO IS TROLL
+"That question can't be answered."
+
+
+>TROLL, LOOK AT THE BUTTON
+"I don't understand! What are you referring to?"
+
+
+>LOOK AT THE RED
+"There seems to be a noun missing in that sentence!"
+
+
+"It's too dark to see!"
+
+
+>DROP SWORD
+"You don't have that!"
+
+
+"You don't have the SWORD."
+
+
+>READ THE LEAFLET
+(taking the leaflet first)
+
+
+The leaflet says... ect.
+"Auf dem Blatt steht.......etc. " We might have to talk about the syntax here??? Jeff.
+
+
+>LOOK AT THE RED
+It's not clear what you're referring to."
+
+
+
+>LOOK AT THE SWORD AND LAMP
+You can't use multiple direct objects with "look."
+"Man kann mehrere Akkusative nicht mit "ansehen
+I need more feedback on that, R. Yes, Hildegunde also!
+
+
+>HIT THE TROLL WITH SWORD AND KNIFE
+You can't use multiple indirect objects with "hit."
+need mor feedback.
+
+>LOOK
+"It's too dark to see."
+
+
+>TAKE THE SWORD AND LAMP
+Sword: Taken.
+The other object that you mentioned is not here.
+"Schwert: genommen."
+"Das andere Ding, von dem du sprichst, ist nicht hier."
+
+>TAKE ALL
+"There's nothing here you can take."
+
